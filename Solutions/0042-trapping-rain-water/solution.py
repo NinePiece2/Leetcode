@@ -1,17 +1,18 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
         stack = []
-        total = 0
+        water = 0
 
         for i, h in enumerate(height):
-            while stack and height[i] > height[stack[-1]]:
+            while stack and h >= height[stack[-1]]:
                 bottom = stack.pop()
                 if not stack:
                     break
                 left = stack[-1]
                 width = i - left - 1
-                boundedHeight = min(height[i], height[left]) - height[bottom]
-                total += width*boundedHeight
+
+                height_check = min(height[left], h) - height[bottom]
+                water += width * height_check
             stack.append(i)
         
-        return total
+        return water
