@@ -74,7 +74,7 @@ jobs:
         run: |
           cp Style/overrides.css docs/
           echo "leetcode.romitsagu.com" > ./docs/CNAME
-          cp Site_README.md docs/
+          cp Site_README.md docs/README.md
 
       - name: Build site
         run: mkdocs build --clean --site-dir site
