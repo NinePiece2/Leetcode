@@ -30,8 +30,18 @@ theme:
         name: Switch to dark mode
   features:
     - toggle.dark_mode
+    - content.code.select
+    - announce.dismiss
     - content.code.copy
+    - content.action.edit
     - content.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - toc.follow
 
 extra_css:
   - overrides.css
@@ -44,8 +54,7 @@ markdown_extensions:
   - admonition
   - attr_list
   - md_in_html
-  - pymdownx.superfences:
-      linenums: true
+  - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.critic
@@ -53,6 +62,8 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - toc:
+      toc_depth: 0
 
 nav:
   - Overview: README.md

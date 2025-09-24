@@ -120,7 +120,7 @@ for prob_folder in sorted(os.listdir(SRC_DIR)):
 
             tab_content = (
                 f'=== "{lang_display}"\n\n'
-                f'\t```{lang_block}\n{indented_code}\n\t```\n'
+                f'\t```{lang_block} linenums="1"\n{indented_code}\n\t```\n'
             )
             if stats_block:
                 tab_content += f"\n{stats_block}\n"
