@@ -34,12 +34,14 @@ theme:
     - announce.dismiss
     - content.code.copy
     - content.tabs
-    # - navigation.sections
-    # - navigation.expand
+    - navigation.sections
     - navigation.indexes
     - navigation.top
     - search.highlight
     - search.suggest
+    - search.share
+    - toc.follow
+    - toc.integrate
 
 extra:
   generator: false
@@ -55,6 +57,7 @@ extra_css:
 plugins:
   - search
   - awesome-pages
+  - tags
 
 markdown_extensions:
   - admonition
@@ -68,8 +71,6 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
-  - toc:
-      toc_depth: 0
 
 nav:
   - Overview: README.md
