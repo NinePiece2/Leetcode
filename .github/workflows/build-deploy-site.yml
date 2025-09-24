@@ -9,7 +9,7 @@ on:
       - "Scripts/**"
       - "mkdocs.yml"
       - "Style/**"
-      - README.md
+      - Site_README.md
   workflow_dispatch:
   workflow_run:
     workflows: ["Update LeetCode Grid"]
@@ -50,7 +50,7 @@ jobs:
             docs
             mkdocs.yml
             Style
-            README.md
+            Site_README.md
 
   build-site:
     runs-on: ubuntu-latest
