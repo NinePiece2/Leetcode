@@ -33,9 +33,13 @@ def fetch_difficulty_from_leetcode(slug: str) -> str:
         resp = requests.post(url, json=query, timeout=10)
         resp.raise_for_status()
         data = resp.json()
-        return data.get("data", {}).get("question", {}).get("difficulty", "")
+        question = data.get("data", {}).get("question")
+        if not question:
+            print(f"⚠️ No question data returned for slug: {slug}")
+            return ""
+        return question.get("difficulty", "")
     except Exception as e:
-        print(f"Failed to fetch difficulty for {slug}: {e}")
+        print(f"❌ Failed to fetch difficulty for {slug}: {e}")
         return ""
 
 for prob_folder in sorted(os.listdir(SRC_DIR)):
