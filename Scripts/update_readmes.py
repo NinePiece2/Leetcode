@@ -42,6 +42,18 @@ def fetch_difficulty_from_leetcode(slug: str) -> str:
         print(f"❌ Failed to fetch difficulty for {slug}: {e}")
         return ""
 
+def difficulty_badge(difficulty: str) -> str:
+    """Return a colored HTML badge for difficulty."""
+    colors = {
+        "Easy": "#4CAF50",      # green
+        "Medium": "#FFC107",    # amber
+        "Hard": "#F44336",      # red
+    }
+    color = colors.get(difficulty, "#9E9E9E")  # default gray
+    if not difficulty:
+        return ""
+    return f'<span style="background-color:{color}; color:white; padding:2px 8px; border-radius:6px; font-size:0.85em;">{difficulty}</span>'
+
 for prob_folder in sorted(os.listdir(SRC_DIR)):
     prob_path = Path(SRC_DIR) / prob_folder
     if not prob_path.is_dir():
@@ -62,6 +74,7 @@ for prob_folder in sorted(os.listdir(SRC_DIR)):
 
     # Always fetch difficulty from LeetCode
     difficulty = fetch_difficulty_from_leetcode(title_slug)
+    badge_html = difficulty_badge(difficulty)
 
     # Prepare a single tabbed solution block with commit submission data
     tab_lines = []
@@ -115,9 +128,7 @@ for prob_folder in sorted(os.listdir(SRC_DIR)):
             tab_lines.append(tab_content)
 
     # Build sections in correct order
-    problem_section = f"## Problem - Title: {title}\n"
-    if difficulty:
-        problem_section += f"Difficulty: {difficulty}\n\n"
+    problem_section = f"## Problem - {title} {badge_html}\n\n"
 
     solutions_section = "## Solutions\n\n" + "\n".join(tab_lines)
 
