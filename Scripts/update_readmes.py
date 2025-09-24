@@ -128,7 +128,7 @@ for prob_folder in sorted(os.listdir(SRC_DIR)):
             tab_lines.append(tab_content)
 
     # Build sections in correct order
-    problem_section = f"## Problem - {title} {badge_html}\n\n"
+    problem_section = f"## Problem - {title} \n{badge_html}\n\n"
 
     solutions_section = "## Solutions\n\n" + "\n".join(tab_lines)
 
