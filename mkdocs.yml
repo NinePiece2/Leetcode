@@ -60,7 +60,7 @@ plugins:
   - search
   - awesome-pages
   - tags
-  - optimize
+  # - optimize
   - glightbox:
       touchNavigation: true
       loop: false
