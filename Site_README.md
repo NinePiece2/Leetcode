@@ -9,8 +9,11 @@
   - [Table of my Solutions](#table-of-my-solutions)
 
 <br/>
-
-[![Open App](https://img.shields.io/badge/Site%20Link-Click%20Here-blue?style=for-the-badge&logo=vercel)](https://leetcode.romitsagu.com/)
+<p align="center">
+  <a href="https://leetcode.romitsagu.com/">
+    <img src="https://img.shields.io/badge/Site%20Link-Click%20Here-blue?style=for-the-badge&logo=vercel" alt="Open App"/>
+  </a>
+</p>
 
 ## Description
 
