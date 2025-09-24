@@ -11,6 +11,14 @@ on:
       - "Style/**"
       - README.md
   workflow_dispatch:
+  workflow_run:
+    workflows: ["Update LeetCode Grid"]
+    types:
+      - completed
+
+concurrency:
+  group: ${{ github.workflow }} - ${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   update-readmes:
