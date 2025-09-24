@@ -43,8 +43,19 @@ theme:
     - search.suggest
     - toc.follow
 
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://GitHub.com/NinePiece2
+    - icon: fontawesome/brands/linkedin
+      link: https://Linkedin.com/in/romit-sagu
+
 extra_css:
   - overrides.css
+
+extra_javascript:
+  - custom.js
 
 plugins:
   - search

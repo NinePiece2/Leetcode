@@ -63,6 +63,7 @@ jobs:
       - name: Prepare docs folder
         run: |
           cp Style/overrides.css docs/
+          cp Style/custom.js docs/
           echo "leetcode.romitsagu.com" > ./docs/CNAME
 
       - name: Build site
