@@ -4,6 +4,7 @@ from pathlib import Path
 import shutil
 import yaml
 import subprocess
+import requests
 
 SRC_DIR = "Solutions"
 DST_DIR = "docs/solutions"
@@ -14,6 +15,28 @@ if Path(DST_DIR).exists():
 os.makedirs(DST_DIR, exist_ok=True)
 
 nav_entries = []
+
+def fetch_difficulty_from_leetcode(slug: str) -> str:
+    """Fetch difficulty from LeetCode GraphQL API using problem slug."""
+    url = "https://leetcode.com/graphql"
+    query = {
+        "query": """
+        query getQuestionDetail($titleSlug: String!) {
+          question(titleSlug: $titleSlug) {
+            difficulty
+          }
+        }
+        """,
+        "variables": {"titleSlug": slug},
+    }
+    try:
+        resp = requests.post(url, json=query, timeout=10)
+        resp.raise_for_status()
+        data = resp.json()
+        return data.get("data", {}).get("question", {}).get("difficulty", "")
+    except Exception as e:
+        print(f"Failed to fetch difficulty for {slug}: {e}")
+        return ""
 
 for prob_folder in sorted(os.listdir(SRC_DIR)):
     prob_path = Path(SRC_DIR) / prob_folder
@@ -29,13 +52,12 @@ for prob_folder in sorted(os.listdir(SRC_DIR)):
 
     readme_path = prob_path / "README.md"
     readme_content = ""
-    difficulty = ""  # placeholder for difficulty
     if readme_path.exists():
         with open(readme_path, "r") as f:
             readme_content = f.read().strip()
-        diff_match = re.search(r'Difficulty:\s*(Easy|Medium|Hard)', readme_content, re.IGNORECASE)
-        if diff_match:
-            difficulty = diff_match.group(1).capitalize()
+
+    # Always fetch difficulty from LeetCode
+    difficulty = fetch_difficulty_from_leetcode(title_slug)
 
     # Prepare a single tabbed solution block with commit submission data
     tab_lines = []
@@ -89,7 +111,7 @@ for prob_folder in sorted(os.listdir(SRC_DIR)):
             tab_lines.append(tab_content)
 
     # Build sections in correct order
-    problem_section = f"## Problem\n\nTitle: {title}\n"
+    problem_section = f"## Problem - Title: {title}\n"
     if difficulty:
         problem_section += f"Difficulty: {difficulty}\n\n"
 
