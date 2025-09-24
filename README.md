@@ -113,7 +113,9 @@
 | 315. Count Of Smaller Numbers After Self | [🔗](https://leetcode.romitsagu.com/solutions/315/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set |
 | 316. Remove Duplicate Letters | [🔗](https://leetcode.romitsagu.com/solutions/316/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Stack, Greedy, Monotonic Stack |
 | 326. Power Of Three | [🔗](https://leetcode.romitsagu.com/solutions/326/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Recursion |
+| 327. Count Of Range Sum | [🔗](https://leetcode.romitsagu.com/solutions/327/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set |
 | 342. Power Of Four | [🔗](https://leetcode.romitsagu.com/solutions/342/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Bit Manipulation, Recursion |
+| 349. Intersection Of Two Arrays | [🔗](https://leetcode.romitsagu.com/solutions/349/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, Two Pointers, Binary Search, Sorting |
 | 350. Intersection Of Two Arrays II | [🔗](https://leetcode.romitsagu.com/solutions/350/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, Two Pointers, Binary Search, Sorting |
 | 354. Russian Doll Envelopes | [🔗](https://leetcode.romitsagu.com/solutions/354/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Dynamic Programming, Sorting |
 | 498. Diagonal Traverse | [🔗](https://leetcode.romitsagu.com/solutions/498/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Matrix, Simulation |
