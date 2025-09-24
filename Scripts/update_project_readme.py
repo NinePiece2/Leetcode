@@ -6,8 +6,10 @@ import requests
 SRC_DIR = "Solutions"
 README_PATH = Path("README.md")
 
+# URL to a small logo to use for the solution link
+SOLUTION_LOGO_URL = "https://img.icons8.com/ios-filled/24/link.png"  # Example link icon
+
 def fetch_difficulty_and_tags(slug: str):
-    """Fetch difficulty and tags from LeetCode GraphQL API."""
     url = "https://leetcode.com/graphql"
     query = {
         "query": """
@@ -43,9 +45,9 @@ def difficulty_badge(difficulty: str) -> str:
         return ""
     return f'<span style="background-color:#ffffff1a; color:{color}; padding:2px 6px; border-radius:6px;">{difficulty}</span>'
 
-def generate_table_rows():
+def generate_table_rows_html():
     rows = []
-    for folder in sorted(os.listdir(SRC_DIR)):
+    for idx, folder in enumerate(sorted(os.listdir(SRC_DIR))):
         folder_path = Path(SRC_DIR) / folder
         if not folder_path.is_dir():
             continue
@@ -59,41 +61,56 @@ def generate_table_rows():
         difficulty, tags = fetch_difficulty_and_tags(slug)
         diff_badge = difficulty_badge(difficulty)
         tags_str = ', '.join(tags)
-        solution_link = f"./{SRC_DIR}/{folder}/README.md"
+        solution_link = f"https://leetcode.romitsagu.com/solutions/{number}"
 
-        rows.append(f"| {title} | [Link]({solution_link}) | {diff_badge} | {tags_str} |")
-    return "\n    ".join(rows)  # indent for Markdown inside <details>
+        # Alternate row colors
+        row_bg = "#f9f9f9" if idx % 2 == 0 else "#ffffff"
 
-def update_readme_table():
+        rows.append(
+            f"<tr style='background-color:{row_bg};'>"
+            f"<td>{title}</td>"
+            f"<td><a href='{solution_link}'><img src='{SOLUTION_LOGO_URL}' alt='link' width='20' /></a></td>"
+            f"<td>{diff_badge}</td>"
+            f"<td>{tags_str}</td>"
+            f"</tr>"
+        )
+    return "\n".join(rows)
+
+def update_readme_table_html():
     if not README_PATH.exists():
         raise FileNotFoundError(f"{README_PATH} does not exist")
 
     readme_text = README_PATH.read_text()
 
-    # Match the <details> block
     pattern = re.compile(
-        r'(<details open>\s*<summary>My Solutions</summary>\s*\n\n\s*\| Problem \| Solution \| Difficulty \| Tags \|.*?\n\s*\|[-| ]+\|\n)(.*?)(\n</details>)',
+        r'(<details open>\s*<summary>My Solutions</summary>\s*\n)(.*?)(\n</details>)',
         re.DOTALL
     )
 
-    new_rows = generate_table_rows()
+    table_rows = generate_table_rows_html()
+    new_table_html = (
+        "<details open>\n"
+        "  <summary>My Solutions</summary>\n\n"
+        "  <table>\n"
+        "    <thead>\n"
+        "      <tr><th>Problem</th><th>Solution</th><th>Difficulty</th><th>Tags</th></tr>\n"
+        "    </thead>\n"
+        "    <tbody>\n"
+        f"{table_rows}\n"
+        "    </tbody>\n"
+        "  </table>\n"
+        "</details>"
+    )
+
     if pattern.search(readme_text):
-        updated_text = pattern.sub(r"\1    " + new_rows + r"\3", readme_text)
-        print("Updated solutions table rows.")
+        updated_text = pattern.sub(new_table_html, readme_text)
+        print("Updated solutions HTML table.")
     else:
-        # If block does not exist, add it at the end
-        new_block = (
-            "<details open>\n"
-            "    <summary>My Solutions</summary>\n\n"
-            "    | Problem | Solution | Difficulty | Tags |\n"
-            "    |---------|----------|------------|------|\n"
-            "    " + new_rows + "\n</details>"
-        )
-        updated_text = readme_text.strip() + "\n\n" + new_block
-        print("Added new solutions table.")
+        updated_text = readme_text.strip() + "\n\n" + new_table_html
+        print("Added new solutions HTML table.")
 
     README_PATH.write_text(updated_text)
     print("README.md updated successfully.")
 
 if __name__ == "__main__":
-    update_readme_table()
+    update_readme_table_html()
