@@ -16,6 +16,17 @@ os.makedirs(DST_DIR, exist_ok=True)
 
 nav_entries = []
 
+ROMAN_NUMERALS = {
+    "i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x",
+    "xi", "xii", "xiii", "xiv", "xv", "xvi", "xvii", "xviii", "xix", "xx"
+}
+
+def smart_capitalize(word: str) -> str:
+    """Capitalize a word unless it's a Roman numeral in lowercase."""
+    if word.lower() in ROMAN_NUMERALS:
+        return word.upper()
+    return word.capitalize()
+
 def fetch_question_details(slug: str):
     """Fetch difficulty and tags from LeetCode GraphQL API."""
     url = "https://leetcode.com/graphql"
@@ -73,7 +84,7 @@ for prob_folder in sorted(os.listdir(SRC_DIR)):
         continue
     number, title_slug = match.groups()
     number = str(int(number))
-    title = ' '.join([w.capitalize() for w in title_slug.split('-')])
+    title = ' '.join([smart_capitalize(w) for w in title_slug.split('-')])
 
     readme_path = prob_path / "README.md"
     readme_content = ""
