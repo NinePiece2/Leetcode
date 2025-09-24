@@ -38,7 +38,6 @@ for prob_folder in sorted(os.listdir(SRC_DIR)):
             difficulty = diff_match.group(1).capitalize()
 
     # Prepare a single tabbed solution block with commit submission data
-    solution_tabs = []
     tab_lines = []
 
     for sol_file in sorted(prob_path.iterdir()):
@@ -58,28 +57,41 @@ for prob_folder in sorted(os.listdir(SRC_DIR)):
             except subprocess.CalledProcessError:
                 submission_info = ""
 
-            # Parse submission info to make it prettier if in format: [LeetCode Sync] Runtime - 0 ms (100.00%), Memory - 19 MB (23.71%)
-            stats = ""
+            # Parse submission info (from "[LeetCode Sync] Runtime - ..., Memory - ...")
+            stats_block = ""
             if submission_info.startswith("[LeetCode Sync]"):
-                stats_match = re.search(r'Runtime\s*-\s*(.*?)\s*\((.*?)\),\s*Memory\s*-\s*(.*?)\s*\((.*?)\)', submission_info)
+                stats_match = re.search(
+                    r'Runtime\s*-\s*(.*?)\s*\((.*?)\),\s*Memory\s*-\s*(.*?)\s*\((.*?)\)',
+                    submission_info
+                )
                 if stats_match:
                     runtime, runtime_pct, memory, memory_pct = stats_match.groups()
-                    stats = f'  * Runtime: {runtime} ({runtime_pct})\n  * Memory: {memory} ({memory_pct})'
+                    stats_block = (
+                        "\n\t**Submission Stats:**\n\n"
+                        f"\t- Runtime: {runtime} ({runtime_pct})\n"
+                        f"\t- Memory: {memory} ({memory_pct})"
+                    )
 
             lang_map = {"js": "JS", "py": "Python3", "cs": "C#", "sql": "SQL"}
             lang_display = lang_map.get(sol_file.suffix.lstrip("."), sol_file.suffix.lstrip(".").capitalize())
             lang_block = sol_file.suffix.lstrip(".")
 
+            # indent code for tab rendering
             indented_code = '\n'.join(['\t' + line if line else '' for line in code.splitlines()])
 
-            tab_lines.append(f'=== "{lang_display}"\n\n\t```{lang_block}\n{indented_code}\n\t```')
-            if stats:
-                tab_lines.append(f'\nSubmission Stats:\n{stats}')
+            tab_content = (
+                f'=== "{lang_display}"\n\n'
+                f'\t```{lang_block}\n{indented_code}\n\t```\n'
+            )
+            if stats_block:
+                tab_content += f"\n{stats_block}\n"
+
+            tab_lines.append(tab_content)
 
     solution_content = f"## Problem\n\nTitle: {title}\n"
     if difficulty:
         solution_content += f"Difficulty: {difficulty}\n\n"
-    solution_content += "## Solutions\n\n" + "\n\n".join(tab_lines)
+    solution_content += "## Solutions\n\n" + "\n".join(tab_lines)
 
     full_md = (readme_content + "\n\n" if readme_content else "") + solution_content
 
