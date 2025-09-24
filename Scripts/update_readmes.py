@@ -50,14 +50,14 @@ def fetch_question_details(slug: str):
 
 def difficulty_badge(difficulty: str) -> str:
     colors = {
-        "Easy": "#00b894",      # green
-        "Medium": "#fdcb6e",    # amber
-        "Hard": "#e17055",      # red
+        "Easy": "#46c6c2",      # green
+        "Medium": "#fac31d",    # amber
+        "Hard": "#f8615c",      # red
     }
     color = colors.get(difficulty, "#9E9E9E")
     if not difficulty:
         return ""
-    return f'<span style="background-color:{color}; color:white; padding:2px 8px; border-radius:6px; font-size:0.85em;">{difficulty}</span>'
+    return f'<span style="background-color:{color}; color:#ffffff1a; padding:2px 8px; border-radius:6px; font-size:0.85em;">{difficulty}</span>'
 
 def tag_badge(tag: str) -> str:
     """Render topic tags as small gray badges."""
