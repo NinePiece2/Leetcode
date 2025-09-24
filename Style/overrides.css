@@ -299,3 +299,9 @@ button:focus {
 .md-typeset li {
   margin-bottom: 0.25rem;
 }
+
+.md-content {
+  max-width: 100% !important;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}

@@ -33,10 +33,9 @@ theme:
     - content.code.select
     - announce.dismiss
     - content.code.copy
-    - content.action.edit
     - content.tabs
-    - navigation.sections
-    - navigation.expand
+    # - navigation.sections
+    # - navigation.expand
     - navigation.indexes
     - navigation.top
     - search.highlight
