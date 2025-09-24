@@ -9,6 +9,7 @@ on:
       - "Scripts/**"
       - "mkdocs.yml"
       - "Style/**"
+      - README.md
   workflow_dispatch:
 
 jobs:
@@ -41,6 +42,7 @@ jobs:
             docs
             mkdocs.yml
             Style
+            README.md
 
   build-site:
     runs-on: ubuntu-latest
@@ -64,6 +66,7 @@ jobs:
         run: |
           cp Style/overrides.css docs/
           echo "leetcode.romitsagu.com" > ./docs/CNAME
+          cp README.md docs/
 
       - name: Build site
         run: mkdocs build --clean --site-dir site

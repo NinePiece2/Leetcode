@@ -71,4 +71,4 @@ markdown_extensions:
   - pymdownx.tilde
 
 nav:
-  - Overview: README.md
+  - Overview: 'README.md'
