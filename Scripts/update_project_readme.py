@@ -26,7 +26,8 @@ def fetch_problem_data(slug: str):
     }
     headers = {
         "Content-Type": "application/json",
-        "User-Agent": "Mozilla/5.0"
+        "User-Agent": "Mozilla/5.0",
+        "Referer": f"https://leetcode.com/problems/{slug}/"
     }
     try:
         resp = requests.post(url, json=query, headers=headers, timeout=10)
