@@ -8,6 +8,17 @@ SITE_README_PATH = Path("Site_README.md")
 GITHUB_README_PATH = Path("README.md")
 LINK_ICON = "🔗"
 
+ROMAN_NUMERALS = {
+    "i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x",
+    "xi", "xii", "xiii", "xiv", "xv", "xvi", "xvii", "xviii", "xix", "xx"
+}
+
+def smart_capitalize(word: str) -> str:
+    """Capitalize a word unless it's a Roman numeral in lowercase."""
+    if word.lower() in ROMAN_NUMERALS:
+        return word.upper()
+    return word.capitalize()
+
 def fetch_question_details(slug: str):
     """Fetch difficulty and tags from LeetCode GraphQL API."""
     url = "https://leetcode.com/graphql"
@@ -111,7 +122,7 @@ def main():
             continue
         folder_number, slug = match.groups()
         folder_number = str(int(folder_number))
-        title = f"{folder_number}. " + " ".join([w.capitalize() for w in slug.split("-")])
+        title = f"{folder_number}. " + " ".join([smart_capitalize(w) for w in slug.split("-")])
 
         difficulty, tags = fetch_question_details(slug)
         problems.append((slug, folder_number, title, difficulty, tags))
