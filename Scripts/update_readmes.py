@@ -1,0 +1,100 @@
+import os
+import re
+from pathlib import Path
+import shutil
+import yaml
+import subprocess
+
+SRC_DIR = "Solutions"
+DST_DIR = "docs/solutions"
+
+# Clean previous docs
+if Path(DST_DIR).exists():
+    shutil.rmtree(DST_DIR)
+os.makedirs(DST_DIR, exist_ok=True)
+
+nav_entries = []
+
+for prob_folder in sorted(os.listdir(SRC_DIR)):
+    prob_path = Path(SRC_DIR) / prob_folder
+    if not prob_path.is_dir():
+        continue
+
+    match = re.match(r'(\d+)-(.+)', prob_folder)
+    if not match:
+        continue
+    number, title_slug = match.groups()
+    number = str(int(number))  # remove leading zeros
+    title = ' '.join([w.capitalize() for w in title_slug.split('-')])
+
+    readme_path = prob_path / "README.md"
+    readme_content = ""
+    difficulty = ""  # placeholder for difficulty
+    if readme_path.exists():
+        with open(readme_path, "r") as f:
+            readme_content = f.read().strip()
+        diff_match = re.search(r'Difficulty:\s*(Easy|Medium|Hard)', readme_content, re.IGNORECASE)
+        if diff_match:
+            difficulty = diff_match.group(1).capitalize()
+
+    # Prepare a single tabbed solution block with commit submission data
+    solution_tabs = []
+    tab_lines = []
+
+    for sol_file in sorted(prob_path.iterdir()):
+        if sol_file.suffix in [".py", ".js", ".cs", ".sql"]:
+            with open(sol_file, "r") as f:
+                code = f.read().rstrip()
+
+            # Get commit info for the file
+            try:
+                result = subprocess.run(
+                    ["git", "log", "--diff-filter=A", "--pretty=format:%s", "--", str(sol_file)],
+                    capture_output=True,
+                    text=True,
+                    check=True
+                )
+                submission_info = result.stdout.strip()
+            except subprocess.CalledProcessError:
+                submission_info = ""
+
+            # Parse submission info to make it prettier if in format: [LeetCode Sync] Runtime - 0 ms (100.00%), Memory - 19 MB (23.71%)
+            stats = ""
+            if submission_info.startswith("[LeetCode Sync]"):
+                stats_match = re.search(r'Runtime\s*-\s*(.*?)\s*\((.*?)\),\s*Memory\s*-\s*(.*?)\s*\((.*?)\)', submission_info)
+                if stats_match:
+                    runtime, runtime_pct, memory, memory_pct = stats_match.groups()
+                    stats = f'  * Runtime: {runtime} ({runtime_pct})\n  * Memory: {memory} ({memory_pct})'
+
+            lang_map = {"js": "JS", "py": "Python3", "cs": "C#", "sql": "SQL"}
+            lang_display = lang_map.get(sol_file.suffix.lstrip("."), sol_file.suffix.lstrip(".").capitalize())
+            lang_block = sol_file.suffix.lstrip(".")
+
+            indented_code = '\n'.join(['\t' + line if line else '' for line in code.splitlines()])
+
+            tab_lines.append(f'=== "{lang_display}"\n\n\t```{lang_block}\n{indented_code}\n\t```')
+            if stats:
+                tab_lines.append(f'\nSubmission Stats:\n{stats}')
+
+    solution_content = f"## Problem\n\nTitle: {title}\n"
+    if difficulty:
+        solution_content += f"Difficulty: {difficulty}\n\n"
+    solution_content += "## Solutions\n\n" + "\n\n".join(tab_lines)
+
+    full_md = (readme_content + "\n\n" if readme_content else "") + solution_content
+
+    md_filename = f"{number}.md"
+    with open(Path(DST_DIR) / md_filename, "w") as f:
+        f.write(full_md)
+
+    nav_entries.append({f"{number}. {title}": f"solutions/{md_filename}"})
+
+# Update mkdocs.yml nav
+mkdocs_yml_path = Path("mkdocs.yml")
+with open(mkdocs_yml_path, "r") as f:
+    mkdocs_config = yaml.safe_load(f)
+
+mkdocs_config['nav'] = [{"Overview": "README.md"}, {"Solutions": nav_entries}]
+
+with open(mkdocs_yml_path, "w") as f:
+    yaml.dump(mkdocs_config, f, sort_keys=False)
