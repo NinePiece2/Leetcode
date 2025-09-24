@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - "Solutions/**"
+      - "Scripts/update_project_readme.py"
   workflow_dispatch:
 
 jobs:

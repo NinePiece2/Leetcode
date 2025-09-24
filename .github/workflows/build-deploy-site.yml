@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - "Solutions/**"
-      - "Scripts/**"
+      - "Scripts/update_readmes.py"
       - "mkdocs.yml"
       - "Style/**"
       - Site_README.md
