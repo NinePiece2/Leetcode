@@ -60,6 +60,7 @@ plugins:
   - search
   - awesome-pages
   - tags
+  - optimize
 
 markdown_extensions:
   - admonition
