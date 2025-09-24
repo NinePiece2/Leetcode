@@ -5,7 +5,6 @@ import requests
 
 SRC_DIR = "Solutions"
 README_PATH = Path("README.md")
-MKDOCS_URL = "https://leetcode.romitsagu.com/solutions"
 
 def fetch_difficulty_and_tags(slug: str):
     """Fetch difficulty and tags from LeetCode GraphQL API."""
@@ -42,10 +41,10 @@ def difficulty_badge(difficulty: str) -> str:
     color = colors.get(difficulty, "#9E9E9E")
     if not difficulty:
         return ""
-    return f'<span style="background-color:{color}; color:white; padding:2px 6px; border-radius:6px;">{difficulty}</span>'
+    return f'<span style="background-color:#ffffff1a; color:{color}; padding:2px 6px; border-radius:6px;">{difficulty}</span>'
 
-def generate_table():
-    table_rows = []
+def generate_table_rows():
+    rows = []
     for folder in sorted(os.listdir(SRC_DIR)):
         folder_path = Path(SRC_DIR) / folder
         if not folder_path.is_dir():
@@ -60,11 +59,10 @@ def generate_table():
         difficulty, tags = fetch_difficulty_and_tags(slug)
         diff_badge = difficulty_badge(difficulty)
         tags_str = ', '.join(tags)
-        mkdocs_link = f"{MKDOCS_URL}/{number}"
+        solution_link = f"./{SRC_DIR}/{folder}/README.md"
 
-        table_rows.append(f"| {title} | [Link](./{SRC_DIR}/{folder}/README.md) | {diff_badge} | {tags_str} | [🔗]({mkdocs_link}) |")
-
-    return "\n".join(table_rows)
+        rows.append(f"| {title} | [Link]({solution_link}) | {diff_badge} | {tags_str} |")
+    return "\n    ".join(rows)  # indent for Markdown inside <details>
 
 def update_readme_table():
     if not README_PATH.exists():
@@ -72,20 +70,25 @@ def update_readme_table():
 
     readme_text = README_PATH.read_text()
 
-    # Pattern for the <details> block
+    # Match the <details> block
     pattern = re.compile(
-        r'(<details open>\s*<summary>My Solutions</summary>\s*?\n)(.*?)(\n</details>)',
+        r'(<details open>\s*<summary>My Solutions</summary>\s*\n\n\s*\| Problem \| Solution \| Difficulty \| Tags \|.*?\n\s*\|[-| ]+\|\n)(.*?)(\n</details>)',
         re.DOTALL
     )
 
-    table_content = generate_table()
-    new_block = f"<details open>\n    <summary>My Solutions</summary>\n\n    | Problem | Solution | Difficulty | Tags | Link |\n    |---------|----------|------------|------|------|\n{table_content}\n</details>"
-
+    new_rows = generate_table_rows()
     if pattern.search(readme_text):
-        updated_text = pattern.sub(new_block, readme_text)
-        print("Updated existing solutions table.")
+        updated_text = pattern.sub(r"\1    " + new_rows + r"\3", readme_text)
+        print("Updated solutions table rows.")
     else:
-        # Insert block at the end if not present
+        # If block does not exist, add it at the end
+        new_block = (
+            "<details open>\n"
+            "    <summary>My Solutions</summary>\n\n"
+            "    | Problem | Solution | Difficulty | Tags |\n"
+            "    |---------|----------|------------|------|\n"
+            "    " + new_rows + "\n</details>"
+        )
         updated_text = readme_text.strip() + "\n\n" + new_block
         print("Added new solutions table.")
 
