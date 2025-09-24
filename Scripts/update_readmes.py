@@ -88,12 +88,18 @@ for prob_folder in sorted(os.listdir(SRC_DIR)):
 
             tab_lines.append(tab_content)
 
-    solution_content = f"## Problem\n\nTitle: {title}\n"
+    # Build sections in correct order
+    problem_section = f"## Problem\n\nTitle: {title}\n"
     if difficulty:
-        solution_content += f"Difficulty: {difficulty}\n\n"
-    solution_content += "## Solutions\n\n" + "\n".join(tab_lines)
+        problem_section += f"Difficulty: {difficulty}\n\n"
 
-    full_md = (readme_content + "\n\n" if readme_content else "") + solution_content
+    solutions_section = "## Solutions\n\n" + "\n".join(tab_lines)
+
+    # Order: Problem first, then README, then Solutions
+    full_md = problem_section
+    if readme_content:
+        full_md += readme_content + "\n\n"
+    full_md += solutions_section
 
     md_filename = f"{number}.md"
     with open(Path(DST_DIR) / md_filename, "w") as f:
