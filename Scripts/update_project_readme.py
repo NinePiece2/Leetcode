@@ -2,12 +2,13 @@ import os
 import re
 from pathlib import Path
 import requests
+import urllib.parse
 
 SRC_DIR = "Solutions"
 README_PATH = Path("README.md")
 
-# URL to a small logo to use for the solution link
-SOLUTION_LOGO_URL = "https://img.icons8.com/ios-filled/24/link.png"  # Example link icon
+# Use a simple Unicode link icon instead of an image
+LINK_ICON = "🔗"
 
 def fetch_difficulty_and_tags(slug: str):
     url = "https://leetcode.com/graphql"
@@ -34,16 +35,19 @@ def fetch_difficulty_and_tags(slug: str):
         print(f"Failed to fetch {slug}: {e}")
         return "", []
 
-def difficulty_badge(difficulty: str) -> str:
-    colors = {
-        "Easy": "#4CAF50",
-        "Medium": "#FFC107",
-        "Hard": "#F44336",
-    }
-    color = colors.get(difficulty, "#9E9E9E")
+def difficulty_badge_markdown(difficulty: str) -> str:
     if not difficulty:
         return ""
-    return f'<span style="background-color:#ffffff1a; color:{color}; padding:2px 6px; border-radius:6px;">{difficulty}</span>'
+    # GitHub shields.io badge
+    color_map = {
+        "Easy": "brightgreen",
+        "Medium": "orange",
+        "Hard": "red"
+    }
+    color = color_map.get(difficulty, "lightgrey")
+    # Encode text for URL
+    difficulty_enc = urllib.parse.quote(difficulty)
+    return f"![{difficulty}]({f'https://img.shields.io/badge/Difficulty-{difficulty_enc}-{color}'})"
 
 def generate_table_rows_html():
     rows = []
@@ -59,7 +63,7 @@ def generate_table_rows_html():
         title = ' '.join([w.capitalize() for w in slug.split('-')])
 
         difficulty, tags = fetch_difficulty_and_tags(slug)
-        diff_badge = difficulty_badge(difficulty)
+        diff_badge = difficulty_badge_markdown(difficulty)
         tags_str = ', '.join(tags)
         solution_link = f"https://leetcode.romitsagu.com/solutions/{number}"
 
@@ -69,7 +73,7 @@ def generate_table_rows_html():
         rows.append(
             f"<tr style='background-color:{row_bg};'>"
             f"<td>{title}</td>"
-            f"<td><a href='{solution_link}'><img src='{SOLUTION_LOGO_URL}' alt='link' width='20' /></a></td>"
+            f"<td><a href='{solution_link}'>{LINK_ICON}</a></td>"
             f"<td>{diff_badge}</td>"
             f"<td>{tags_str}</td>"
             f"</tr>"
