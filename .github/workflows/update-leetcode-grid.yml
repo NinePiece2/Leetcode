@@ -6,6 +6,10 @@ on:
       - "Solutions/**"
       - "Scripts/update_project_readme.py"
   workflow_dispatch:
+  workflow_run:
+    workflows: ["Sync Leetcode"]
+    types:
+      - completed
 
 jobs:
   update-readme:
