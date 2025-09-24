@@ -41,7 +41,6 @@ theme:
     - navigation.top
     - search.highlight
     - search.suggest
-    - toc.follow
 
 extra:
   generator: false
@@ -53,9 +52,6 @@ extra:
 
 extra_css:
   - overrides.css
-
-extra_javascript:
-  - custom.js
 
 plugins:
   - search
