@@ -62,36 +62,41 @@ def generate_table_rows(problems, badge_func):
     for slug, number, title, difficulty, tags in problems:
         diff_badge = badge_func(difficulty)
         tags_str = ", ".join(tags)
-        solution_link = f"https://leetcode.romitsagu.com/solutions/leetcode{number}/"
+        solution_link = f"https://leetcode.romitsagu.com/solutions/{number}/"
         icon_md = f"[{LINK_ICON}]({solution_link})"
         rows.append(f"| {title} | {icon_md} | {diff_badge} | {tags_str} |")
     return "\n".join(rows)
 
 def update_readme(readme_path, rows_str):
-    """Update the README table; creates one if not present."""
+    """Update the README table; replaces existing table completely, or creates a new one."""
     if not readme_path.exists():
         raise FileNotFoundError(f"{readme_path} does not exist")
 
     readme_text = readme_path.read_text()
-    # Match the full table
+    
+    # Match full table: header + separator + any number of rows
     table_pattern = re.compile(
-        r'(\| Problem \| Solution \| Difficulty \| Tags \s*\|\n\|[-| ]+\|\n)(.*?)(?=\n\| |\Z)', 
+        r'(\| Problem \| Solution \| Difficulty \| Tags \s*\|\n'  # header
+        r'\|[-| ]+\|\n)'                                         # separator
+        r'(?:\|.*\|\n?)*',                                       # rows
         re.DOTALL
     )
 
+    new_table = (
+        "| Problem | Solution | Difficulty | Tags |\n"
+        "|---------|---------|------------|------|\n"
+        + rows_str + "\n"
+    )
+
     if table_pattern.search(readme_text):
-        updated_text = table_pattern.sub(r"\1" + rows_str, readme_text)
+        updated_text = table_pattern.sub(new_table, readme_text)
         print(f"✅ Updated table rows in {readme_path.name}")
     else:
-        new_table = (
-            "| Problem | Solution | Difficulty | Tags |\n"
-            "|---------|---------|------------|------|\n"
-            + rows_str
-        )
         updated_text = readme_text.strip() + "\n\n" + new_table
         print(f"✅ Added new table in {readme_path.name}")
 
     readme_path.write_text(updated_text)
+
 
 def main():
     problems = []
