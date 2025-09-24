@@ -20,8 +20,8 @@
 This is a repo to store my leetcode solutions but I went a bit Schizo with it and it pulls the leetcode solutions, creates READMEs with the problema and solution and then converts it into an Mkdocs website hosted on GitHub Pages.
 
 ### Steps
-1. Uses the joshcai/leetcode-sync GitHub action to will the problems and solutions from leetcode into the /Solutions folder.
-2. Uses the Script ```update_project_readme.py``` to compile all of the completed projects into a table in 2 readme files that can be used for GitHub and the Mkdocs site
+1. Uses the ```joshcai/leetcode-sync``` GitHub action to will the problems and solutions from leetcode into the ```/Solutions``` folder.
+2. Uses the Script ```update_project_readme.py``` to compile all of the completed problems into a table in 2 readme files that can be used for GitHub and the Mkdocs site
 3. Uses the Script ```update_readmes.py.py``` to create README files from the problems and solutions and embed their difficulty, tags and the solution's statistics.
 4. Uses Mkdocs to convert the READMEs created in `Step 3` to a website.
 5. The website is then deployed using the GitHub Pages deploy action.
