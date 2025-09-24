@@ -34,7 +34,6 @@ theme:
     - announce.dismiss
     - content.code.copy
     - content.tabs
-    - navigation.sections
     - navigation.indexes
     - navigation.top
     - search.highlight
