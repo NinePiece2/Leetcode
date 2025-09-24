@@ -61,6 +61,19 @@ plugins:
   - awesome-pages
   - tags
   - optimize
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: auto
+      height: auto
+      zoomable: true
+      draggable: true
+      auto_caption: false
+      caption_position: bottom
+      background: white
+      shadow: true
 
 markdown_extensions:
   - admonition

@@ -68,7 +68,7 @@ jobs:
           python-version: 3.x
 
       - name: Install MkDocs
-        run: pip install mkdocs mkdocs-material mkdocs-awesome-pages-plugin pymdown-extensions
+        run: pip install mkdocs mkdocs-material mkdocs-awesome-pages-plugin pymdown-extensions mkdocs-material[imaging] mkdocs-glightbox
 
       - name: Prepare docs folder
         run: |
