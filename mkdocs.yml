@@ -40,6 +40,10 @@ theme:
     - search.share
     - toc.follow
     - toc.integrate
+    - navigation.instant
+    - navigation.tracking
+    - navigation.footer
+    - navigation.indexes
 
 extra:
   generator: false
