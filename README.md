@@ -3,7 +3,14 @@
 ## Table Of Contents
 - [Leetcode Solutions](#leetcode-solutions)
   - [Table Of Contents](#table-of-contents)
+  - [My Leetcode Stats](#my-leetcode-stats)
   - [Table of my Solutions](#table-of-my-solutions)
+  
+## My Leetcode Stats
+
+<div align="center">
+    <img src="https://leetcard.jacoblin.cool/NinePiece2?theme=dark" height="165" alt="leetcode stats"/>
+</div>
 
 ## Table of my Solutions
 
