@@ -92,6 +92,7 @@
 | 154. Find Minimum In Rotated Sorted Array Ii | [🔗](https://leetcode.romitsagu.com/solutions/154/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search |
 | 162. Find Peak Element | [🔗](https://leetcode.romitsagu.com/solutions/162/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search |
 | 165. Compare Version Numbers | [🔗](https://leetcode.romitsagu.com/solutions/165/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Two Pointers, String |
+| 166. Fraction To Recurring Decimal | [🔗](https://leetcode.romitsagu.com/solutions/166/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Math, String |
 | 167. Two Sum Ii   Input Array Is Sorted | [🔗](https://leetcode.romitsagu.com/solutions/167/) |  |  |
 | 169. Majority Element | [🔗](https://leetcode.romitsagu.com/solutions/169/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, Divide and Conquer, Sorting, Counting |
 | 179. Largest Number | [🔗](https://leetcode.romitsagu.com/solutions/179/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, String, Greedy, Sorting |

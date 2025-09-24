@@ -92,6 +92,7 @@
 | 154. Find Minimum In Rotated Sorted Array Ii | [🔗](https://leetcode.romitsagu.com/solutions/154/) | <span style="background-color:#ffffff1a; color:#f8615c; padding:2px 6px; border-radius:6px;">Hard</span> | Array, Binary Search |
 | 162. Find Peak Element | [🔗](https://leetcode.romitsagu.com/solutions/162/) | <span style="background-color:#ffffff1a; color:#fac31d; padding:2px 6px; border-radius:6px;">Medium</span> | Array, Binary Search |
 | 165. Compare Version Numbers | [🔗](https://leetcode.romitsagu.com/solutions/165/) | <span style="background-color:#ffffff1a; color:#fac31d; padding:2px 6px; border-radius:6px;">Medium</span> | Two Pointers, String |
+| 166. Fraction To Recurring Decimal | [🔗](https://leetcode.romitsagu.com/solutions/166/) | <span style="background-color:#ffffff1a; color:#fac31d; padding:2px 6px; border-radius:6px;">Medium</span> | Hash Table, Math, String |
 | 167. Two Sum Ii   Input Array Is Sorted | [🔗](https://leetcode.romitsagu.com/solutions/167/) |  |  |
 | 169. Majority Element | [🔗](https://leetcode.romitsagu.com/solutions/169/) | <span style="background-color:#ffffff1a; color:#46c6c2; padding:2px 6px; border-radius:6px;">Easy</span> | Array, Hash Table, Divide and Conquer, Sorting, Counting |
 | 179. Largest Number | [🔗](https://leetcode.romitsagu.com/solutions/179/) | <span style="background-color:#ffffff1a; color:#fac31d; padding:2px 6px; border-radius:6px;">Medium</span> | Array, String, Greedy, Sorting |
