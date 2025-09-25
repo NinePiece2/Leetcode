@@ -104,10 +104,13 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 | 73. Set Matrix Zeroes | [🔗](https://leetcode.romitsagu.com/solutions/73/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Matrix |
 | 74. Search A 2d Matrix | [🔗](https://leetcode.romitsagu.com/solutions/74/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Matrix |
 | 76. Minimum Window Substring | [🔗](https://leetcode.romitsagu.com/solutions/76/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Hash Table, String, Sliding Window |
+| 78. Subsets | [🔗](https://leetcode.romitsagu.com/solutions/78/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Backtracking, Bit Manipulation |
 | 80. Remove Duplicates From Sorted Array II | [🔗](https://leetcode.romitsagu.com/solutions/80/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Two Pointers |
 | 81. Search In Rotated Sorted Array II | [🔗](https://leetcode.romitsagu.com/solutions/81/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search |
 | 84. Largest Rectangle In Histogram | [🔗](https://leetcode.romitsagu.com/solutions/84/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Stack, Monotonic Stack |
 | 88. Merge Sorted Array | [🔗](https://leetcode.romitsagu.com/solutions/88/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Two Pointers, Sorting |
+| 89. Gray Code | [🔗](https://leetcode.romitsagu.com/solutions/89/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Backtracking, Bit Manipulation |
+| 90. Subsets II | [🔗](https://leetcode.romitsagu.com/solutions/90/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Backtracking, Bit Manipulation |
 | 105. Construct Binary Tree From Preorder And Inorder Traversal | [🔗](https://leetcode.romitsagu.com/solutions/105/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Divide and Conquer, Tree, Binary Tree |
 | 106. Construct Binary Tree From Inorder And Postorder Traversal | [🔗](https://leetcode.romitsagu.com/solutions/106/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Divide and Conquer, Tree, Binary Tree |
 | 115. Distinct Subsequences | [🔗](https://leetcode.romitsagu.com/solutions/115/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | String, Dynamic Programming |
@@ -117,6 +120,8 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 | 122. Best Time To Buy And Sell Stock II | [🔗](https://leetcode.romitsagu.com/solutions/122/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Greedy |
 | 134. Gas Station | [🔗](https://leetcode.romitsagu.com/solutions/134/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Greedy |
 | 135. Candy | [🔗](https://leetcode.romitsagu.com/solutions/135/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Greedy |
+| 136. Single Number | [🔗](https://leetcode.romitsagu.com/solutions/136/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Bit Manipulation |
+| 137. Single Number II | [🔗](https://leetcode.romitsagu.com/solutions/137/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Bit Manipulation |
 | 139. Word Break | [🔗](https://leetcode.romitsagu.com/solutions/139/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, String, Dynamic Programming, Trie, Memoization |
 | 146. Lru Cache | [🔗](https://leetcode.romitsagu.com/solutions/146/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Linked List, Design, Doubly-Linked List |
 | 153. Find Minimum In Rotated Sorted Array | [🔗](https://leetcode.romitsagu.com/solutions/153/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search |
