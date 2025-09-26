@@ -171,6 +171,9 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 | 371. Sum Of Two Integers | [🔗](https://leetcode.romitsagu.com/solutions/371/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Bit Manipulation |
 | 374. Guess Number Higher Or Lower | [🔗](https://leetcode.romitsagu.com/solutions/374/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Binary Search, Interactive |
 | 389. Find The Difference | [🔗](https://leetcode.romitsagu.com/solutions/389/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Hash Table, String, Bit Manipulation, Sorting |
+| 397. Integer Replacement | [🔗](https://leetcode.romitsagu.com/solutions/397/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Dynamic Programming, Greedy, Bit Manipulation, Memoization |
+| 401. Binary Watch | [🔗](https://leetcode.romitsagu.com/solutions/401/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Backtracking, Bit Manipulation |
+| 405. Convert A Number To Hexadecimal | [🔗](https://leetcode.romitsagu.com/solutions/405/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, String, Bit Manipulation |
 | 498. Diagonal Traverse | [🔗](https://leetcode.romitsagu.com/solutions/498/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Matrix, Simulation |
 | 516. Longest Palindromic Subsequence | [🔗](https://leetcode.romitsagu.com/solutions/516/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Dynamic Programming |
 | 567. Permutation In String | [🔗](https://leetcode.romitsagu.com/solutions/567/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Two Pointers, String, Sliding Window |
