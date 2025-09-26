@@ -93,6 +93,7 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 | 56. Merge Intervals | [🔗](https://leetcode.romitsagu.com/solutions/56/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Sorting |
 | 57. Insert Interval | [🔗](https://leetcode.romitsagu.com/solutions/57/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array |
 | 58. Length Of Last Word | [🔗](https://leetcode.romitsagu.com/solutions/58/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | String |
+| 59. Spiral Matrix II | [🔗](https://leetcode.romitsagu.com/solutions/59/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Matrix, Simulation |
 | 62. Unique Paths | [🔗](https://leetcode.romitsagu.com/solutions/62/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Dynamic Programming, Combinatorics |
 | 63. Unique Paths II | [🔗](https://leetcode.romitsagu.com/solutions/63/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Matrix |
 | 64. Minimum Path Sum | [🔗](https://leetcode.romitsagu.com/solutions/64/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Matrix |
@@ -131,6 +132,10 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 | 166. Fraction To Recurring Decimal | [🔗](https://leetcode.romitsagu.com/solutions/166/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Math, String |
 | 167. Two Sum II   Input Array Is Sorted | [🔗](https://leetcode.romitsagu.com/solutions/167/) |  |  |
 | 169. Majority Element | [🔗](https://leetcode.romitsagu.com/solutions/169/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, Divide and Conquer, Sorting, Counting |
+| 175. Combine Two Tables | [🔗](https://leetcode.romitsagu.com/solutions/175/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
+| 176. Second Highest Salary | [🔗](https://leetcode.romitsagu.com/solutions/176/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Database |
+| 177. Nth Highest Salary | [🔗](https://leetcode.romitsagu.com/solutions/177/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Database |
+| 178. Rank Scores | [🔗](https://leetcode.romitsagu.com/solutions/178/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Database |
 | 179. Largest Number | [🔗](https://leetcode.romitsagu.com/solutions/179/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, String, Greedy, Sorting |
 | 187. Repeated Dna Sequences | [🔗](https://leetcode.romitsagu.com/solutions/187/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, String, Bit Manipulation, Sliding Window, Rolling Hash, Hash Function |
 | 190. Reverse Bits | [🔗](https://leetcode.romitsagu.com/solutions/190/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Divide and Conquer, Bit Manipulation |
@@ -164,12 +169,14 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 | 363. Max Sum Of Rectangle No Larger Than K | [🔗](https://leetcode.romitsagu.com/solutions/363/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Matrix, Prefix Sum, Ordered Set |
 | 367. Valid Perfect Square | [🔗](https://leetcode.romitsagu.com/solutions/367/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Binary Search |
 | 371. Sum Of Two Integers | [🔗](https://leetcode.romitsagu.com/solutions/371/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Bit Manipulation |
+| 374. Guess Number Higher Or Lower | [🔗](https://leetcode.romitsagu.com/solutions/374/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Binary Search, Interactive |
 | 389. Find The Difference | [🔗](https://leetcode.romitsagu.com/solutions/389/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Hash Table, String, Bit Manipulation, Sorting |
 | 498. Diagonal Traverse | [🔗](https://leetcode.romitsagu.com/solutions/498/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Matrix, Simulation |
 | 516. Longest Palindromic Subsequence | [🔗](https://leetcode.romitsagu.com/solutions/516/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Dynamic Programming |
 | 567. Permutation In String | [🔗](https://leetcode.romitsagu.com/solutions/567/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Two Pointers, String, Sliding Window |
 | 584. Find Customer Referee | [🔗](https://leetcode.romitsagu.com/solutions/584/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 595. Big Countries | [🔗](https://leetcode.romitsagu.com/solutions/595/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
+| 611. Valid Triangle Number | [🔗](https://leetcode.romitsagu.com/solutions/611/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Two Pointers, Binary Search, Greedy, Sorting |
 | 621. Task Scheduler | [🔗](https://leetcode.romitsagu.com/solutions/621/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting |
 | 646. Maximum Length Of Pair Chain | [🔗](https://leetcode.romitsagu.com/solutions/646/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Greedy, Sorting |
 | 673. Number Of Longest Increasing Subsequence | [🔗](https://leetcode.romitsagu.com/solutions/673/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Binary Indexed Tree, Segment Tree |
@@ -200,6 +207,7 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 | 1407. Group The People Given The Group Size They Belong To | [🔗](https://leetcode.romitsagu.com/solutions/1407/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Greedy |
 | 1411. Convert Binary Number In A Linked List To Integer | [🔗](https://leetcode.romitsagu.com/solutions/1411/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Linked List, Math |
 | 1415. Students And Examinations | [🔗](https://leetcode.romitsagu.com/solutions/1415/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
+| 1421. Find Numbers With Even Number Of Digits | [🔗](https://leetcode.romitsagu.com/solutions/1421/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Math |
 | 1423. Maximum Number Of Occurrences Of A Substring | [🔗](https://leetcode.romitsagu.com/solutions/1423/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, String, Sliding Window |
 | 1426. Find N Unique Integers Sum Up To Zero | [🔗](https://leetcode.romitsagu.com/solutions/1426/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Math |
 | 1440. Convert Integer To The Sum Of Two No Zero Integers | [🔗](https://leetcode.romitsagu.com/solutions/1440/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math |
