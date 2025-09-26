@@ -1,10 +1,10 @@
 name: Update LeetCode Grid
 
 on:
-  push:
-    paths:
-      - "Solutions/**"
-      - "Scripts/update_project_readme.py"
+  # push:
+  #   paths:
+  #     - "Solutions/**"
+  #     - "Scripts/update_project_readme.py"
   workflow_dispatch:
   workflow_run:
     workflows: ["Sync Leetcode"]
