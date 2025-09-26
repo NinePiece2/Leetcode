@@ -132,8 +132,12 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 | 167. Two Sum II   Input Array Is Sorted | [🔗](https://leetcode.romitsagu.com/solutions/167/) |  |  |
 | 169. Majority Element | [🔗](https://leetcode.romitsagu.com/solutions/169/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, Divide and Conquer, Sorting, Counting |
 | 179. Largest Number | [🔗](https://leetcode.romitsagu.com/solutions/179/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, String, Greedy, Sorting |
+| 187. Repeated Dna Sequences | [🔗](https://leetcode.romitsagu.com/solutions/187/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, String, Bit Manipulation, Sliding Window, Rolling Hash, Hash Function |
+| 190. Reverse Bits | [🔗](https://leetcode.romitsagu.com/solutions/190/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Divide and Conquer, Bit Manipulation |
+| 191. Number Of 1 Bits | [🔗](https://leetcode.romitsagu.com/solutions/191/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Divide and Conquer, Bit Manipulation |
 | 198. House Robber | [🔗](https://leetcode.romitsagu.com/solutions/198/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming |
 | 200. Number Of Islands | [🔗](https://leetcode.romitsagu.com/solutions/200/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |
+| 201. Bitwise And Of Numbers Range | [🔗](https://leetcode.romitsagu.com/solutions/201/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Bit Manipulation |
 | 207. Course Schedule | [🔗](https://leetcode.romitsagu.com/solutions/207/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Depth-First Search, Breadth-First Search, Graph, Topological Sort |
 | 209. Minimum Size Subarray Sum | [🔗](https://leetcode.romitsagu.com/solutions/209/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Sliding Window, Prefix Sum |
 | 221. Maximal Square | [🔗](https://leetcode.romitsagu.com/solutions/221/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Matrix |
@@ -141,6 +145,7 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 | 231. Power Of Two | [🔗](https://leetcode.romitsagu.com/solutions/231/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Bit Manipulation, Recursion |
 | 237. Delete Node In A Linked List | [🔗](https://leetcode.romitsagu.com/solutions/237/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Linked List |
 | 240. Search A 2d Matrix II | [🔗](https://leetcode.romitsagu.com/solutions/240/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Divide and Conquer, Matrix |
+| 260. Single Number III | [🔗](https://leetcode.romitsagu.com/solutions/260/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Bit Manipulation |
 | 268. Missing Number | [🔗](https://leetcode.romitsagu.com/solutions/268/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting |
 | 275. H Index II | [🔗](https://leetcode.romitsagu.com/solutions/275/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search |
 | 278. First Bad Version | [🔗](https://leetcode.romitsagu.com/solutions/278/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Binary Search, Interactive |
@@ -150,6 +155,7 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 | 316. Remove Duplicate Letters | [🔗](https://leetcode.romitsagu.com/solutions/316/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Stack, Greedy, Monotonic Stack |
 | 326. Power Of Three | [🔗](https://leetcode.romitsagu.com/solutions/326/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Recursion |
 | 327. Count Of Range Sum | [🔗](https://leetcode.romitsagu.com/solutions/327/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set |
+| 338. Counting Bits | [🔗](https://leetcode.romitsagu.com/solutions/338/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Dynamic Programming, Bit Manipulation |
 | 342. Power Of Four | [🔗](https://leetcode.romitsagu.com/solutions/342/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Bit Manipulation, Recursion |
 | 349. Intersection Of Two Arrays | [🔗](https://leetcode.romitsagu.com/solutions/349/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, Two Pointers, Binary Search, Sorting |
 | 350. Intersection Of Two Arrays II | [🔗](https://leetcode.romitsagu.com/solutions/350/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, Two Pointers, Binary Search, Sorting |
@@ -157,6 +163,8 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 | 354. Russian Doll Envelopes | [🔗](https://leetcode.romitsagu.com/solutions/354/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Dynamic Programming, Sorting |
 | 363. Max Sum Of Rectangle No Larger Than K | [🔗](https://leetcode.romitsagu.com/solutions/363/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Matrix, Prefix Sum, Ordered Set |
 | 367. Valid Perfect Square | [🔗](https://leetcode.romitsagu.com/solutions/367/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Binary Search |
+| 371. Sum Of Two Integers | [🔗](https://leetcode.romitsagu.com/solutions/371/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Bit Manipulation |
+| 389. Find The Difference | [🔗](https://leetcode.romitsagu.com/solutions/389/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Hash Table, String, Bit Manipulation, Sorting |
 | 498. Diagonal Traverse | [🔗](https://leetcode.romitsagu.com/solutions/498/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Matrix, Simulation |
 | 516. Longest Palindromic Subsequence | [🔗](https://leetcode.romitsagu.com/solutions/516/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Dynamic Programming |
 | 567. Permutation In String | [🔗](https://leetcode.romitsagu.com/solutions/567/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Two Pointers, String, Sliding Window |
