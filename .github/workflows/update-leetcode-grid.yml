@@ -36,6 +36,11 @@ jobs:
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
+
           git add README.md Site_README.md
           git diff-index --quiet HEAD || git commit -m "[Auto] Update LeetCode README table"
-          git push
+
+          git fetch origin ${{ github.ref_name }}
+          git rebase origin/${{ github.ref_name }}
+
+          git push origin HEAD:${{ github.ref_name }}
