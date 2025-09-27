@@ -174,6 +174,9 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 | 397. Integer Replacement | [🔗](https://leetcode.romitsagu.com/solutions/397/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Dynamic Programming, Greedy, Bit Manipulation, Memoization |
 | 401. Binary Watch | [🔗](https://leetcode.romitsagu.com/solutions/401/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Backtracking, Bit Manipulation |
 | 405. Convert A Number To Hexadecimal | [🔗](https://leetcode.romitsagu.com/solutions/405/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, String, Bit Manipulation |
+| 421. Maximum Xor Of Two Numbers In An Array | [🔗](https://leetcode.romitsagu.com/solutions/421/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Bit Manipulation, Trie |
+| 461. Hamming Distance | [🔗](https://leetcode.romitsagu.com/solutions/461/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Bit Manipulation |
+| 464. Can I Win | [🔗](https://leetcode.romitsagu.com/solutions/464/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Dynamic Programming, Bit Manipulation, Memoization, Game Theory, Bitmask |
 | 498. Diagonal Traverse | [🔗](https://leetcode.romitsagu.com/solutions/498/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Matrix, Simulation |
 | 516. Longest Palindromic Subsequence | [🔗](https://leetcode.romitsagu.com/solutions/516/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Dynamic Programming |
 | 567. Permutation In String | [🔗](https://leetcode.romitsagu.com/solutions/567/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Two Pointers, String, Sliding Window |
@@ -190,6 +193,7 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 | 778. Reorganize String | [🔗](https://leetcode.romitsagu.com/solutions/778/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting |
 | 826. Soup Servings | [🔗](https://leetcode.romitsagu.com/solutions/826/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Dynamic Programming, Probability and Statistics |
 | 829. Subdomain Visit Count | [🔗](https://leetcode.romitsagu.com/solutions/829/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, String, Counting |
+| 830. Largest Triangle Area | [🔗](https://leetcode.romitsagu.com/solutions/830/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Math, Geometry |
 | 867. New 21 Game | [🔗](https://leetcode.romitsagu.com/solutions/867/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Dynamic Programming, Sliding Window, Probability and Statistics |
 | 879. Maximize Distance To Closest Person | [🔗](https://leetcode.romitsagu.com/solutions/879/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array |
 | 882. Peak Index In A Mountain Array | [🔗](https://leetcode.romitsagu.com/solutions/882/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search |
