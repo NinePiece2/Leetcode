@@ -137,6 +137,8 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 | 177. Nth Highest Salary | [🔗](https://leetcode.romitsagu.com/solutions/177/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Database |
 | 178. Rank Scores | [🔗](https://leetcode.romitsagu.com/solutions/178/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Database |
 | 179. Largest Number | [🔗](https://leetcode.romitsagu.com/solutions/179/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, String, Greedy, Sorting |
+| 181. Employees Earning More Than Their Managers | [🔗](https://leetcode.romitsagu.com/solutions/181/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
+| 182. Duplicate Emails | [🔗](https://leetcode.romitsagu.com/solutions/182/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 187. Repeated Dna Sequences | [🔗](https://leetcode.romitsagu.com/solutions/187/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, String, Bit Manipulation, Sliding Window, Rolling Hash, Hash Function |
 | 190. Reverse Bits | [🔗](https://leetcode.romitsagu.com/solutions/190/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Divide and Conquer, Bit Manipulation |
 | 191. Number Of 1 Bits | [🔗](https://leetcode.romitsagu.com/solutions/191/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Divide and Conquer, Bit Manipulation |
@@ -170,13 +172,17 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 | 367. Valid Perfect Square | [🔗](https://leetcode.romitsagu.com/solutions/367/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Binary Search |
 | 371. Sum Of Two Integers | [🔗](https://leetcode.romitsagu.com/solutions/371/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Bit Manipulation |
 | 374. Guess Number Higher Or Lower | [🔗](https://leetcode.romitsagu.com/solutions/374/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Binary Search, Interactive |
+| 378. Kth Smallest Element In A Sorted Matrix | [🔗](https://leetcode.romitsagu.com/solutions/378/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Sorting, Heap (Priority Queue), Matrix |
 | 389. Find The Difference | [🔗](https://leetcode.romitsagu.com/solutions/389/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Hash Table, String, Bit Manipulation, Sorting |
 | 397. Integer Replacement | [🔗](https://leetcode.romitsagu.com/solutions/397/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Dynamic Programming, Greedy, Bit Manipulation, Memoization |
+| 400. Nth Digit | [🔗](https://leetcode.romitsagu.com/solutions/400/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Binary Search |
 | 401. Binary Watch | [🔗](https://leetcode.romitsagu.com/solutions/401/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Backtracking, Bit Manipulation |
 | 405. Convert A Number To Hexadecimal | [🔗](https://leetcode.romitsagu.com/solutions/405/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, String, Bit Manipulation |
 | 421. Maximum Xor Of Two Numbers In An Array | [🔗](https://leetcode.romitsagu.com/solutions/421/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Bit Manipulation, Trie |
 | 461. Hamming Distance | [🔗](https://leetcode.romitsagu.com/solutions/461/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Bit Manipulation |
 | 464. Can I Win | [🔗](https://leetcode.romitsagu.com/solutions/464/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Dynamic Programming, Bit Manipulation, Memoization, Game Theory, Bitmask |
+| 473. Matchsticks To Square | [🔗](https://leetcode.romitsagu.com/solutions/473/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask |
+| 476. Number Complement | [🔗](https://leetcode.romitsagu.com/solutions/476/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Bit Manipulation |
 | 498. Diagonal Traverse | [🔗](https://leetcode.romitsagu.com/solutions/498/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Matrix, Simulation |
 | 516. Longest Palindromic Subsequence | [🔗](https://leetcode.romitsagu.com/solutions/516/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Dynamic Programming |
 | 567. Permutation In String | [🔗](https://leetcode.romitsagu.com/solutions/567/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Two Pointers, String, Sliding Window |
@@ -202,6 +208,8 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 | 967. Minimum Falling Path Sum | [🔗](https://leetcode.romitsagu.com/solutions/967/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Matrix |
 | 1006. Vowel Spellchecker | [🔗](https://leetcode.romitsagu.com/solutions/1006/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, String |
 | 1013. Fibonacci Number | [🔗](https://leetcode.romitsagu.com/solutions/1013/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Dynamic Programming, Recursion, Memoization |
+| 1018. Largest Perimeter Triangle | [🔗](https://leetcode.romitsagu.com/solutions/1018/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Math, Greedy, Sorting |
+| 1054. Complement Of Base 10 Integer | [🔗](https://leetcode.romitsagu.com/solutions/1054/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Bit Manipulation |
 | 1087. Longest Arithmetic Subsequence | [🔗](https://leetcode.romitsagu.com/solutions/1087/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Binary Search, Dynamic Programming |
 | 1153. Product Sales Analysis I | [🔗](https://leetcode.romitsagu.com/solutions/1153/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 1236. N Th Tribonacci Number | [🔗](https://leetcode.romitsagu.com/solutions/1236/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Dynamic Programming, Memoization |
