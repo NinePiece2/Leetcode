@@ -211,6 +211,7 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 | 1018. Largest Perimeter Triangle | [🔗](https://leetcode.romitsagu.com/solutions/1018/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Math, Greedy, Sorting |
 | 1054. Complement Of Base 10 Integer | [🔗](https://leetcode.romitsagu.com/solutions/1054/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Bit Manipulation |
 | 1087. Longest Arithmetic Subsequence | [🔗](https://leetcode.romitsagu.com/solutions/1087/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Binary Search, Dynamic Programming |
+| 1111. Minimum Score Triangulation Of Polygon | [🔗](https://leetcode.romitsagu.com/solutions/1111/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming |
 | 1153. Product Sales Analysis I | [🔗](https://leetcode.romitsagu.com/solutions/1153/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 1236. N Th Tribonacci Number | [🔗](https://leetcode.romitsagu.com/solutions/1236/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Dynamic Programming, Memoization |
 | 1258. Article Views I | [🔗](https://leetcode.romitsagu.com/solutions/1258/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
