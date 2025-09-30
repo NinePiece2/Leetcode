@@ -139,6 +139,7 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 | 179. Largest Number | [🔗](https://leetcode.romitsagu.com/solutions/179/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, String, Greedy, Sorting |
 | 181. Employees Earning More Than Their Managers | [🔗](https://leetcode.romitsagu.com/solutions/181/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 182. Duplicate Emails | [🔗](https://leetcode.romitsagu.com/solutions/182/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
+| 183. Customers Who Never Order | [🔗](https://leetcode.romitsagu.com/solutions/183/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 187. Repeated Dna Sequences | [🔗](https://leetcode.romitsagu.com/solutions/187/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, String, Bit Manipulation, Sliding Window, Rolling Hash, Hash Function |
 | 190. Reverse Bits | [🔗](https://leetcode.romitsagu.com/solutions/190/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Divide and Conquer, Bit Manipulation |
 | 191. Number Of 1 Bits | [🔗](https://leetcode.romitsagu.com/solutions/191/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Divide and Conquer, Bit Manipulation |
@@ -160,6 +161,8 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 | 300. Longest Increasing Subsequence | [🔗](https://leetcode.romitsagu.com/solutions/300/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Dynamic Programming |
 | 315. Count Of Smaller Numbers After Self | [🔗](https://leetcode.romitsagu.com/solutions/315/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set |
 | 316. Remove Duplicate Letters | [🔗](https://leetcode.romitsagu.com/solutions/316/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Stack, Greedy, Monotonic Stack |
+| 321. Create Maximum Number | [🔗](https://leetcode.romitsagu.com/solutions/321/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Two Pointers, Stack, Greedy, Monotonic Stack |
+| 324. Wiggle Sort II | [🔗](https://leetcode.romitsagu.com/solutions/324/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Divide and Conquer, Greedy, Sorting, Quickselect |
 | 326. Power Of Three | [🔗](https://leetcode.romitsagu.com/solutions/326/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Recursion |
 | 327. Count Of Range Sum | [🔗](https://leetcode.romitsagu.com/solutions/327/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set |
 | 338. Counting Bits | [🔗](https://leetcode.romitsagu.com/solutions/338/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Dynamic Programming, Bit Manipulation |
@@ -178,11 +181,13 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 | 400. Nth Digit | [🔗](https://leetcode.romitsagu.com/solutions/400/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Binary Search |
 | 401. Binary Watch | [🔗](https://leetcode.romitsagu.com/solutions/401/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Backtracking, Bit Manipulation |
 | 405. Convert A Number To Hexadecimal | [🔗](https://leetcode.romitsagu.com/solutions/405/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, String, Bit Manipulation |
+| 410. Split Array Largest Sum | [🔗](https://leetcode.romitsagu.com/solutions/410/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum |
 | 421. Maximum Xor Of Two Numbers In An Array | [🔗](https://leetcode.romitsagu.com/solutions/421/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Bit Manipulation, Trie |
 | 461. Hamming Distance | [🔗](https://leetcode.romitsagu.com/solutions/461/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Bit Manipulation |
 | 464. Can I Win | [🔗](https://leetcode.romitsagu.com/solutions/464/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Dynamic Programming, Bit Manipulation, Memoization, Game Theory, Bitmask |
 | 473. Matchsticks To Square | [🔗](https://leetcode.romitsagu.com/solutions/473/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask |
 | 476. Number Complement | [🔗](https://leetcode.romitsagu.com/solutions/476/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Bit Manipulation |
+| 477. Total Hamming Distance | [🔗](https://leetcode.romitsagu.com/solutions/477/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Math, Bit Manipulation |
 | 498. Diagonal Traverse | [🔗](https://leetcode.romitsagu.com/solutions/498/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Matrix, Simulation |
 | 516. Longest Palindromic Subsequence | [🔗](https://leetcode.romitsagu.com/solutions/516/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Dynamic Programming |
 | 567. Permutation In String | [🔗](https://leetcode.romitsagu.com/solutions/567/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Two Pointers, String, Sliding Window |
@@ -243,10 +248,12 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 | 2006. Find The Student That Will Replace The Chalk | [🔗](https://leetcode.romitsagu.com/solutions/2006/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Simulation, Prefix Sum |
 | 2023. Design Movie Rental System | [🔗](https://leetcode.romitsagu.com/solutions/2023/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Hash Table, Design, Heap (Priority Queue), Ordered Set |
 | 2076. Sum Of Digits Of String After Convert | [🔗](https://leetcode.romitsagu.com/solutions/2076/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | String, Simulation |
+| 2096. Find The Longest Valid Obstacle Course At Each Position | [🔗](https://leetcode.romitsagu.com/solutions/2096/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Binary Indexed Tree |
 | 2174. Next Greater Numerically Balanced Number | [🔗](https://leetcode.romitsagu.com/solutions/2174/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Math, Backtracking, Counting, Enumeration |
 | 2229. Maximum Fruits Harvested After At Most K Steps | [🔗](https://leetcode.romitsagu.com/solutions/2229/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Sliding Window, Prefix Sum |
 | 2307. Replace Non Coprime Numbers In Array | [🔗](https://leetcode.romitsagu.com/solutions/2307/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Math, Stack, Number Theory |
 | 2316. Count Hills And Valleys In An Array | [🔗](https://leetcode.romitsagu.com/solutions/2316/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array |
+| 2324. Find Triangular Sum Of An Array | [🔗](https://leetcode.romitsagu.com/solutions/2324/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Math, Simulation, Combinatorics |
 | 2346. Largest 3 Same Digit Number In String | [🔗](https://leetcode.romitsagu.com/solutions/2346/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | String |
 | 2408. Number Of People Aware Of A Secret | [🔗](https://leetcode.romitsagu.com/solutions/2408/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Dynamic Programming, Queue, Simulation |
 | 2429. Design A Food Rating System | [🔗](https://leetcode.romitsagu.com/solutions/2429/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, String, Design, Heap (Priority Queue), Ordered Set |
