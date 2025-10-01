@@ -5,6 +5,7 @@
   - [Table Of Contents](#table-of-contents)
   - [Description](#description)
     - [Steps](#steps)
+    - [If you want to use this project](#if-you-want-to-use-this-project)
   - [My Leetcode Stats](#my-leetcode-stats)
   - [Table of my Solutions](#table-of-my-solutions)
 
@@ -25,6 +26,9 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 3. Uses the Script ```update_readmes.py.py``` to create README files from the problems and solutions and embed their difficulty, tags and the solution's statistics.
 4. Uses Mkdocs to convert the READMEs created in `Step 3` to a website.
 5. The website is then deployed using the GitHub Pages deploy action.
+
+### If you want to use this project
+If you want to use this project follow the steps [here](https://github.com/NinePiece2/Leetcode-Template).
 
 ## My Leetcode Stats
 
