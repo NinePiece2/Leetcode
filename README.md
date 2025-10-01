@@ -141,14 +141,19 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 | 181. Employees Earning More Than Their Managers | [🔗](https://leetcode.romitsagu.com/solutions/181/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 182. Duplicate Emails | [🔗](https://leetcode.romitsagu.com/solutions/182/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 183. Customers Who Never Order | [🔗](https://leetcode.romitsagu.com/solutions/183/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
+| 184. Department Highest Salary | [🔗](https://leetcode.romitsagu.com/solutions/184/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Database |
+| 185. Department Top Three Salaries | [🔗](https://leetcode.romitsagu.com/solutions/185/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Database |
 | 187. Repeated Dna Sequences | [🔗](https://leetcode.romitsagu.com/solutions/187/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, String, Bit Manipulation, Sliding Window, Rolling Hash, Hash Function |
+| 188. Best Time To Buy And Sell Stock IV | [🔗](https://leetcode.romitsagu.com/solutions/188/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Dynamic Programming |
 | 190. Reverse Bits | [🔗](https://leetcode.romitsagu.com/solutions/190/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Divide and Conquer, Bit Manipulation |
 | 191. Number Of 1 Bits | [🔗](https://leetcode.romitsagu.com/solutions/191/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Divide and Conquer, Bit Manipulation |
+| 196. Delete Duplicate Emails | [🔗](https://leetcode.romitsagu.com/solutions/196/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 198. House Robber | [🔗](https://leetcode.romitsagu.com/solutions/198/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming |
 | 200. Number Of Islands | [🔗](https://leetcode.romitsagu.com/solutions/200/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |
 | 201. Bitwise And Of Numbers Range | [🔗](https://leetcode.romitsagu.com/solutions/201/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Bit Manipulation |
 | 207. Course Schedule | [🔗](https://leetcode.romitsagu.com/solutions/207/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Depth-First Search, Breadth-First Search, Graph, Topological Sort |
 | 209. Minimum Size Subarray Sum | [🔗](https://leetcode.romitsagu.com/solutions/209/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Sliding Window, Prefix Sum |
+| 215. Kth Largest Element In An Array | [🔗](https://leetcode.romitsagu.com/solutions/215/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect |
 | 221. Maximal Square | [🔗](https://leetcode.romitsagu.com/solutions/221/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Matrix |
 | 222. Count Complete Tree Nodes | [🔗](https://leetcode.romitsagu.com/solutions/222/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Binary Search, Bit Manipulation, Tree, Binary Tree |
 | 231. Power Of Two | [🔗](https://leetcode.romitsagu.com/solutions/231/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Bit Manipulation, Recursion |
@@ -159,6 +164,7 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 | 275. H Index II | [🔗](https://leetcode.romitsagu.com/solutions/275/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search |
 | 278. First Bad Version | [🔗](https://leetcode.romitsagu.com/solutions/278/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Binary Search, Interactive |
 | 287. Find The Duplicate Number | [🔗](https://leetcode.romitsagu.com/solutions/287/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Two Pointers, Binary Search, Bit Manipulation |
+| 295. Find Median From Data Stream | [🔗](https://leetcode.romitsagu.com/solutions/295/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream |
 | 300. Longest Increasing Subsequence | [🔗](https://leetcode.romitsagu.com/solutions/300/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Dynamic Programming |
 | 309. Best Time To Buy And Sell Stock With Cooldown | [🔗](https://leetcode.romitsagu.com/solutions/309/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming |
 | 315. Count Of Smaller Numbers After Self | [🔗](https://leetcode.romitsagu.com/solutions/315/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set |
@@ -185,6 +191,7 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 | 397. Integer Replacement | [🔗](https://leetcode.romitsagu.com/solutions/397/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Dynamic Programming, Greedy, Bit Manipulation, Memoization |
 | 400. Nth Digit | [🔗](https://leetcode.romitsagu.com/solutions/400/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Binary Search |
 | 401. Binary Watch | [🔗](https://leetcode.romitsagu.com/solutions/401/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Backtracking, Bit Manipulation |
+| 402. Remove K Digits | [🔗](https://leetcode.romitsagu.com/solutions/402/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Stack, Greedy, Monotonic Stack |
 | 405. Convert A Number To Hexadecimal | [🔗](https://leetcode.romitsagu.com/solutions/405/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, String, Bit Manipulation |
 | 410. Split Array Largest Sum | [🔗](https://leetcode.romitsagu.com/solutions/410/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum |
 | 421. Maximum Xor Of Two Numbers In An Array | [🔗](https://leetcode.romitsagu.com/solutions/421/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Bit Manipulation, Trie |
@@ -247,6 +254,7 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 | 1586. Longest Subarray Of 1s After Deleting One Element | [🔗](https://leetcode.romitsagu.com/solutions/1586/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Sliding Window |
 | 1619. Path Crossing | [🔗](https://leetcode.romitsagu.com/solutions/1619/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Hash Table, String |
 | 1628. Count Submatrices With All Ones | [🔗](https://leetcode.romitsagu.com/solutions/1628/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Stack, Matrix, Monotonic Stack |
+| 1642. Water Bottles | [🔗](https://leetcode.romitsagu.com/solutions/1642/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Simulation |
 | 1675. Magnetic Force Between Two Balls | [🔗](https://leetcode.romitsagu.com/solutions/1675/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Sorting |
 | 1765. Merge In Between Linked Lists | [🔗](https://leetcode.romitsagu.com/solutions/1765/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Linked List |
 | 1827. Invalid Tweets | [🔗](https://leetcode.romitsagu.com/solutions/1827/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
