@@ -135,7 +135,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 162. Find Peak Element | [🔗](https://leetcode.romitsagu.com/solutions/162/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search |
 | 165. Compare Version Numbers | [🔗](https://leetcode.romitsagu.com/solutions/165/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Two Pointers, String |
 | 166. Fraction To Recurring Decimal | [🔗](https://leetcode.romitsagu.com/solutions/166/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Math, String |
-| 167. Two Sum II   Input Array Is Sorted | [🔗](https://leetcode.romitsagu.com/solutions/167/) |  |  |
+| 167. Two Sum II Input Array Is Sorted | [🔗](https://leetcode.romitsagu.com/solutions/167/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Two Pointers, Binary Search |
 | 169. Majority Element | [🔗](https://leetcode.romitsagu.com/solutions/169/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, Divide and Conquer, Sorting, Counting |
 | 175. Combine Two Tables | [🔗](https://leetcode.romitsagu.com/solutions/175/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 176. Second Highest Salary | [🔗](https://leetcode.romitsagu.com/solutions/176/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Database |

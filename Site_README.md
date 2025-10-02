@@ -131,7 +131,7 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 | 162. Find Peak Element | [🔗](https://leetcode.romitsagu.com/solutions/162/) | <span style="background-color:#ffffff1a; color:#fac31d; padding:2px 6px; border-radius:6px;">Medium</span> | Array, Binary Search |
 | 165. Compare Version Numbers | [🔗](https://leetcode.romitsagu.com/solutions/165/) | <span style="background-color:#ffffff1a; color:#fac31d; padding:2px 6px; border-radius:6px;">Medium</span> | Two Pointers, String |
 | 166. Fraction To Recurring Decimal | [🔗](https://leetcode.romitsagu.com/solutions/166/) | <span style="background-color:#ffffff1a; color:#fac31d; padding:2px 6px; border-radius:6px;">Medium</span> | Hash Table, Math, String |
-| 167. Two Sum II   Input Array Is Sorted | [🔗](https://leetcode.romitsagu.com/solutions/167/) |  |  |
+| 167. Two Sum II Input Array Is Sorted | [🔗](https://leetcode.romitsagu.com/solutions/167/) | <span style="background-color:#ffffff1a; color:#fac31d; padding:2px 6px; border-radius:6px;">Medium</span> | Array, Two Pointers, Binary Search |
 | 169. Majority Element | [🔗](https://leetcode.romitsagu.com/solutions/169/) | <span style="background-color:#ffffff1a; color:#46c6c2; padding:2px 6px; border-radius:6px;">Easy</span> | Array, Hash Table, Divide and Conquer, Sorting, Counting |
 | 175. Combine Two Tables | [🔗](https://leetcode.romitsagu.com/solutions/175/) | <span style="background-color:#ffffff1a; color:#46c6c2; padding:2px 6px; border-radius:6px;">Easy</span> | Database |
 | 176. Second Highest Salary | [🔗](https://leetcode.romitsagu.com/solutions/176/) | <span style="background-color:#ffffff1a; color:#fac31d; padding:2px 6px; border-radius:6px;">Medium</span> | Database |
