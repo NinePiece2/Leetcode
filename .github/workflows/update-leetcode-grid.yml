@@ -15,14 +15,19 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
-        with:
-          ref: ${{ github.event.workflow_run.head_branch }}
 
       - name: Check for Solutions/ changes
         id: changes
         run: |
-          git fetch origin ${{ github.event.workflow_run.head_sha }}
-          git diff --name-only ${{ github.event.workflow_run.head_sha }}^ ${{ github.event.workflow_run.head_sha }} > files.txt
+          git fetch --depth=2 origin ${{ github.ref_name }}
+          if git rev-parse HEAD^ >/dev/null 2>&1; then
+            # Normal commit (has a parent)
+            git diff --name-only HEAD^ HEAD > files.txt
+          else
+            # Root commit (no parent)
+            git show --name-only --pretty="" HEAD > files.txt
+          fi
+
           if grep -q '^Solutions/' files.txt; then
             echo "changed=true" >> $GITHUB_OUTPUT
           else
