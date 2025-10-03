@@ -35,7 +35,6 @@ jobs:
       - name: Check for Solutions/ changes since last run
         id: changes
         run: |
-          # Fetch enough history to include the last commit
           git fetch --depth=100 origin ${{ github.ref_name }}
 
           if [ -n "${{ steps.last_commit.outputs.last }}" ]; then
