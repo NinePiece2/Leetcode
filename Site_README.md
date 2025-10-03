@@ -29,7 +29,7 @@ This is a repo to store my leetcode solutions but I went a bit Schizo with it an
 ## My Leetcode Stats
 
 <div align="center">
-    <img src="https://leetcard.jacoblin.cool/NinePiece2?theme=dark" height="165" alt="leetcode stats"/>
+    <img src="https://github-readme-leetcode-card.romitsagu.com/NinePiece2?theme=dark" height="165" alt="leetcode stats"/>
 </div>
 
 ## Table of my Solutions

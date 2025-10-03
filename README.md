@@ -33,7 +33,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 ## My Leetcode Stats
 
 <div align="center">
-    <img src="https://leetcard.jacoblin.cool/NinePiece2?theme=dark" height="165" alt="leetcode stats"/>
+    <img src="https://github-readme-leetcode-card.romitsagu.com/NinePiece2?theme=dark" height="165" alt="leetcode stats"/>
 </div>
 
 ## Table of my Solutions
