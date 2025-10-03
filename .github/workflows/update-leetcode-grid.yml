@@ -35,7 +35,9 @@ jobs:
       - name: Check for Solutions/ changes since last run
         id: changes
         run: |
-          git fetch origin ${{ github.ref_name }}
+          # Fetch enough history to include the last commit
+          git fetch --depth=100 origin ${{ github.ref_name }}
+
           if [ -n "${{ steps.last_commit.outputs.last }}" ]; then
             echo "Comparing from ${{ steps.last_commit.outputs.last }} to HEAD"
             git diff --name-only ${{ steps.last_commit.outputs.last }}..HEAD > files.txt
