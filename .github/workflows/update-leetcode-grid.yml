@@ -16,15 +16,31 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v5
 
-      - name: Check for Solutions/ changes
+      - name: Restore last processed commit
+        id: last_commit_cache
+        uses: actions/cache@v4
+        with:
+          path: .last_leetcode_commit
+          key: leetcode-last-commit
+
+      - name: Load last processed commit SHA
+        id: last_commit
+        run: |
+          if [ -f .last_leetcode_commit ]; then
+            echo "last=$(cat .last_leetcode_commit)" >> $GITHUB_OUTPUT
+          else
+            echo "last=" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Check for Solutions/ changes since last run
         id: changes
         run: |
-          git fetch --depth=2 origin ${{ github.ref_name }}
-          if git rev-parse HEAD^ >/dev/null 2>&1; then
-            # Normal commit (has a parent)
-            git diff --name-only HEAD^ HEAD > files.txt
+          git fetch origin ${{ github.ref_name }}
+          if [ -n "${{ steps.last_commit.outputs.last }}" ]; then
+            echo "Comparing from ${{ steps.last_commit.outputs.last }} to HEAD"
+            git diff --name-only ${{ steps.last_commit.outputs.last }}..HEAD > files.txt
           else
-            # Root commit (no parent)
+            echo "No previous commit recorded, checking current HEAD only"
             git show --name-only --pretty="" HEAD > files.txt
           fi
 
@@ -77,3 +93,8 @@ jobs:
           git rebase origin/${{ github.ref_name }}
 
           git push origin HEAD:${{ github.ref_name }}
+
+      - name: Save last processed commit
+        if: always() && steps.changes.outputs.changed == 'true'
+        run: |
+          git rev-parse HEAD > .last_leetcode_commit
