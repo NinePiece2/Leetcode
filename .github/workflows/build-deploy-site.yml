@@ -2,13 +2,10 @@ name: Update and Build LeetCode Site
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - 'Site_README.md'
-      - 'mkdocs.yml'
-      - 'Style/**'
+  workflow_run:
+    workflows: ["Update LeetCode Grid"]
+    types:
+      - completed
 
 concurrency:
   group: ${{ github.workflow }} - ${{ github.ref }}
