@@ -163,10 +163,12 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 207. Course Schedule | [🔗](https://leetcode.romitsagu.com/solutions/207/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Depth-First Search, Breadth-First Search, Graph, Topological Sort |
 | 209. Minimum Size Subarray Sum | [🔗](https://leetcode.romitsagu.com/solutions/209/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Sliding Window, Prefix Sum |
 | 215. Kth Largest Element In An Array | [🔗](https://leetcode.romitsagu.com/solutions/215/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect |
+| 218. The Skyline Problem | [🔗](https://leetcode.romitsagu.com/solutions/218/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Line Sweep, Heap (Priority Queue), Ordered Set |
 | 221. Maximal Square | [🔗](https://leetcode.romitsagu.com/solutions/221/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Matrix |
 | 222. Count Complete Tree Nodes | [🔗](https://leetcode.romitsagu.com/solutions/222/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Binary Search, Bit Manipulation, Tree, Binary Tree |
 | 231. Power Of Two | [🔗](https://leetcode.romitsagu.com/solutions/231/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Bit Manipulation, Recursion |
 | 237. Delete Node In A Linked List | [🔗](https://leetcode.romitsagu.com/solutions/237/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Linked List |
+| 239. Sliding Window Maximum | [🔗](https://leetcode.romitsagu.com/solutions/239/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue |
 | 240. Search A 2d Matrix II | [🔗](https://leetcode.romitsagu.com/solutions/240/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Divide and Conquer, Matrix |
 | 260. Single Number III | [🔗](https://leetcode.romitsagu.com/solutions/260/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Bit Manipulation |
 | 264. Ugly Number II | [🔗](https://leetcode.romitsagu.com/solutions/264/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Math, Dynamic Programming, Heap (Priority Queue) |
@@ -273,6 +275,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 1087. Longest Arithmetic Subsequence | [🔗](https://leetcode.romitsagu.com/solutions/1087/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Binary Search, Dynamic Programming |
 | 1105. Uncrossed Lines | [🔗](https://leetcode.romitsagu.com/solutions/1105/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming |
 | 1111. Minimum Score Triangulation Of Polygon | [🔗](https://leetcode.romitsagu.com/solutions/1111/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming |
+| 1135. Customers Who Bought All Products | [🔗](https://leetcode.romitsagu.com/solutions/1135/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Database |
 | 1153. Product Sales Analysis I | [🔗](https://leetcode.romitsagu.com/solutions/1153/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 1179. Game Play Analysis I | [🔗](https://leetcode.romitsagu.com/solutions/1179/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 1182. Game Play Analysis IV | [🔗](https://leetcode.romitsagu.com/solutions/1182/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Database |
@@ -283,6 +286,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 1330. Longest Arithmetic Subsequence Of Given Difference | [🔗](https://leetcode.romitsagu.com/solutions/1330/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Dynamic Programming |
 | 1364. Tuple With Same Product | [🔗](https://leetcode.romitsagu.com/solutions/1364/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Counting |
 | 1370. Count Number Of Nice Subarrays | [🔗](https://leetcode.romitsagu.com/solutions/1370/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Math, Sliding Window, Prefix Sum |
+| 1390. Average Selling Price | [🔗](https://leetcode.romitsagu.com/solutions/1390/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 1402. Count Square Submatrices With All Ones | [🔗](https://leetcode.romitsagu.com/solutions/1402/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Matrix |
 | 1407. Group The People Given The Group Size They Belong To | [🔗](https://leetcode.romitsagu.com/solutions/1407/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Greedy |
 | 1411. Convert Binary Number In A Linked List To Integer | [🔗](https://leetcode.romitsagu.com/solutions/1411/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Linked List, Math |
