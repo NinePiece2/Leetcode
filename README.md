@@ -280,6 +280,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 1179. Game Play Analysis I | [🔗](https://leetcode.romitsagu.com/solutions/1179/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 1182. Game Play Analysis IV | [🔗](https://leetcode.romitsagu.com/solutions/1182/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Database |
 | 1236. N Th Tribonacci Number | [🔗](https://leetcode.romitsagu.com/solutions/1236/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Dynamic Programming, Memoization |
+| 1245. User Activity For The Past 30 Days I | [🔗](https://leetcode.romitsagu.com/solutions/1245/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 1250. Longest Common Subsequence | [🔗](https://leetcode.romitsagu.com/solutions/1250/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Dynamic Programming |
 | 1258. Article Views I | [🔗](https://leetcode.romitsagu.com/solutions/1258/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 1264. Maximum Number Of Words You Can Type | [🔗](https://leetcode.romitsagu.com/solutions/1264/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Hash Table, String |
