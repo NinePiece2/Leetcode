@@ -185,6 +185,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 231. Power Of Two | [🔗](https://leetcode.romitsagu.com/solutions/231/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Bit Manipulation, Recursion |
 | 234. Palindrome Linked List | [🔗](https://leetcode.romitsagu.com/solutions/234/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Linked List, Two Pointers, Stack, Recursion |
 | 237. Delete Node In A Linked List | [🔗](https://leetcode.romitsagu.com/solutions/237/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Linked List |
+| 238. Product Of Array Except Self | [🔗](https://leetcode.romitsagu.com/solutions/238/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Prefix Sum |
 | 239. Sliding Window Maximum | [🔗](https://leetcode.romitsagu.com/solutions/239/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue |
 | 240. Search A 2d Matrix II | [🔗](https://leetcode.romitsagu.com/solutions/240/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Divide and Conquer, Matrix |
 | 257. Binary Tree Paths | [🔗](https://leetcode.romitsagu.com/solutions/257/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | String, Backtracking, Tree, Depth-First Search, Binary Tree |
@@ -236,6 +237,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 421. Maximum Xor Of Two Numbers In An Array | [🔗](https://leetcode.romitsagu.com/solutions/421/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Bit Manipulation, Trie |
 | 436. Find Right Interval | [🔗](https://leetcode.romitsagu.com/solutions/436/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Sorting |
 | 441. Arranging Coins | [🔗](https://leetcode.romitsagu.com/solutions/441/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Binary Search |
+| 442. Find All Duplicates In An Array | [🔗](https://leetcode.romitsagu.com/solutions/442/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table |
 | 448. Find All Numbers Disappeared In An Array | [🔗](https://leetcode.romitsagu.com/solutions/448/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table |
 | 451. Sort Characters By Frequency | [🔗](https://leetcode.romitsagu.com/solutions/451/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 456. 132 Pattern | [🔗](https://leetcode.romitsagu.com/solutions/456/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Stack, Monotonic Stack, Ordered Set |
