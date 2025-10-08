@@ -1,28 +1,17 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        # temp: Dict[int, int] = {}
+        # count = Counter(nums)
+        # max_num = max(count.values())
+        # return next(key for key, val in count.items() if val == max_num)
 
-        # for i in range(0, len(nums)):
-        #     if (nums[i] in temp):
-        #         a = temp[nums[i]] + 1
-        #         temp[nums[i]] = a
-        #     else:
-        #         temp[nums[i]] = 1
+        # nums = sorted(nums)
+        # return nums[len(nums)//2]
 
-        # sorted_values =  dict(sorted(temp.items(), key=lambda item: item[1], reverse=True))
-        # first_key = next(iter(sorted_values.keys()))
+        count = maj = 0
+        for num in nums:
+            if count == 0:
+                maj, count = num, 1
+            else:
+                count += 1 if num == maj else -1
 
-        # return first_key
-
-        nums.sort()
-        return nums[len(nums)//2]
-    
-    def quicksort(self, arr: List[int]):
-        if len(arr) <= 1:
-            return arr
-        else:
-            pivot = arr[0]
-            left = [x for x in arr[1:] if x < pivot]
-            right = [x for x in arr[1:] if x >= pivot]
-            return self.quicksort(left) + [pivot] + self.quicksort(right)
-        
+        return maj
