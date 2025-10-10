@@ -391,6 +391,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 3278. Find The Number Of Ways To Place People I | [🔗](https://leetcode.romitsagu.com/solutions/3278/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Math, Geometry, Sorting, Enumeration |
 | 3279. Alice And Bob Playing Flower Game | [🔗](https://leetcode.romitsagu.com/solutions/3279/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math |
 | 3336. Water Bottles II | [🔗](https://leetcode.romitsagu.com/solutions/3336/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Simulation |
+| 3383. Taking Maximum Energy From The Mystic Dungeon | [🔗](https://leetcode.romitsagu.com/solutions/3383/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Prefix Sum |
 | 3459. Find The Minimum Area To Cover All Ones II | [🔗](https://leetcode.romitsagu.com/solutions/3459/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Matrix, Enumeration |
 | 3461. Find The Minimum Area To Cover All Ones I | [🔗](https://leetcode.romitsagu.com/solutions/3461/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Matrix |
 | 3462. Vowels Game In A String | [🔗](https://leetcode.romitsagu.com/solutions/3462/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, String, Brainteaser, Game Theory |
