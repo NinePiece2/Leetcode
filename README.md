@@ -261,10 +261,16 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 491. Non Decreasing Subsequences | [🔗](https://leetcode.romitsagu.com/solutions/491/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Backtracking, Bit Manipulation |
 | 492. Construct The Rectangle | [🔗](https://leetcode.romitsagu.com/solutions/492/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math |
 | 495. Teemo Attacking | [🔗](https://leetcode.romitsagu.com/solutions/495/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Simulation |
+| 496. Next Greater Element I | [🔗](https://leetcode.romitsagu.com/solutions/496/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, Stack, Monotonic Stack |
 | 498. Diagonal Traverse | [🔗](https://leetcode.romitsagu.com/solutions/498/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Matrix, Simulation |
+| 500. Keyboard Row | [🔗](https://leetcode.romitsagu.com/solutions/500/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, String |
+| 501. Find Mode In Binary Search Tree | [🔗](https://leetcode.romitsagu.com/solutions/501/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 502. Ipo | [🔗](https://leetcode.romitsagu.com/solutions/502/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Greedy, Sorting, Heap (Priority Queue) |
+| 504. Base 7 | [🔗](https://leetcode.romitsagu.com/solutions/504/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, String |
 | 506. Relative Ranks | [🔗](https://leetcode.romitsagu.com/solutions/506/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Sorting, Heap (Priority Queue) |
+| 507. Perfect Number | [🔗](https://leetcode.romitsagu.com/solutions/507/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math |
 | 516. Longest Palindromic Subsequence | [🔗](https://leetcode.romitsagu.com/solutions/516/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Dynamic Programming |
+| 520. Detect Capital | [🔗](https://leetcode.romitsagu.com/solutions/520/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | String |
 | 543. Diameter Of Binary Tree | [🔗](https://leetcode.romitsagu.com/solutions/543/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Tree, Depth-First Search, Binary Tree |
 | 567. Permutation In String | [🔗](https://leetcode.romitsagu.com/solutions/567/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Two Pointers, String, Sliding Window |
 | 570. Managers With At Least 5 Direct Reports | [🔗](https://leetcode.romitsagu.com/solutions/570/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Database |
