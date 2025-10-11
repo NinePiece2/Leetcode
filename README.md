@@ -142,12 +142,15 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 123. Best Time To Buy And Sell Stock III | [🔗](https://leetcode.romitsagu.com/solutions/123/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Dynamic Programming |
 | 129. Sum Root To Leaf Numbers | [🔗](https://leetcode.romitsagu.com/solutions/129/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Tree, Depth-First Search, Binary Tree |
 | 130. Surrounded Regions | [🔗](https://leetcode.romitsagu.com/solutions/130/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |
+| 133. Clone Graph | [🔗](https://leetcode.romitsagu.com/solutions/133/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Depth-First Search, Breadth-First Search, Graph |
 | 134. Gas Station | [🔗](https://leetcode.romitsagu.com/solutions/134/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Greedy |
 | 135. Candy | [🔗](https://leetcode.romitsagu.com/solutions/135/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Greedy |
 | 136. Single Number | [🔗](https://leetcode.romitsagu.com/solutions/136/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Bit Manipulation |
 | 137. Single Number II | [🔗](https://leetcode.romitsagu.com/solutions/137/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Bit Manipulation |
 | 139. Word Break | [🔗](https://leetcode.romitsagu.com/solutions/139/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, String, Dynamic Programming, Trie, Memoization |
 | 141. Linked List Cycle | [🔗](https://leetcode.romitsagu.com/solutions/141/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Hash Table, Linked List, Two Pointers |
+| 144. Binary Tree Preorder Traversal | [🔗](https://leetcode.romitsagu.com/solutions/144/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Stack, Tree, Depth-First Search, Binary Tree |
+| 145. Binary Tree Postorder Traversal | [🔗](https://leetcode.romitsagu.com/solutions/145/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Stack, Tree, Depth-First Search, Binary Tree |
 | 146. Lru Cache | [🔗](https://leetcode.romitsagu.com/solutions/146/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Linked List, Design, Doubly-Linked List |
 | 153. Find Minimum In Rotated Sorted Array | [🔗](https://leetcode.romitsagu.com/solutions/153/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search |
 | 154. Find Minimum In Rotated Sorted Array II | [🔗](https://leetcode.romitsagu.com/solutions/154/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search |
@@ -173,12 +176,14 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 196. Delete Duplicate Emails | [🔗](https://leetcode.romitsagu.com/solutions/196/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 197. Rising Temperature | [🔗](https://leetcode.romitsagu.com/solutions/197/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 198. House Robber | [🔗](https://leetcode.romitsagu.com/solutions/198/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming |
+| 199. Binary Tree Right Side View | [🔗](https://leetcode.romitsagu.com/solutions/199/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 200. Number Of Islands | [🔗](https://leetcode.romitsagu.com/solutions/200/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |
 | 201. Bitwise And Of Numbers Range | [🔗](https://leetcode.romitsagu.com/solutions/201/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Bit Manipulation |
 | 203. Remove Linked List Elements | [🔗](https://leetcode.romitsagu.com/solutions/203/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Linked List, Recursion |
 | 206. Reverse Linked List | [🔗](https://leetcode.romitsagu.com/solutions/206/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Linked List, Recursion |
 | 207. Course Schedule | [🔗](https://leetcode.romitsagu.com/solutions/207/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Depth-First Search, Breadth-First Search, Graph, Topological Sort |
 | 209. Minimum Size Subarray Sum | [🔗](https://leetcode.romitsagu.com/solutions/209/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Sliding Window, Prefix Sum |
+| 210. Course Schedule II | [🔗](https://leetcode.romitsagu.com/solutions/210/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Depth-First Search, Breadth-First Search, Graph, Topological Sort |
 | 215. Kth Largest Element In An Array | [🔗](https://leetcode.romitsagu.com/solutions/215/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect |
 | 217. Contains Duplicate | [🔗](https://leetcode.romitsagu.com/solutions/217/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, Sorting |
 | 218. The Skyline Problem | [🔗](https://leetcode.romitsagu.com/solutions/218/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Line Sweep, Sorting, Heap (Priority Queue), Ordered Set |
@@ -271,7 +276,14 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 507. Perfect Number | [🔗](https://leetcode.romitsagu.com/solutions/507/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math |
 | 516. Longest Palindromic Subsequence | [🔗](https://leetcode.romitsagu.com/solutions/516/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Dynamic Programming |
 | 520. Detect Capital | [🔗](https://leetcode.romitsagu.com/solutions/520/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | String |
+| 521. Longest Uncommon Subsequence I | [🔗](https://leetcode.romitsagu.com/solutions/521/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | String |
+| 530. Minimum Absolute Difference In Bst | [🔗](https://leetcode.romitsagu.com/solutions/530/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Tree, Depth-First Search, Breadth-First Search, Binary Search Tree, Binary Tree |
+| 541. Reverse String II | [🔗](https://leetcode.romitsagu.com/solutions/541/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Two Pointers, String |
 | 543. Diameter Of Binary Tree | [🔗](https://leetcode.romitsagu.com/solutions/543/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Tree, Depth-First Search, Binary Tree |
+| 551. Student Attendance Record I | [🔗](https://leetcode.romitsagu.com/solutions/551/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | String |
+| 557. Reverse Words In A String III | [🔗](https://leetcode.romitsagu.com/solutions/557/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Two Pointers, String |
+| 561. Array Partition | [🔗](https://leetcode.romitsagu.com/solutions/561/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Greedy, Sorting, Counting Sort |
+| 563. Binary Tree Tilt | [🔗](https://leetcode.romitsagu.com/solutions/563/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Tree, Depth-First Search, Binary Tree |
 | 567. Permutation In String | [🔗](https://leetcode.romitsagu.com/solutions/567/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Two Pointers, String, Sliding Window |
 | 570. Managers With At Least 5 Direct Reports | [🔗](https://leetcode.romitsagu.com/solutions/570/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Database |
 | 572. Subtree Of Another Tree | [🔗](https://leetcode.romitsagu.com/solutions/572/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Tree, Depth-First Search, String Matching, Binary Tree, Hash Function |
@@ -306,6 +318,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 744. Network Delay Time | [🔗](https://leetcode.romitsagu.com/solutions/744/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path |
 | 745. Find Smallest Letter Greater Than Target | [🔗](https://leetcode.romitsagu.com/solutions/745/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Binary Search |
 | 747. Min Cost Climbing Stairs | [🔗](https://leetcode.romitsagu.com/solutions/747/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Dynamic Programming |
+| 774. Maximum Depth Of N Ary Tree | [🔗](https://leetcode.romitsagu.com/solutions/774/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Tree, Depth-First Search, Breadth-First Search |
 | 778. Reorganize String | [🔗](https://leetcode.romitsagu.com/solutions/778/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting |
 | 789. Kth Largest Element In A Stream | [🔗](https://leetcode.romitsagu.com/solutions/789/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream |
 | 792. Binary Search | [🔗](https://leetcode.romitsagu.com/solutions/792/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Binary Search |
@@ -398,6 +411,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 3279. Alice And Bob Playing Flower Game | [🔗](https://leetcode.romitsagu.com/solutions/3279/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math |
 | 3336. Water Bottles II | [🔗](https://leetcode.romitsagu.com/solutions/3336/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Simulation |
 | 3383. Taking Maximum Energy From The Mystic Dungeon | [🔗](https://leetcode.romitsagu.com/solutions/3383/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Prefix Sum |
+| 3437. Maximum Total Damage With Spell Casting | [🔗](https://leetcode.romitsagu.com/solutions/3437/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Two Pointers, Binary Search, Dynamic Programming, Sorting, Counting |
 | 3459. Find The Minimum Area To Cover All Ones II | [🔗](https://leetcode.romitsagu.com/solutions/3459/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Matrix, Enumeration |
 | 3461. Find The Minimum Area To Cover All Ones I | [🔗](https://leetcode.romitsagu.com/solutions/3461/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Matrix |
 | 3462. Vowels Game In A String | [🔗](https://leetcode.romitsagu.com/solutions/3462/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, String, Brainteaser, Game Theory |
