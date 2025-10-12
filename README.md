@@ -101,6 +101,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 62. Unique Paths | [🔗](https://leetcode.romitsagu.com/solutions/62/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Dynamic Programming, Combinatorics |
 | 63. Unique Paths II | [🔗](https://leetcode.romitsagu.com/solutions/63/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Matrix |
 | 64. Minimum Path Sum | [🔗](https://leetcode.romitsagu.com/solutions/64/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Matrix |
+| 66. Plus One | [🔗](https://leetcode.romitsagu.com/solutions/66/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Math |
 | 67. Add Binary | [🔗](https://leetcode.romitsagu.com/solutions/67/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, String, Bit Manipulation, Simulation |
 | 68. Text Justification | [🔗](https://leetcode.romitsagu.com/solutions/68/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, String, Simulation |
 | 69. Sqrtx | [🔗](https://leetcode.romitsagu.com/solutions/69/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Binary Search |
@@ -127,6 +128,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 104. Maximum Depth Of Binary Tree | [🔗](https://leetcode.romitsagu.com/solutions/104/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 105. Construct Binary Tree From Preorder And Inorder Traversal | [🔗](https://leetcode.romitsagu.com/solutions/105/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Divide and Conquer, Tree, Binary Tree |
 | 106. Construct Binary Tree From Inorder And Postorder Traversal | [🔗](https://leetcode.romitsagu.com/solutions/106/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Divide and Conquer, Tree, Binary Tree |
+| 108. Convert Sorted Array To Binary Search Tree | [🔗](https://leetcode.romitsagu.com/solutions/108/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Divide and Conquer, Tree, Binary Search Tree, Binary Tree |
 | 110. Balanced Binary Tree | [🔗](https://leetcode.romitsagu.com/solutions/110/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Tree, Depth-First Search, Binary Tree |
 | 111. Minimum Depth Of Binary Tree | [🔗](https://leetcode.romitsagu.com/solutions/111/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 112. Path Sum | [🔗](https://leetcode.romitsagu.com/solutions/112/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
@@ -136,6 +138,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 116. Populating Next Right Pointers In Each Node | [🔗](https://leetcode.romitsagu.com/solutions/116/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Linked List, Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 117. Populating Next Right Pointers In Each Node II | [🔗](https://leetcode.romitsagu.com/solutions/117/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Linked List, Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 118. Pascals Triangle | [🔗](https://leetcode.romitsagu.com/solutions/118/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Dynamic Programming |
+| 119. Pascals Triangle II | [🔗](https://leetcode.romitsagu.com/solutions/119/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Dynamic Programming |
 | 120. Triangle | [🔗](https://leetcode.romitsagu.com/solutions/120/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming |
 | 121. Best Time To Buy And Sell Stock | [🔗](https://leetcode.romitsagu.com/solutions/121/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Dynamic Programming |
 | 122. Best Time To Buy And Sell Stock II | [🔗](https://leetcode.romitsagu.com/solutions/122/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Greedy |
