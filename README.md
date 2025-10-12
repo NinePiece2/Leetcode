@@ -426,4 +426,5 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 3797. Design Spreadsheet | [🔗](https://leetcode.romitsagu.com/solutions/3797/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, String, Design, Matrix |
 | 3827. Implement Router | [🔗](https://leetcode.romitsagu.com/solutions/3827/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Binary Search, Design, Queue, Ordered Set |
 | 3830. Find Closest Person | [🔗](https://leetcode.romitsagu.com/solutions/3830/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math |
+| 3851. Find Sum Of Array Product Of Magical Sequences | [🔗](https://leetcode.romitsagu.com/solutions/3851/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Math, Dynamic Programming, Bit Manipulation, Combinatorics, Bitmask |
 | 3872. Find Most Frequent Vowel And Consonant | [🔗](https://leetcode.romitsagu.com/solutions/3872/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Hash Table, String, Counting |
