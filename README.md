@@ -287,9 +287,11 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 557. Reverse Words In A String III | [🔗](https://leetcode.romitsagu.com/solutions/557/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Two Pointers, String |
 | 561. Array Partition | [🔗](https://leetcode.romitsagu.com/solutions/561/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Greedy, Sorting, Counting Sort |
 | 563. Binary Tree Tilt | [🔗](https://leetcode.romitsagu.com/solutions/563/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Tree, Depth-First Search, Binary Tree |
+| 566. Reshape The Matrix | [🔗](https://leetcode.romitsagu.com/solutions/566/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Matrix, Simulation |
 | 567. Permutation In String | [🔗](https://leetcode.romitsagu.com/solutions/567/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Two Pointers, String, Sliding Window |
 | 570. Managers With At Least 5 Direct Reports | [🔗](https://leetcode.romitsagu.com/solutions/570/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Database |
 | 572. Subtree Of Another Tree | [🔗](https://leetcode.romitsagu.com/solutions/572/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Tree, Depth-First Search, String Matching, Binary Tree, Hash Function |
+| 575. Distribute Candies | [🔗](https://leetcode.romitsagu.com/solutions/575/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table |
 | 577. Employee Bonus | [🔗](https://leetcode.romitsagu.com/solutions/577/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 584. Find Customer Referee | [🔗](https://leetcode.romitsagu.com/solutions/584/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 586. Customer Placing The Largest Number Of Orders | [🔗](https://leetcode.romitsagu.com/solutions/586/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
