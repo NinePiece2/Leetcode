@@ -359,6 +359,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 1258. Article Views I | [🔗](https://leetcode.romitsagu.com/solutions/1258/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 1264. Maximum Number Of Words You Can Type | [🔗](https://leetcode.romitsagu.com/solutions/1264/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Hash Table, String |
 | 1330. Longest Arithmetic Subsequence Of Given Difference | [🔗](https://leetcode.romitsagu.com/solutions/1330/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Dynamic Programming |
+| 1353. Find Resultant Array After Removing Anagrams | [🔗](https://leetcode.romitsagu.com/solutions/1353/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, String, Sorting |
 | 1364. Tuple With Same Product | [🔗](https://leetcode.romitsagu.com/solutions/1364/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Counting |
 | 1370. Count Number Of Nice Subarrays | [🔗](https://leetcode.romitsagu.com/solutions/1370/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Math, Sliding Window, Prefix Sum |
 | 1390. Average Selling Price | [🔗](https://leetcode.romitsagu.com/solutions/1390/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
