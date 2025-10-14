@@ -20,12 +20,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v5
 
-      - name: Restore last processed commit
-        id: last_commit_cache
-        uses: actions/cache@v4
+      - name: Restore LeetCode API cache
+        uses: actions/cache/restore@v4
         with:
-          path: .last_leetcode_commit
-          key: leetcode-last-commit
+          path: .leetcode_cache.json
+          key: leetcode-cache
 
       # - name: Load last processed commit SHA
       #   id: last_commit
