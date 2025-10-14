@@ -39,13 +39,6 @@ jobs:
       - name: Update READMEs
         run: python ./Scripts/update_readmes.py
 
-      - name: Save updated cache
-        if: always()
-        uses: actions/cache/save@v4
-        with:
-          path: .leetcode_cache.json
-          key: leetcode-cache
-
       - name: Upload docs and mkdocs.yml as artifact
         uses: actions/upload-artifact@v4
         with:
