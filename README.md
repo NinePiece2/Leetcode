@@ -302,6 +302,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 599. Minimum Index Sum Of Two Lists | [🔗](https://leetcode.romitsagu.com/solutions/599/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, String |
 | 601. Human Traffic Of Stadium | [🔗](https://leetcode.romitsagu.com/solutions/601/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Database |
 | 602. Friend Requests II Who Has The Most Friends | [🔗](https://leetcode.romitsagu.com/solutions/602/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Database |
+| 605. Can Place Flowers | [🔗](https://leetcode.romitsagu.com/solutions/605/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Greedy |
 | 607. Sales Person | [🔗](https://leetcode.romitsagu.com/solutions/607/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 608. Tree Node | [🔗](https://leetcode.romitsagu.com/solutions/608/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Database |
 | 610. Triangle Judgement | [🔗](https://leetcode.romitsagu.com/solutions/610/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
@@ -312,8 +313,10 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 621. Task Scheduler | [🔗](https://leetcode.romitsagu.com/solutions/621/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting |
 | 626. Exchange Seats | [🔗](https://leetcode.romitsagu.com/solutions/626/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Database |
 | 627. Swap Salary | [🔗](https://leetcode.romitsagu.com/solutions/627/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
+| 628. Maximum Product Of Three Numbers | [🔗](https://leetcode.romitsagu.com/solutions/628/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Math, Sorting |
 | 637. Average Of Levels In Binary Tree | [🔗](https://leetcode.romitsagu.com/solutions/637/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 643. Maximum Average Subarray I | [🔗](https://leetcode.romitsagu.com/solutions/643/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Sliding Window |
+| 645. Set Mismatch | [🔗](https://leetcode.romitsagu.com/solutions/645/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, Bit Manipulation, Sorting |
 | 646. Maximum Length Of Pair Chain | [🔗](https://leetcode.romitsagu.com/solutions/646/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Greedy, Sorting |
 | 658. Find K Closest Elements | [🔗](https://leetcode.romitsagu.com/solutions/658/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Two Pointers, Binary Search, Sliding Window, Sorting, Heap (Priority Queue) |
 | 659. Split Array Into Consecutive Subsequences | [🔗](https://leetcode.romitsagu.com/solutions/659/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Greedy, Heap (Priority Queue) |
@@ -426,6 +429,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 3459. Find The Minimum Area To Cover All Ones II | [🔗](https://leetcode.romitsagu.com/solutions/3459/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Matrix, Enumeration |
 | 3461. Find The Minimum Area To Cover All Ones I | [🔗](https://leetcode.romitsagu.com/solutions/3461/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Matrix |
 | 3462. Vowels Game In A String | [🔗](https://leetcode.romitsagu.com/solutions/3462/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, String, Brainteaser, Game Theory |
+| 3612. Adjacent Increasing Subarrays Detection I | [🔗](https://leetcode.romitsagu.com/solutions/3612/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array |
 | 3648. Find The Maximum Number Of Fruits Collected | [🔗](https://leetcode.romitsagu.com/solutions/3648/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Dynamic Programming, Matrix |
 | 3678. Design Task Manager | [🔗](https://leetcode.romitsagu.com/solutions/3678/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Design, Heap (Priority Queue), Ordered Set |
 | 3733. Length Of Longest V Shaped Diagonal Segment | [🔗](https://leetcode.romitsagu.com/solutions/3733/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Dynamic Programming, Memoization, Matrix |
