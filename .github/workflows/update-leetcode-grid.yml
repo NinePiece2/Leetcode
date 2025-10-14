@@ -20,11 +20,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v5
 
-      - name: Restore LeetCode API cache
-        uses: actions/cache/restore@v4
+      - name: Restore last processed commit
+        id: last_commit_cache
+        uses: actions/cache@v4
         with:
-          path: .leetcode_cache.json
-          key: leetcode-cache
+          path: .last_leetcode_commit
+          key: leetcode-last-commit
 
       # - name: Load last processed commit SHA
       #   id: last_commit
@@ -64,7 +65,7 @@ jobs:
           pip install pyyaml requests
 
       - name: Restore LeetCode API cache
-        uses: actions/cache@v4
+        uses: actions/cache/restore@v4
         with:
           path: .leetcode_cache.json
           key: leetcode-cache
