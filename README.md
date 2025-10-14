@@ -325,6 +325,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 661. Image Smoother | [🔗](https://leetcode.romitsagu.com/solutions/661/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Matrix |
 | 671. Second Minimum Node In A Binary Tree | [🔗](https://leetcode.romitsagu.com/solutions/671/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Tree, Depth-First Search, Binary Tree |
 | 673. Number Of Longest Increasing Subsequence | [🔗](https://leetcode.romitsagu.com/solutions/673/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Binary Indexed Tree, Segment Tree |
+| 674. Longest Continuous Increasing Subsequence | [🔗](https://leetcode.romitsagu.com/solutions/674/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array |
 | 679. 24 Game | [🔗](https://leetcode.romitsagu.com/solutions/679/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Math, Backtracking |
 | 692. Top K Frequent Words | [🔗](https://leetcode.romitsagu.com/solutions/692/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 712. Minimum Ascii Delete Sum For Two Strings | [🔗](https://leetcode.romitsagu.com/solutions/712/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Dynamic Programming |
