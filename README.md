@@ -295,8 +295,11 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 577. Employee Bonus | [🔗](https://leetcode.romitsagu.com/solutions/577/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 584. Find Customer Referee | [🔗](https://leetcode.romitsagu.com/solutions/584/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 586. Customer Placing The Largest Number Of Orders | [🔗](https://leetcode.romitsagu.com/solutions/586/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
+| 594. Longest Harmonious Subsequence | [🔗](https://leetcode.romitsagu.com/solutions/594/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, Sliding Window, Sorting, Counting |
 | 595. Big Countries | [🔗](https://leetcode.romitsagu.com/solutions/595/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 596. Classes With At Least 5 Students | [🔗](https://leetcode.romitsagu.com/solutions/596/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
+| 598. Range Addition II | [🔗](https://leetcode.romitsagu.com/solutions/598/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Math |
+| 599. Minimum Index Sum Of Two Lists | [🔗](https://leetcode.romitsagu.com/solutions/599/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, String |
 | 601. Human Traffic Of Stadium | [🔗](https://leetcode.romitsagu.com/solutions/601/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Database |
 | 602. Friend Requests II Who Has The Most Friends | [🔗](https://leetcode.romitsagu.com/solutions/602/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Database |
 | 607. Sales Person | [🔗](https://leetcode.romitsagu.com/solutions/607/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
@@ -324,6 +327,8 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 745. Find Smallest Letter Greater Than Target | [🔗](https://leetcode.romitsagu.com/solutions/745/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Binary Search |
 | 747. Min Cost Climbing Stairs | [🔗](https://leetcode.romitsagu.com/solutions/747/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Dynamic Programming |
 | 774. Maximum Depth Of N Ary Tree | [🔗](https://leetcode.romitsagu.com/solutions/774/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Tree, Depth-First Search, Breadth-First Search |
+| 775. N Ary Tree Preorder Traversal | [🔗](https://leetcode.romitsagu.com/solutions/775/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Stack, Tree, Depth-First Search |
+| 776. N Ary Tree Postorder Traversal | [🔗](https://leetcode.romitsagu.com/solutions/776/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Stack, Tree, Depth-First Search |
 | 778. Reorganize String | [🔗](https://leetcode.romitsagu.com/solutions/778/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting |
 | 789. Kth Largest Element In A Stream | [🔗](https://leetcode.romitsagu.com/solutions/789/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream |
 | 792. Binary Search | [🔗](https://leetcode.romitsagu.com/solutions/792/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Binary Search |
