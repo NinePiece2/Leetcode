@@ -68,7 +68,9 @@ jobs:
         uses: actions/cache/restore@v4
         with:
           path: .leetcode_cache.json
-          key: leetcode-cache
+          key: leetcode-cache-${{ github.run_id }}
+          restore-keys: |
+            leetcode-cache-
 
       - name: Generate LeetCode README table
         run: |
@@ -79,7 +81,7 @@ jobs:
         uses: actions/cache/save@v4
         with:
           path: .leetcode_cache.json
-          key: leetcode-cache
+          key: leetcode-cache-${{ github.run_id }}
 
       - name: Commit and push changes
         run: |
