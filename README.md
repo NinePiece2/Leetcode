@@ -370,6 +370,10 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 829. Subdomain Visit Count | [🔗](https://leetcode.romitsagu.com/solutions/829/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, String, Counting |
 | 830. Largest Triangle Area | [🔗](https://leetcode.romitsagu.com/solutions/830/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Math, Geometry |
 | 837. Most Common Word | [🔗](https://leetcode.romitsagu.com/solutions/837/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, String, Counting |
+| 841. Shortest Distance To A Character | [🔗](https://leetcode.romitsagu.com/solutions/841/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Two Pointers, String |
+| 851. Goat Latin | [🔗](https://leetcode.romitsagu.com/solutions/851/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | String |
+| 857. Positions Of Large Groups | [🔗](https://leetcode.romitsagu.com/solutions/857/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | String |
+| 861. Flipping An Image | [🔗](https://leetcode.romitsagu.com/solutions/861/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Two Pointers, Bit Manipulation, Matrix, Simulation |
 | 867. New 21 Game | [🔗](https://leetcode.romitsagu.com/solutions/867/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Dynamic Programming, Sliding Window, Probability and Statistics |
 | 874. Backspace String Compare | [🔗](https://leetcode.romitsagu.com/solutions/874/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Two Pointers, String, Stack, Simulation |
 | 879. Maximize Distance To Closest Person | [🔗](https://leetcode.romitsagu.com/solutions/879/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array |
@@ -449,6 +453,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 2837. Minimum Operations To Make The Integer Zero | [🔗](https://leetcode.romitsagu.com/solutions/2837/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Bit Manipulation, Brainteaser, Enumeration |
 | 2882. Ways To Express An Integer As Sum Of Powers | [🔗](https://leetcode.romitsagu.com/solutions/2882/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Dynamic Programming |
 | 2887. Sort Vowels In A String | [🔗](https://leetcode.romitsagu.com/solutions/2887/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Sorting |
+| 3233. Maximize The Number Of Partitions After Operations | [🔗](https://leetcode.romitsagu.com/solutions/3233/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | String, Dynamic Programming, Bit Manipulation, Bitmask |
 | 3242. Count Elements With Maximum Frequency | [🔗](https://leetcode.romitsagu.com/solutions/3242/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, Counting |
 | 3251. Maximum Area Of Longest Diagonal Rectangle | [🔗](https://leetcode.romitsagu.com/solutions/3251/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array |
 | 3277. Find The Number Of Ways To Place People II | [🔗](https://leetcode.romitsagu.com/solutions/3277/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Math, Geometry, Sorting, Enumeration |
