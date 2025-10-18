@@ -143,6 +143,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 121. Best Time To Buy And Sell Stock | [🔗](https://leetcode.romitsagu.com/solutions/121/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Dynamic Programming |
 | 122. Best Time To Buy And Sell Stock II | [🔗](https://leetcode.romitsagu.com/solutions/122/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Greedy |
 | 123. Best Time To Buy And Sell Stock III | [🔗](https://leetcode.romitsagu.com/solutions/123/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Dynamic Programming |
+| 125. Valid Palindrome | [🔗](https://leetcode.romitsagu.com/solutions/125/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Two Pointers, String |
 | 129. Sum Root To Leaf Numbers | [🔗](https://leetcode.romitsagu.com/solutions/129/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Tree, Depth-First Search, Binary Tree |
 | 130. Surrounded Regions | [🔗](https://leetcode.romitsagu.com/solutions/130/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix |
 | 133. Clone Graph | [🔗](https://leetcode.romitsagu.com/solutions/133/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Depth-First Search, Breadth-First Search, Graph |
@@ -374,6 +375,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 851. Goat Latin | [🔗](https://leetcode.romitsagu.com/solutions/851/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | String |
 | 857. Positions Of Large Groups | [🔗](https://leetcode.romitsagu.com/solutions/857/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | String |
 | 861. Flipping An Image | [🔗](https://leetcode.romitsagu.com/solutions/861/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Two Pointers, Bit Manipulation, Matrix, Simulation |
+| 866. Rectangle Overlap | [🔗](https://leetcode.romitsagu.com/solutions/866/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Geometry |
 | 867. New 21 Game | [🔗](https://leetcode.romitsagu.com/solutions/867/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Dynamic Programming, Sliding Window, Probability and Statistics |
 | 874. Backspace String Compare | [🔗](https://leetcode.romitsagu.com/solutions/874/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Two Pointers, String, Stack, Simulation |
 | 879. Maximize Distance To Closest Person | [🔗](https://leetcode.romitsagu.com/solutions/879/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array |
