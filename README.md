@@ -275,6 +275,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 485. Max Consecutive Ones | [🔗](https://leetcode.romitsagu.com/solutions/485/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array |
 | 491. Non Decreasing Subsequences | [🔗](https://leetcode.romitsagu.com/solutions/491/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Backtracking, Bit Manipulation |
 | 492. Construct The Rectangle | [🔗](https://leetcode.romitsagu.com/solutions/492/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math |
+| 494. Target Sum | [🔗](https://leetcode.romitsagu.com/solutions/494/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Backtracking |
 | 495. Teemo Attacking | [🔗](https://leetcode.romitsagu.com/solutions/495/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Simulation |
 | 496. Next Greater Element I | [🔗](https://leetcode.romitsagu.com/solutions/496/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, Stack, Monotonic Stack |
 | 498. Diagonal Traverse | [🔗](https://leetcode.romitsagu.com/solutions/498/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Matrix, Simulation |
