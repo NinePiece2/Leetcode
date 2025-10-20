@@ -92,6 +92,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 50. Powx N | [🔗](https://leetcode.romitsagu.com/solutions/50/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Recursion |
 | 51. N Queens | [🔗](https://leetcode.romitsagu.com/solutions/51/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Backtracking |
 | 52. N Queens II | [🔗](https://leetcode.romitsagu.com/solutions/52/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Backtracking |
+| 53. Maximum Subarray | [🔗](https://leetcode.romitsagu.com/solutions/53/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Divide and Conquer, Dynamic Programming |
 | 54. Spiral Matrix | [🔗](https://leetcode.romitsagu.com/solutions/54/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Matrix, Simulation |
 | 55. Jump Game | [🔗](https://leetcode.romitsagu.com/solutions/55/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Greedy |
 | 56. Merge Intervals | [🔗](https://leetcode.romitsagu.com/solutions/56/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Sorting |
@@ -120,6 +121,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 88. Merge Sorted Array | [🔗](https://leetcode.romitsagu.com/solutions/88/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Two Pointers, Sorting |
 | 89. Gray Code | [🔗](https://leetcode.romitsagu.com/solutions/89/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Backtracking, Bit Manipulation |
 | 90. Subsets II | [🔗](https://leetcode.romitsagu.com/solutions/90/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Backtracking, Bit Manipulation |
+| 91. Decode Ways | [🔗](https://leetcode.romitsagu.com/solutions/91/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Dynamic Programming |
 | 94. Binary Tree Inorder Traversal | [🔗](https://leetcode.romitsagu.com/solutions/94/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Stack, Tree, Depth-First Search, Binary Tree |
 | 96. Unique Binary Search Trees | [🔗](https://leetcode.romitsagu.com/solutions/96/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Dynamic Programming, Tree, Binary Search Tree, Binary Tree |
 | 98. Validate Binary Search Tree | [🔗](https://leetcode.romitsagu.com/solutions/98/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
@@ -160,6 +162,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 144. Binary Tree Preorder Traversal | [🔗](https://leetcode.romitsagu.com/solutions/144/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Stack, Tree, Depth-First Search, Binary Tree |
 | 145. Binary Tree Postorder Traversal | [🔗](https://leetcode.romitsagu.com/solutions/145/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Stack, Tree, Depth-First Search, Binary Tree |
 | 146. Lru Cache | [🔗](https://leetcode.romitsagu.com/solutions/146/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Linked List, Design, Doubly-Linked List |
+| 152. Maximum Product Subarray | [🔗](https://leetcode.romitsagu.com/solutions/152/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming |
 | 153. Find Minimum In Rotated Sorted Array | [🔗](https://leetcode.romitsagu.com/solutions/153/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search |
 | 154. Find Minimum In Rotated Sorted Array II | [🔗](https://leetcode.romitsagu.com/solutions/154/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search |
 | 160. Intersection Of Two Linked Lists | [🔗](https://leetcode.romitsagu.com/solutions/160/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Hash Table, Linked List, Two Pointers |
@@ -198,6 +201,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 207. Course Schedule | [🔗](https://leetcode.romitsagu.com/solutions/207/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Depth-First Search, Breadth-First Search, Graph, Topological Sort |
 | 209. Minimum Size Subarray Sum | [🔗](https://leetcode.romitsagu.com/solutions/209/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Sliding Window, Prefix Sum |
 | 210. Course Schedule II | [🔗](https://leetcode.romitsagu.com/solutions/210/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Depth-First Search, Breadth-First Search, Graph, Topological Sort |
+| 213. House Robber II | [🔗](https://leetcode.romitsagu.com/solutions/213/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming |
 | 215. Kth Largest Element In An Array | [🔗](https://leetcode.romitsagu.com/solutions/215/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect |
 | 216. Combination Sum III | [🔗](https://leetcode.romitsagu.com/solutions/216/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Backtracking |
 | 217. Contains Duplicate | [🔗](https://leetcode.romitsagu.com/solutions/217/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, Sorting |
@@ -205,6 +209,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 219. Contains Duplicate II | [🔗](https://leetcode.romitsagu.com/solutions/219/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, Sliding Window |
 | 221. Maximal Square | [🔗](https://leetcode.romitsagu.com/solutions/221/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Matrix |
 | 222. Count Complete Tree Nodes | [🔗](https://leetcode.romitsagu.com/solutions/222/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Binary Search, Bit Manipulation, Tree, Binary Tree |
+| 225. Implement Stack Using Queues | [🔗](https://leetcode.romitsagu.com/solutions/225/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Stack, Design, Queue |
 | 226. Invert Binary Tree | [🔗](https://leetcode.romitsagu.com/solutions/226/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 231. Power Of Two | [🔗](https://leetcode.romitsagu.com/solutions/231/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Bit Manipulation, Recursion |
 | 234. Palindrome Linked List | [🔗](https://leetcode.romitsagu.com/solutions/234/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Linked List, Two Pointers, Stack, Recursion |
@@ -227,6 +232,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 315. Count Of Smaller Numbers After Self | [🔗](https://leetcode.romitsagu.com/solutions/315/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set |
 | 316. Remove Duplicate Letters | [🔗](https://leetcode.romitsagu.com/solutions/316/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Stack, Greedy, Monotonic Stack |
 | 321. Create Maximum Number | [🔗](https://leetcode.romitsagu.com/solutions/321/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Two Pointers, Stack, Greedy, Monotonic Stack |
+| 322. Coin Change | [🔗](https://leetcode.romitsagu.com/solutions/322/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Breadth-First Search |
 | 324. Wiggle Sort II | [🔗](https://leetcode.romitsagu.com/solutions/324/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Divide and Conquer, Greedy, Sorting, Quickselect |
 | 326. Power Of Three | [🔗](https://leetcode.romitsagu.com/solutions/326/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Recursion |
 | 327. Count Of Range Sum | [🔗](https://leetcode.romitsagu.com/solutions/327/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set |
@@ -246,6 +252,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 373. Find K Pairs With Smallest Sums | [🔗](https://leetcode.romitsagu.com/solutions/373/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Heap (Priority Queue) |
 | 374. Guess Number Higher Or Lower | [🔗](https://leetcode.romitsagu.com/solutions/374/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Binary Search, Interactive |
 | 376. Wiggle Subsequence | [🔗](https://leetcode.romitsagu.com/solutions/376/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Greedy |
+| 377. Combination Sum IV | [🔗](https://leetcode.romitsagu.com/solutions/377/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming |
 | 378. Kth Smallest Element In A Sorted Matrix | [🔗](https://leetcode.romitsagu.com/solutions/378/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Sorting, Heap (Priority Queue), Matrix |
 | 389. Find The Difference | [🔗](https://leetcode.romitsagu.com/solutions/389/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Hash Table, String, Bit Manipulation, Sorting |
 | 392. Is Subsequence | [🔗](https://leetcode.romitsagu.com/solutions/392/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Two Pointers, String, Dynamic Programming |
@@ -451,6 +458,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 2096. Find The Longest Valid Obstacle Course At Each Position | [🔗](https://leetcode.romitsagu.com/solutions/2096/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Binary Indexed Tree |
 | 2102. Find The Middle Index In Array | [🔗](https://leetcode.romitsagu.com/solutions/2102/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Prefix Sum |
 | 2132. Convert 1d Array Into 2d Array | [🔗](https://leetcode.romitsagu.com/solutions/2132/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Matrix, Simulation |
+| 2137. Final Value Of Variable After Performing Operations | [🔗](https://leetcode.romitsagu.com/solutions/2137/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, String, Simulation |
 | 2174. Next Greater Numerically Balanced Number | [🔗](https://leetcode.romitsagu.com/solutions/2174/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Math, Backtracking, Counting, Enumeration |
 | 2229. Maximum Fruits Harvested After At Most K Steps | [🔗](https://leetcode.romitsagu.com/solutions/2229/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Sliding Window, Prefix Sum |
 | 2307. Replace Non Coprime Numbers In Array | [🔗](https://leetcode.romitsagu.com/solutions/2307/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Math, Stack, Number Theory |
