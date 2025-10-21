@@ -160,9 +160,11 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 139. Word Break | [🔗](https://leetcode.romitsagu.com/solutions/139/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, String, Dynamic Programming, Trie, Memoization |
 | 141. Linked List Cycle | [🔗](https://leetcode.romitsagu.com/solutions/141/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Hash Table, Linked List, Two Pointers |
 | 142. Linked List Cycle II | [🔗](https://leetcode.romitsagu.com/solutions/142/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Linked List, Two Pointers |
+| 143. Reorder List | [🔗](https://leetcode.romitsagu.com/solutions/143/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Linked List, Two Pointers, Stack, Recursion |
 | 144. Binary Tree Preorder Traversal | [🔗](https://leetcode.romitsagu.com/solutions/144/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Stack, Tree, Depth-First Search, Binary Tree |
 | 145. Binary Tree Postorder Traversal | [🔗](https://leetcode.romitsagu.com/solutions/145/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Stack, Tree, Depth-First Search, Binary Tree |
 | 146. Lru Cache | [🔗](https://leetcode.romitsagu.com/solutions/146/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Linked List, Design, Doubly-Linked List |
+| 148. Sort List | [🔗](https://leetcode.romitsagu.com/solutions/148/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Linked List, Two Pointers, Divide and Conquer, Sorting, Merge Sort |
 | 152. Maximum Product Subarray | [🔗](https://leetcode.romitsagu.com/solutions/152/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming |
 | 153. Find Minimum In Rotated Sorted Array | [🔗](https://leetcode.romitsagu.com/solutions/153/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search |
 | 154. Find Minimum In Rotated Sorted Array II | [🔗](https://leetcode.romitsagu.com/solutions/154/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search |
@@ -502,6 +504,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 3612. Adjacent Increasing Subarrays Detection I | [🔗](https://leetcode.romitsagu.com/solutions/3612/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array |
 | 3619. Adjacent Increasing Subarrays Detection II | [🔗](https://leetcode.romitsagu.com/solutions/3619/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search |
 | 3620. Maximum Number Of Distinct Elements After Operations | [🔗](https://leetcode.romitsagu.com/solutions/3620/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Greedy, Sorting |
+| 3622. Maximum Frequency Of An Element After Performing Operations I | [🔗](https://leetcode.romitsagu.com/solutions/3622/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Sliding Window, Sorting, Prefix Sum |
 | 3648. Find The Maximum Number Of Fruits Collected | [🔗](https://leetcode.romitsagu.com/solutions/3648/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Dynamic Programming, Matrix |
 | 3678. Design Task Manager | [🔗](https://leetcode.romitsagu.com/solutions/3678/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Design, Heap (Priority Queue), Ordered Set |
 | 3733. Length Of Longest V Shaped Diagonal Segment | [🔗](https://leetcode.romitsagu.com/solutions/3733/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Dynamic Programming, Memoization, Matrix |
