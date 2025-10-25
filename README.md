@@ -99,6 +99,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 57. Insert Interval | [🔗](https://leetcode.romitsagu.com/solutions/57/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array |
 | 58. Length Of Last Word | [🔗](https://leetcode.romitsagu.com/solutions/58/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | String |
 | 59. Spiral Matrix II | [🔗](https://leetcode.romitsagu.com/solutions/59/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Matrix, Simulation |
+| 61. Rotate List | [🔗](https://leetcode.romitsagu.com/solutions/61/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Linked List, Two Pointers |
 | 62. Unique Paths | [🔗](https://leetcode.romitsagu.com/solutions/62/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Dynamic Programming, Combinatorics |
 | 63. Unique Paths II | [🔗](https://leetcode.romitsagu.com/solutions/63/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Matrix |
 | 64. Minimum Path Sum | [🔗](https://leetcode.romitsagu.com/solutions/64/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Matrix |
@@ -248,6 +249,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 324. Wiggle Sort II | [🔗](https://leetcode.romitsagu.com/solutions/324/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Divide and Conquer, Greedy, Sorting, Quickselect |
 | 326. Power Of Three | [🔗](https://leetcode.romitsagu.com/solutions/326/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Recursion |
 | 327. Count Of Range Sum | [🔗](https://leetcode.romitsagu.com/solutions/327/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set |
+| 328. Odd Even Linked List | [🔗](https://leetcode.romitsagu.com/solutions/328/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Linked List |
 | 330. Patching Array | [🔗](https://leetcode.romitsagu.com/solutions/330/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Greedy |
 | 334. Increasing Triplet Subsequence | [🔗](https://leetcode.romitsagu.com/solutions/334/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Greedy |
 | 338. Counting Bits | [🔗](https://leetcode.romitsagu.com/solutions/338/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Dynamic Programming, Bit Manipulation |
@@ -471,6 +473,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 1675. Magnetic Force Between Two Balls | [🔗](https://leetcode.romitsagu.com/solutions/1675/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Sorting |
 | 1747. Lexicographically Smallest String After Applying Operations | [🔗](https://leetcode.romitsagu.com/solutions/1747/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Depth-First Search, Breadth-First Search, Enumeration |
 | 1765. Merge In Between Linked Lists | [🔗](https://leetcode.romitsagu.com/solutions/1765/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Linked List |
+| 1817. Calculate Money In Leetcode Bank | [🔗](https://leetcode.romitsagu.com/solutions/1817/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math |
 | 1827. Invalid Tweets | [🔗](https://leetcode.romitsagu.com/solutions/1827/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 1834. Minimum Number Of People To Teach | [🔗](https://leetcode.romitsagu.com/solutions/1834/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Greedy |
 | 1908. Recyclable And Low Fat Products | [🔗](https://leetcode.romitsagu.com/solutions/1908/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
