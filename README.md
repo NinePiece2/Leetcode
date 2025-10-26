@@ -428,6 +428,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 898. Transpose Matrix | [🔗](https://leetcode.romitsagu.com/solutions/898/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Matrix, Simulation |
 | 899. Binary Gap | [🔗](https://leetcode.romitsagu.com/solutions/899/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Bit Manipulation |
 | 900. Reordered Power Of 2 | [🔗](https://leetcode.romitsagu.com/solutions/900/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Math, Sorting, Counting, Enumeration |
+| 904. Leaf Similar Trees | [🔗](https://leetcode.romitsagu.com/solutions/904/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Tree, Depth-First Search, Binary Tree |
 | 908. Middle Of The Linked List | [🔗](https://leetcode.romitsagu.com/solutions/908/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Linked List, Two Pointers |
 | 940. Fruit Into Baskets | [🔗](https://leetcode.romitsagu.com/solutions/940/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Sliding Window |
 | 967. Minimum Falling Path Sum | [🔗](https://leetcode.romitsagu.com/solutions/967/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Matrix |
@@ -486,6 +487,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 2102. Find The Middle Index In Array | [🔗](https://leetcode.romitsagu.com/solutions/2102/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Prefix Sum |
 | 2132. Convert 1d Array Into 2d Array | [🔗](https://leetcode.romitsagu.com/solutions/2132/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Matrix, Simulation |
 | 2137. Final Value Of Variable After Performing Operations | [🔗](https://leetcode.romitsagu.com/solutions/2137/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, String, Simulation |
+| 2169. Simple Bank System | [🔗](https://leetcode.romitsagu.com/solutions/2169/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Design, Simulation |
 | 2174. Next Greater Numerically Balanced Number | [🔗](https://leetcode.romitsagu.com/solutions/2174/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Math, Backtracking, Counting, Enumeration |
 | 2229. Maximum Fruits Harvested After At Most K Steps | [🔗](https://leetcode.romitsagu.com/solutions/2229/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Sliding Window, Prefix Sum |
 | 2307. Replace Non Coprime Numbers In Array | [🔗](https://leetcode.romitsagu.com/solutions/2307/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Math, Stack, Number Theory |
