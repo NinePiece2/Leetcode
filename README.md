@@ -490,6 +490,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 2169. Simple Bank System | [🔗](https://leetcode.romitsagu.com/solutions/2169/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Design, Simulation |
 | 2174. Next Greater Numerically Balanced Number | [🔗](https://leetcode.romitsagu.com/solutions/2174/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Math, Backtracking, Counting, Enumeration |
 | 2229. Maximum Fruits Harvested After At Most K Steps | [🔗](https://leetcode.romitsagu.com/solutions/2229/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Sliding Window, Prefix Sum |
+| 2244. Number Of Laser Beams In A Bank | [🔗](https://leetcode.romitsagu.com/solutions/2244/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Math, String, Matrix |
 | 2307. Replace Non Coprime Numbers In Array | [🔗](https://leetcode.romitsagu.com/solutions/2307/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Math, Stack, Number Theory |
 | 2316. Count Hills And Valleys In An Array | [🔗](https://leetcode.romitsagu.com/solutions/2316/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array |
 | 2324. Find Triangular Sum Of An Array | [🔗](https://leetcode.romitsagu.com/solutions/2324/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Math, Simulation, Combinatorics |
