@@ -521,6 +521,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 3461. Find The Minimum Area To Cover All Ones I | [🔗](https://leetcode.romitsagu.com/solutions/3461/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Matrix |
 | 3462. Vowels Game In A String | [🔗](https://leetcode.romitsagu.com/solutions/3462/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, String, Brainteaser, Game Theory |
 | 3612. Adjacent Increasing Subarrays Detection I | [🔗](https://leetcode.romitsagu.com/solutions/3612/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array |
+| 3616. Make Array Elements Equal To Zero | [🔗](https://leetcode.romitsagu.com/solutions/3616/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Simulation, Prefix Sum |
 | 3619. Adjacent Increasing Subarrays Detection II | [🔗](https://leetcode.romitsagu.com/solutions/3619/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search |
 | 3620. Maximum Number Of Distinct Elements After Operations | [🔗](https://leetcode.romitsagu.com/solutions/3620/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Greedy, Sorting |
 | 3622. Maximum Frequency Of An Element After Performing Operations I | [🔗](https://leetcode.romitsagu.com/solutions/3622/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Sliding Window, Sorting, Prefix Sum |
