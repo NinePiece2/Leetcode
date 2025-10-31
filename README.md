@@ -108,6 +108,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 68. Text Justification | [🔗](https://leetcode.romitsagu.com/solutions/68/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, String, Simulation |
 | 69. Sqrtx | [🔗](https://leetcode.romitsagu.com/solutions/69/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Binary Search |
 | 70. Climbing Stairs | [🔗](https://leetcode.romitsagu.com/solutions/70/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Dynamic Programming, Memoization |
+| 71. Simplify Path | [🔗](https://leetcode.romitsagu.com/solutions/71/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Stack |
 | 72. Edit Distance | [🔗](https://leetcode.romitsagu.com/solutions/72/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Dynamic Programming |
 | 73. Set Matrix Zeroes | [🔗](https://leetcode.romitsagu.com/solutions/73/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Matrix |
 | 74. Search A 2d Matrix | [🔗](https://leetcode.romitsagu.com/solutions/74/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Matrix |
@@ -521,6 +522,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 3459. Find The Minimum Area To Cover All Ones II | [🔗](https://leetcode.romitsagu.com/solutions/3459/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Matrix, Enumeration |
 | 3461. Find The Minimum Area To Cover All Ones I | [🔗](https://leetcode.romitsagu.com/solutions/3461/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Matrix |
 | 3462. Vowels Game In A String | [🔗](https://leetcode.romitsagu.com/solutions/3462/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, String, Brainteaser, Game Theory |
+| 3581. The Two Sneaky Numbers Of Digitville | [🔗](https://leetcode.romitsagu.com/solutions/3581/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, Math |
 | 3612. Adjacent Increasing Subarrays Detection I | [🔗](https://leetcode.romitsagu.com/solutions/3612/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array |
 | 3616. Make Array Elements Equal To Zero | [🔗](https://leetcode.romitsagu.com/solutions/3616/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Simulation, Prefix Sum |
 | 3619. Adjacent Increasing Subarrays Detection II | [🔗](https://leetcode.romitsagu.com/solutions/3619/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search |
