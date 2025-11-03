@@ -474,6 +474,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 1633. Minimum Number Of Increments On Subarrays To Form A Target Array | [🔗](https://leetcode.romitsagu.com/solutions/1633/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Dynamic Programming, Stack, Greedy, Monotonic Stack |
 | 1642. Water Bottles | [🔗](https://leetcode.romitsagu.com/solutions/1642/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Simulation |
 | 1675. Magnetic Force Between Two Balls | [🔗](https://leetcode.romitsagu.com/solutions/1675/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Sorting |
+| 1700. Minimum Time To Make Rope Colorful | [🔗](https://leetcode.romitsagu.com/solutions/1700/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, String, Dynamic Programming, Greedy |
 | 1747. Lexicographically Smallest String After Applying Operations | [🔗](https://leetcode.romitsagu.com/solutions/1747/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Depth-First Search, Breadth-First Search, Enumeration |
 | 1765. Merge In Between Linked Lists | [🔗](https://leetcode.romitsagu.com/solutions/1765/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Linked List |
 | 1817. Calculate Money In Leetcode Bank | [🔗](https://leetcode.romitsagu.com/solutions/1817/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math |
