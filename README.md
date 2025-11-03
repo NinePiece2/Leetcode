@@ -496,6 +496,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 2307. Replace Non Coprime Numbers In Array | [🔗](https://leetcode.romitsagu.com/solutions/2307/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Math, Stack, Number Theory |
 | 2316. Count Hills And Valleys In An Array | [🔗](https://leetcode.romitsagu.com/solutions/2316/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array |
 | 2324. Find Triangular Sum Of An Array | [🔗](https://leetcode.romitsagu.com/solutions/2324/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Math, Simulation, Combinatorics |
+| 2343. Count Unguarded Cells In The Grid | [🔗](https://leetcode.romitsagu.com/solutions/2343/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Matrix, Simulation |
 | 2346. Largest 3 Same Digit Number In String | [🔗](https://leetcode.romitsagu.com/solutions/2346/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | String |
 | 2392. Successful Pairs Of Spells And Potions | [🔗](https://leetcode.romitsagu.com/solutions/2392/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Two Pointers, Binary Search, Sorting |
 | 2408. Number Of People Aware Of A Secret | [🔗](https://leetcode.romitsagu.com/solutions/2408/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Dynamic Programming, Queue, Simulation |
