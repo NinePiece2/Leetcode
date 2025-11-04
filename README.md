@@ -510,6 +510,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 2689. Rearranging Fruits | [🔗](https://leetcode.romitsagu.com/solutions/2689/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Hash Table, Greedy, Sort |
 | 2734. Array Prototype Last | [🔗](https://leetcode.romitsagu.com/solutions/2734/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) |  |
 | 2758. Check If Object Instance Of Class | [🔗](https://leetcode.romitsagu.com/solutions/2758/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) |  |
+| 2779. Number Of Adjacent Elements With The Same Color | [🔗](https://leetcode.romitsagu.com/solutions/2779/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array |
 | 2837. Minimum Operations To Make The Integer Zero | [🔗](https://leetcode.romitsagu.com/solutions/2837/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Bit Manipulation, Brainteaser, Enumeration |
 | 2882. Ways To Express An Integer As Sum Of Powers | [🔗](https://leetcode.romitsagu.com/solutions/2882/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Dynamic Programming |
 | 2887. Sort Vowels In A String | [🔗](https://leetcode.romitsagu.com/solutions/2887/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Sorting |
