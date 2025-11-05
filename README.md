@@ -521,6 +521,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 3277. Find The Number Of Ways To Place People II | [🔗](https://leetcode.romitsagu.com/solutions/3277/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Math, Geometry, Sorting, Enumeration |
 | 3278. Find The Number Of Ways To Place People I | [🔗](https://leetcode.romitsagu.com/solutions/3278/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Math, Geometry, Sorting, Enumeration |
 | 3279. Alice And Bob Playing Flower Game | [🔗](https://leetcode.romitsagu.com/solutions/3279/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math |
+| 3305. Count Prefix And Suffix Pairs II | [🔗](https://leetcode.romitsagu.com/solutions/3305/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, String, Trie, Rolling Hash, String Matching, Hash Function |
 | 3335. Minimum Operations To Write The Letter Y On A Grid | [🔗](https://leetcode.romitsagu.com/solutions/3335/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Matrix, Counting |
 | 3336. Water Bottles II | [🔗](https://leetcode.romitsagu.com/solutions/3336/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Simulation |
 | 3383. Taking Maximum Energy From The Mystic Dungeon | [🔗](https://leetcode.romitsagu.com/solutions/3383/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Prefix Sum |
@@ -531,6 +532,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 3462. Vowels Game In A String | [🔗](https://leetcode.romitsagu.com/solutions/3462/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, String, Brainteaser, Game Theory |
 | 3501. Delete Nodes From Linked List Present In Array | [🔗](https://leetcode.romitsagu.com/solutions/3501/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Linked List |
 | 3581. The Two Sneaky Numbers Of Digitville | [🔗](https://leetcode.romitsagu.com/solutions/3581/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, Math |
+| 3592. Find X Sum Of All K Long Subarrays II | [🔗](https://leetcode.romitsagu.com/solutions/3592/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Hash Table, Sliding Window, Heap (Priority Queue) |
 | 3610. Find X Sum Of All K Long Subarrays I | [🔗](https://leetcode.romitsagu.com/solutions/3610/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, Sliding Window, Heap (Priority Queue) |
 | 3612. Adjacent Increasing Subarrays Detection I | [🔗](https://leetcode.romitsagu.com/solutions/3612/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array |
 | 3616. Make Array Elements Equal To Zero | [🔗](https://leetcode.romitsagu.com/solutions/3616/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Simulation, Prefix Sum |
