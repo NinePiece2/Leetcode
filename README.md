@@ -524,6 +524,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 3335. Minimum Operations To Write The Letter Y On A Grid | [🔗](https://leetcode.romitsagu.com/solutions/3335/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Matrix, Counting |
 | 3336. Water Bottles II | [🔗](https://leetcode.romitsagu.com/solutions/3336/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Simulation |
 | 3383. Taking Maximum Energy From The Mystic Dungeon | [🔗](https://leetcode.romitsagu.com/solutions/3383/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Prefix Sum |
+| 3435. Block Placement Queries | [🔗](https://leetcode.romitsagu.com/solutions/3435/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Binary Indexed Tree, Segment Tree |
 | 3437. Maximum Total Damage With Spell Casting | [🔗](https://leetcode.romitsagu.com/solutions/3437/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Two Pointers, Binary Search, Dynamic Programming, Sorting, Counting |
 | 3459. Find The Minimum Area To Cover All Ones II | [🔗](https://leetcode.romitsagu.com/solutions/3459/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Matrix, Enumeration |
 | 3461. Find The Minimum Area To Cover All Ones I | [🔗](https://leetcode.romitsagu.com/solutions/3461/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Matrix |
