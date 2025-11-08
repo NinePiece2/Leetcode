@@ -479,6 +479,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 1642. Water Bottles | [🔗](https://leetcode.romitsagu.com/solutions/1642/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Simulation |
 | 1675. Magnetic Force Between Two Balls | [🔗](https://leetcode.romitsagu.com/solutions/1675/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Sorting |
 | 1700. Minimum Time To Make Rope Colorful | [🔗](https://leetcode.romitsagu.com/solutions/1700/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, String, Dynamic Programming, Greedy |
+| 1732. Minimum One Bit Operations To Make Integers Zero | [🔗](https://leetcode.romitsagu.com/solutions/1732/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Dynamic Programming, Bit Manipulation, Memoization |
 | 1747. Lexicographically Smallest String After Applying Operations | [🔗](https://leetcode.romitsagu.com/solutions/1747/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Depth-First Search, Breadth-First Search, Enumeration |
 | 1765. Merge In Between Linked Lists | [🔗](https://leetcode.romitsagu.com/solutions/1765/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Linked List |
 | 1817. Calculate Money In Leetcode Bank | [🔗](https://leetcode.romitsagu.com/solutions/1817/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math |
@@ -511,6 +512,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 2432. Number Of Zero Filled Subarrays | [🔗](https://leetcode.romitsagu.com/solutions/2432/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Math |
 | 2497. Maximum Matching Of Players With Trainers | [🔗](https://leetcode.romitsagu.com/solutions/2497/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Two Pointers, Greedy, Sorting |
 | 2529. Range Product Queries Of Powers | [🔗](https://leetcode.romitsagu.com/solutions/2529/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Bit Manipulation, Prefix Sum |
+| 2618. Maximize The Minimum Powered City | [🔗](https://leetcode.romitsagu.com/solutions/2618/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Greedy, Queue, Sliding Window, Prefix Sum |
 | 2661. Smallest Missing Non Negative Integer After Operations | [🔗](https://leetcode.romitsagu.com/solutions/2661/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Math, Greedy |
 | 2689. Rearranging Fruits | [🔗](https://leetcode.romitsagu.com/solutions/2689/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Hash Table, Greedy, Sort |
 | 2734. Array Prototype Last | [🔗](https://leetcode.romitsagu.com/solutions/2734/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) |  |
