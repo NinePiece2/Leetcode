@@ -304,6 +304,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 463. Island Perimeter | [🔗](https://leetcode.romitsagu.com/solutions/463/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Depth-First Search, Breadth-First Search, Matrix |
 | 464. Can I Win | [🔗](https://leetcode.romitsagu.com/solutions/464/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Dynamic Programming, Bit Manipulation, Memoization, Game Theory, Bitmask |
 | 473. Matchsticks To Square | [🔗](https://leetcode.romitsagu.com/solutions/473/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask |
+| 474. Ones And Zeroes | [🔗](https://leetcode.romitsagu.com/solutions/474/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, String, Dynamic Programming |
 | 476. Number Complement | [🔗](https://leetcode.romitsagu.com/solutions/476/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Bit Manipulation |
 | 477. Total Hamming Distance | [🔗](https://leetcode.romitsagu.com/solutions/477/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Math, Bit Manipulation |
 | 482. License Key Formatting | [🔗](https://leetcode.romitsagu.com/solutions/482/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | String |
