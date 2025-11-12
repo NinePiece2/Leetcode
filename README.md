@@ -519,6 +519,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 2661. Smallest Missing Non Negative Integer After Operations | [🔗](https://leetcode.romitsagu.com/solutions/2661/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Math, Greedy |
 | 2689. Rearranging Fruits | [🔗](https://leetcode.romitsagu.com/solutions/2689/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Hash Table, Greedy, Sort |
 | 2734. Array Prototype Last | [🔗](https://leetcode.romitsagu.com/solutions/2734/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) |  |
+| 2753. Minimum Number Of Operations To Make All Array Elements Equal To 1 | [🔗](https://leetcode.romitsagu.com/solutions/2753/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Math, Number Theory |
 | 2758. Check If Object Instance Of Class | [🔗](https://leetcode.romitsagu.com/solutions/2758/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) |  |
 | 2779. Number Of Adjacent Elements With The Same Color | [🔗](https://leetcode.romitsagu.com/solutions/2779/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array |
 | 2837. Minimum Operations To Make The Integer Zero | [🔗](https://leetcode.romitsagu.com/solutions/2837/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Bit Manipulation, Brainteaser, Enumeration |
