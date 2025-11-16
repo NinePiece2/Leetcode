@@ -478,6 +478,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 1619. Path Crossing | [🔗](https://leetcode.romitsagu.com/solutions/1619/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Hash Table, String |
 | 1628. Count Submatrices With All Ones | [🔗](https://leetcode.romitsagu.com/solutions/1628/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Stack, Matrix, Monotonic Stack |
 | 1633. Minimum Number Of Increments On Subarrays To Form A Target Array | [🔗](https://leetcode.romitsagu.com/solutions/1633/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Dynamic Programming, Stack, Greedy, Monotonic Stack |
+| 1636. Number Of Substrings With Only 1s | [🔗](https://leetcode.romitsagu.com/solutions/1636/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, String |
 | 1642. Water Bottles | [🔗](https://leetcode.romitsagu.com/solutions/1642/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Simulation |
 | 1675. Magnetic Force Between Two Balls | [🔗](https://leetcode.romitsagu.com/solutions/1675/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Sorting |
 | 1700. Minimum Time To Make Rope Colorful | [🔗](https://leetcode.romitsagu.com/solutions/1700/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, String, Dynamic Programming, Greedy |
