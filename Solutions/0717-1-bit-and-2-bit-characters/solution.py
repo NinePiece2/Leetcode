@@ -10,7 +10,7 @@ class Solution:
             if bits[-1 * i] == 0:
                 break
             i += 1
-        
+
         if i % 2 == 0:
             return True
         return False
