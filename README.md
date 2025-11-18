@@ -120,6 +120,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 81. Search In Rotated Sorted Array II | [🔗](https://leetcode.romitsagu.com/solutions/81/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search |
 | 83. Remove Duplicates From Sorted List | [🔗](https://leetcode.romitsagu.com/solutions/83/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Linked List |
 | 84. Largest Rectangle In Histogram | [🔗](https://leetcode.romitsagu.com/solutions/84/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Stack, Monotonic Stack |
+| 86. Partition List | [🔗](https://leetcode.romitsagu.com/solutions/86/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Linked List, Two Pointers |
 | 88. Merge Sorted Array | [🔗](https://leetcode.romitsagu.com/solutions/88/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Two Pointers, Sorting |
 | 89. Gray Code | [🔗](https://leetcode.romitsagu.com/solutions/89/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Backtracking, Bit Manipulation |
 | 90. Subsets II | [🔗](https://leetcode.romitsagu.com/solutions/90/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Backtracking, Bit Manipulation |
