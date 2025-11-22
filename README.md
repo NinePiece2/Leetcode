@@ -222,6 +222,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 228. Summary Ranges | [🔗](https://leetcode.romitsagu.com/solutions/228/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array |
 | 231. Power Of Two | [🔗](https://leetcode.romitsagu.com/solutions/231/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Bit Manipulation, Recursion |
 | 232. Implement Queue Using Stacks | [🔗](https://leetcode.romitsagu.com/solutions/232/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Stack, Design, Queue |
+| 233. Number Of Digit One | [🔗](https://leetcode.romitsagu.com/solutions/233/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Math, Dynamic Programming, Recursion |
 | 234. Palindrome Linked List | [🔗](https://leetcode.romitsagu.com/solutions/234/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Linked List, Two Pointers, Stack, Recursion |
 | 237. Delete Node In A Linked List | [🔗](https://leetcode.romitsagu.com/solutions/237/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Linked List |
 | 238. Product Of Array Except Self | [🔗](https://leetcode.romitsagu.com/solutions/238/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Prefix Sum |
@@ -550,6 +551,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 3459. Find The Minimum Area To Cover All Ones II | [🔗](https://leetcode.romitsagu.com/solutions/3459/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Matrix, Enumeration |
 | 3461. Find The Minimum Area To Cover All Ones I | [🔗](https://leetcode.romitsagu.com/solutions/3461/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Matrix |
 | 3462. Vowels Game In A String | [🔗](https://leetcode.romitsagu.com/solutions/3462/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, String, Brainteaser, Game Theory |
+| 3476. Find Minimum Operations To Make All Elements Divisible By Three | [🔗](https://leetcode.romitsagu.com/solutions/3476/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Math |
 | 3479. Count The Number Of Substrings With Dominant Ones | [🔗](https://leetcode.romitsagu.com/solutions/3479/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Sliding Window, Enumeration |
 | 3493. Maximum Number Of Operations To Move Ones To The End | [🔗](https://leetcode.romitsagu.com/solutions/3493/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Greedy, Counting |
 | 3501. Delete Nodes From Linked List Present In Array | [🔗](https://leetcode.romitsagu.com/solutions/3501/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Linked List |
