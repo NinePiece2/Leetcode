@@ -462,6 +462,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 1353. Find Resultant Array After Removing Anagrams | [🔗](https://leetcode.romitsagu.com/solutions/1353/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, String, Sorting |
 | 1364. Tuple With Same Product | [🔗](https://leetcode.romitsagu.com/solutions/1364/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Counting |
 | 1370. Count Number Of Nice Subarrays | [🔗](https://leetcode.romitsagu.com/solutions/1370/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Math, Sliding Window, Prefix Sum |
+| 1388. Greatest Sum Divisible By Three | [🔗](https://leetcode.romitsagu.com/solutions/1388/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Greedy, Sorting |
 | 1390. Average Selling Price | [🔗](https://leetcode.romitsagu.com/solutions/1390/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 1402. Count Square Submatrices With All Ones | [🔗](https://leetcode.romitsagu.com/solutions/1402/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Matrix |
 | 1407. Group The People Given The Group Size They Belong To | [🔗](https://leetcode.romitsagu.com/solutions/1407/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Greedy |
