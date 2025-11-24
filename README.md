@@ -445,6 +445,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 1018. Largest Perimeter Triangle | [🔗](https://leetcode.romitsagu.com/solutions/1018/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Math, Greedy, Sorting |
 | 1019. Squares Of A Sorted Array | [🔗](https://leetcode.romitsagu.com/solutions/1019/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Two Pointers, Sorting |
 | 1054. Complement Of Base 10 Integer | [🔗](https://leetcode.romitsagu.com/solutions/1054/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Bit Manipulation |
+| 1071. Binary Prefix Divisible By 5 | [🔗](https://leetcode.romitsagu.com/solutions/1071/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Bit Manipulation |
 | 1087. Longest Arithmetic Subsequence | [🔗](https://leetcode.romitsagu.com/solutions/1087/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Binary Search, Dynamic Programming |
 | 1105. Uncrossed Lines | [🔗](https://leetcode.romitsagu.com/solutions/1105/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming |
 | 1111. Minimum Score Triangulation Of Polygon | [🔗](https://leetcode.romitsagu.com/solutions/1111/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming |
