@@ -438,6 +438,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 904. Leaf Similar Trees | [🔗](https://leetcode.romitsagu.com/solutions/904/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Tree, Depth-First Search, Binary Tree |
 | 908. Middle Of The Linked List | [🔗](https://leetcode.romitsagu.com/solutions/908/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Linked List, Two Pointers |
 | 919. Projection Area Of 3d Shapes | [🔗](https://leetcode.romitsagu.com/solutions/919/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Math, Geometry, Matrix |
+| 920. Uncommon Words From Two Sentences | [🔗](https://leetcode.romitsagu.com/solutions/920/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Hash Table, String, Counting |
 | 940. Fruit Into Baskets | [🔗](https://leetcode.romitsagu.com/solutions/940/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Sliding Window |
 | 967. Minimum Falling Path Sum | [🔗](https://leetcode.romitsagu.com/solutions/967/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Matrix |
 | 1006. Vowel Spellchecker | [🔗](https://leetcode.romitsagu.com/solutions/1006/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, String |
@@ -524,6 +525,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 2429. Design A Food Rating System | [🔗](https://leetcode.romitsagu.com/solutions/2429/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, String, Design, Heap (Priority Queue), Ordered Set |
 | 2432. Number Of Zero Filled Subarrays | [🔗](https://leetcode.romitsagu.com/solutions/2432/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Math |
 | 2497. Maximum Matching Of Players With Trainers | [🔗](https://leetcode.romitsagu.com/solutions/2497/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Two Pointers, Greedy, Sorting |
+| 2521. Paths In Matrix Whose Sum Is Divisible By K | [🔗](https://leetcode.romitsagu.com/solutions/2521/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Dynamic Programming, Matrix |
 | 2529. Range Product Queries Of Powers | [🔗](https://leetcode.romitsagu.com/solutions/2529/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Bit Manipulation, Prefix Sum |
 | 2618. Maximize The Minimum Powered City | [🔗](https://leetcode.romitsagu.com/solutions/2618/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Greedy, Queue, Sliding Window, Prefix Sum |
 | 2625. Increment Submatrices By One | [🔗](https://leetcode.romitsagu.com/solutions/2625/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Matrix, Prefix Sum |
