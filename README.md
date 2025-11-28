@@ -538,6 +538,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 2837. Minimum Operations To Make The Integer Zero | [🔗](https://leetcode.romitsagu.com/solutions/2837/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Bit Manipulation, Brainteaser, Enumeration |
 | 2882. Ways To Express An Integer As Sum Of Powers | [🔗](https://leetcode.romitsagu.com/solutions/2882/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Dynamic Programming |
 | 2887. Sort Vowels In A String | [🔗](https://leetcode.romitsagu.com/solutions/2887/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Sorting |
+| 3058. Maximum Number Of K Divisible Components | [🔗](https://leetcode.romitsagu.com/solutions/3058/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Tree, Depth-First Search |
 | 3233. Maximize The Number Of Partitions After Operations | [🔗](https://leetcode.romitsagu.com/solutions/3233/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | String, Dynamic Programming, Bit Manipulation, Bitmask |
 | 3242. Count Elements With Maximum Frequency | [🔗](https://leetcode.romitsagu.com/solutions/3242/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, Counting |
 | 3251. Maximum Area Of Longest Diagonal Rectangle | [🔗](https://leetcode.romitsagu.com/solutions/3251/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array |
