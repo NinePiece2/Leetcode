@@ -277,6 +277,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 387. First Unique Character In A String | [🔗](https://leetcode.romitsagu.com/solutions/387/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Hash Table, String, Queue, Counting |
 | 389. Find The Difference | [🔗](https://leetcode.romitsagu.com/solutions/389/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Hash Table, String, Bit Manipulation, Sorting |
 | 392. Is Subsequence | [🔗](https://leetcode.romitsagu.com/solutions/392/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Two Pointers, String, Dynamic Programming |
+| 396. Rotate Function | [🔗](https://leetcode.romitsagu.com/solutions/396/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Math, Dynamic Programming |
 | 397. Integer Replacement | [🔗](https://leetcode.romitsagu.com/solutions/397/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Dynamic Programming, Greedy, Bit Manipulation, Memoization |
 | 400. Nth Digit | [🔗](https://leetcode.romitsagu.com/solutions/400/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Binary Search |
 | 401. Binary Watch | [🔗](https://leetcode.romitsagu.com/solutions/401/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Backtracking, Bit Manipulation |
@@ -327,6 +328,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 520. Detect Capital | [🔗](https://leetcode.romitsagu.com/solutions/520/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | String |
 | 521. Longest Uncommon Subsequence I | [🔗](https://leetcode.romitsagu.com/solutions/521/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | String |
 | 530. Minimum Absolute Difference In Bst | [🔗](https://leetcode.romitsagu.com/solutions/530/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Tree, Depth-First Search, Breadth-First Search, Binary Search Tree, Binary Tree |
+| 539. Minimum Time Difference | [🔗](https://leetcode.romitsagu.com/solutions/539/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Math, String, Sorting |
 | 541. Reverse String II | [🔗](https://leetcode.romitsagu.com/solutions/541/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Two Pointers, String |
 | 543. Diameter Of Binary Tree | [🔗](https://leetcode.romitsagu.com/solutions/543/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Tree, Depth-First Search, Binary Tree |
 | 546. Remove Boxes | [🔗](https://leetcode.romitsagu.com/solutions/546/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Dynamic Programming, Memoization |
