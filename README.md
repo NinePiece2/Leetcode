@@ -196,6 +196,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 190. Reverse Bits | [🔗](https://leetcode.romitsagu.com/solutions/190/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Divide and Conquer, Bit Manipulation |
 | 191. Number Of 1 Bits | [🔗](https://leetcode.romitsagu.com/solutions/191/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Divide and Conquer, Bit Manipulation |
 | 193. Valid Phone Numbers | [🔗](https://leetcode.romitsagu.com/solutions/193/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Shell |
+| 195. Tenth Line | [🔗](https://leetcode.romitsagu.com/solutions/195/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Shell |
 | 196. Delete Duplicate Emails | [🔗](https://leetcode.romitsagu.com/solutions/196/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 197. Rising Temperature | [🔗](https://leetcode.romitsagu.com/solutions/197/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 198. House Robber | [🔗](https://leetcode.romitsagu.com/solutions/198/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming |
@@ -441,7 +442,15 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 908. Middle Of The Linked List | [🔗](https://leetcode.romitsagu.com/solutions/908/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Linked List, Two Pointers |
 | 919. Projection Area Of 3d Shapes | [🔗](https://leetcode.romitsagu.com/solutions/919/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Math, Geometry, Matrix |
 | 920. Uncommon Words From Two Sentences | [🔗](https://leetcode.romitsagu.com/solutions/920/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Hash Table, String, Counting |
+| 924. Fair Candy Swap | [🔗](https://leetcode.romitsagu.com/solutions/924/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, Binary Search, Sorting |
+| 928. Surface Area Of 3d Shapes | [🔗](https://leetcode.romitsagu.com/solutions/928/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Math, Geometry, Matrix |
+| 932. Monotonic Array | [🔗](https://leetcode.romitsagu.com/solutions/932/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array |
+| 933. Increasing Order Search Tree | [🔗](https://leetcode.romitsagu.com/solutions/933/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Stack, Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 940. Fruit Into Baskets | [🔗](https://leetcode.romitsagu.com/solutions/940/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Sliding Window |
+| 941. Sort Array By Parity | [🔗](https://leetcode.romitsagu.com/solutions/941/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Two Pointers, Sorting |
+| 944. Smallest Range I | [🔗](https://leetcode.romitsagu.com/solutions/944/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Math |
+| 950. X Of A Kind In A Deck Of Cards | [🔗](https://leetcode.romitsagu.com/solutions/950/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, Math, Counting, Number Theory |
+| 953. Reverse Only Letters | [🔗](https://leetcode.romitsagu.com/solutions/953/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Two Pointers, String |
 | 967. Minimum Falling Path Sum | [🔗](https://leetcode.romitsagu.com/solutions/967/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Matrix |
 | 1006. Vowel Spellchecker | [🔗](https://leetcode.romitsagu.com/solutions/1006/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, String |
 | 1013. Fibonacci Number | [🔗](https://leetcode.romitsagu.com/solutions/1013/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Dynamic Programming, Recursion, Memoization |
@@ -587,6 +596,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 3827. Implement Router | [🔗](https://leetcode.romitsagu.com/solutions/3827/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Binary Search, Design, Queue, Ordered Set |
 | 3830. Find Closest Person | [🔗](https://leetcode.romitsagu.com/solutions/3830/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math |
 | 3834. Minimum Operations To Convert All Elements To Zero | [🔗](https://leetcode.romitsagu.com/solutions/3834/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Stack, Greedy, Monotonic Stack |
+| 3846. Minimum Operations To Make Array Sum Divisible By K | [🔗](https://leetcode.romitsagu.com/solutions/3846/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Math |
 | 3851. Find Sum Of Array Product Of Magical Sequences | [🔗](https://leetcode.romitsagu.com/solutions/3851/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Math, Dynamic Programming, Bit Manipulation, Combinatorics, Bitmask |
 | 3863. Power Grid Maintenance | [🔗](https://leetcode.romitsagu.com/solutions/3863/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Depth-First Search, Breadth-First Search, Union Find, Graph, Heap (Priority Queue), Ordered Set |
 | 3872. Find Most Frequent Vowel And Consonant | [🔗](https://leetcode.romitsagu.com/solutions/3872/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Hash Table, String, Counting |
