@@ -500,6 +500,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 1636. Number Of Substrings With Only 1s | [🔗](https://leetcode.romitsagu.com/solutions/1636/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, String |
 | 1642. Water Bottles | [🔗](https://leetcode.romitsagu.com/solutions/1642/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Simulation |
 | 1675. Magnetic Force Between Two Balls | [🔗](https://leetcode.romitsagu.com/solutions/1675/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Sorting |
+| 1694. Make Sum Divisible By P | [🔗](https://leetcode.romitsagu.com/solutions/1694/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Prefix Sum |
 | 1700. Minimum Time To Make Rope Colorful | [🔗](https://leetcode.romitsagu.com/solutions/1700/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, String, Dynamic Programming, Greedy |
 | 1732. Minimum One Bit Operations To Make Integers Zero | [🔗](https://leetcode.romitsagu.com/solutions/1732/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Dynamic Programming, Bit Manipulation, Memoization |
 | 1747. Lexicographically Smallest String After Applying Operations | [🔗](https://leetcode.romitsagu.com/solutions/1747/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Depth-First Search, Breadth-First Search, Enumeration |
