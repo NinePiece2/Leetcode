@@ -452,6 +452,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 950. X Of A Kind In A Deck Of Cards | [🔗](https://leetcode.romitsagu.com/solutions/950/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, Math, Counting, Number Theory |
 | 953. Reverse Only Letters | [🔗](https://leetcode.romitsagu.com/solutions/953/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Two Pointers, String |
 | 958. Sort Array By Parity II | [🔗](https://leetcode.romitsagu.com/solutions/958/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Two Pointers, Sorting |
+| 965. Unique Email Addresses | [🔗](https://leetcode.romitsagu.com/solutions/965/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, String |
 | 967. Minimum Falling Path Sum | [🔗](https://leetcode.romitsagu.com/solutions/967/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Matrix |
 | 1006. Vowel Spellchecker | [🔗](https://leetcode.romitsagu.com/solutions/1006/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, String |
 | 1013. Fibonacci Number | [🔗](https://leetcode.romitsagu.com/solutions/1013/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Dynamic Programming, Recursion, Memoization |
@@ -525,6 +526,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 2174. Next Greater Numerically Balanced Number | [🔗](https://leetcode.romitsagu.com/solutions/2174/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Math, Backtracking, Counting, Enumeration |
 | 2229. Maximum Fruits Harvested After At Most K Steps | [🔗](https://leetcode.romitsagu.com/solutions/2229/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Sliding Window, Prefix Sum |
 | 2244. Number Of Laser Beams In A Bank | [🔗](https://leetcode.romitsagu.com/solutions/2244/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Math, String, Matrix |
+| 2263. Maximum Running Time Of N Computers | [🔗](https://leetcode.romitsagu.com/solutions/2263/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Greedy, Sorting |
 | 2274. Keep Multiplying Found Values By Two | [🔗](https://leetcode.romitsagu.com/solutions/2274/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, Sorting, Simulation |
 | 2288. Count Operations To Obtain Zero | [🔗](https://leetcode.romitsagu.com/solutions/2288/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Simulation |
 | 2307. Replace Non Coprime Numbers In Array | [🔗](https://leetcode.romitsagu.com/solutions/2307/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Math, Stack, Number Theory |
