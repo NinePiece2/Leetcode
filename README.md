@@ -605,3 +605,4 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 3863. Power Grid Maintenance | [🔗](https://leetcode.romitsagu.com/solutions/3863/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Depth-First Search, Breadth-First Search, Union Find, Graph, Heap (Priority Queue), Ordered Set |
 | 3872. Find Most Frequent Vowel And Consonant | [🔗](https://leetcode.romitsagu.com/solutions/3872/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Hash Table, String, Counting |
 | 3886. Count Number Of Trapezoids I | [🔗](https://leetcode.romitsagu.com/solutions/3886/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Math, Geometry |
+| 3897. Count Number Of Trapezoids II | [🔗](https://leetcode.romitsagu.com/solutions/3897/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Hash Table, Math, Geometry |
