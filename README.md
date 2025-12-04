@@ -531,6 +531,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 2288. Count Operations To Obtain Zero | [🔗](https://leetcode.romitsagu.com/solutions/2288/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Simulation |
 | 2307. Replace Non Coprime Numbers In Array | [🔗](https://leetcode.romitsagu.com/solutions/2307/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Math, Stack, Number Theory |
 | 2316. Count Hills And Valleys In An Array | [🔗](https://leetcode.romitsagu.com/solutions/2316/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array |
+| 2317. Count Collisions On A Road | [🔗](https://leetcode.romitsagu.com/solutions/2317/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Stack, Simulation |
 | 2324. Find Triangular Sum Of An Array | [🔗](https://leetcode.romitsagu.com/solutions/2324/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Math, Simulation, Combinatorics |
 | 2334. Number Of Flowers In Full Bloom | [🔗](https://leetcode.romitsagu.com/solutions/2334/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Hash Table, Binary Search, Sorting, Prefix Sum, Ordered Set |
 | 2343. Count Unguarded Cells In The Grid | [🔗](https://leetcode.romitsagu.com/solutions/2343/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Matrix, Simulation |
