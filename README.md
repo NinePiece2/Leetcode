@@ -601,6 +601,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 3791. Fruits Into Baskets III | [🔗](https://leetcode.romitsagu.com/solutions/3791/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Segment Tree, Ordered Set |
 | 3794. Find The Minimum Amount Of Time To Brew Potions | [🔗](https://leetcode.romitsagu.com/solutions/3794/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Simulation, Prefix Sum |
 | 3797. Design Spreadsheet | [🔗](https://leetcode.romitsagu.com/solutions/3797/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, String, Design, Matrix |
+| 3819. Count Covered Buildings | [🔗](https://leetcode.romitsagu.com/solutions/3819/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Sorting |
 | 3827. Implement Router | [🔗](https://leetcode.romitsagu.com/solutions/3827/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Binary Search, Design, Queue, Ordered Set |
 | 3830. Find Closest Person | [🔗](https://leetcode.romitsagu.com/solutions/3830/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math |
 | 3834. Minimum Operations To Convert All Elements To Zero | [🔗](https://leetcode.romitsagu.com/solutions/3834/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Stack, Greedy, Monotonic Stack |
