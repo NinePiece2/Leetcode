@@ -593,6 +593,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 3676. Smallest Number With All Set Bits | [🔗](https://leetcode.romitsagu.com/solutions/3676/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Bit Manipulation |
 | 3678. Design Task Manager | [🔗](https://leetcode.romitsagu.com/solutions/3678/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Design, Heap (Priority Queue), Ordered Set |
 | 3704. Count Partitions With Even Sum Difference | [🔗](https://leetcode.romitsagu.com/solutions/3704/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Math, Prefix Sum |
+| 3721. Count Mentions Per User | [🔗](https://leetcode.romitsagu.com/solutions/3721/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Math, Sorting, Simulation |
 | 3733. Length Of Longest V Shaped Diagonal Segment | [🔗](https://leetcode.romitsagu.com/solutions/3733/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Dynamic Programming, Memoization, Matrix |
 | 3744. Minimum Operations To Make Array Elements Zero | [🔗](https://leetcode.romitsagu.com/solutions/3744/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Math, Bit Manipulation |
 | 3748. Sort Matrix By Diagonals | [🔗](https://leetcode.romitsagu.com/solutions/3748/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Sorting, Matrix |
