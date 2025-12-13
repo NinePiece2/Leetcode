@@ -615,3 +615,4 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 3885. Count Special Triplets | [🔗](https://leetcode.romitsagu.com/solutions/3885/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Counting |
 | 3886. Count Number Of Trapezoids I | [🔗](https://leetcode.romitsagu.com/solutions/3886/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Math, Geometry |
 | 3897. Count Number Of Trapezoids II | [🔗](https://leetcode.romitsagu.com/solutions/3897/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Hash Table, Math, Geometry |
+| 3934. Coupon Code Validator | [🔗](https://leetcode.romitsagu.com/solutions/3934/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, String, Sorting |
