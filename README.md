@@ -528,6 +528,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 2174. Next Greater Numerically Balanced Number | [🔗](https://leetcode.romitsagu.com/solutions/2174/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Math, Backtracking, Counting, Enumeration |
 | 2229. Maximum Fruits Harvested After At Most K Steps | [🔗](https://leetcode.romitsagu.com/solutions/2229/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Sliding Window, Prefix Sum |
 | 2244. Number Of Laser Beams In A Bank | [🔗](https://leetcode.romitsagu.com/solutions/2244/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Math, String, Matrix |
+| 2251. Number Of Ways To Divide A Long Corridor | [🔗](https://leetcode.romitsagu.com/solutions/2251/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Math, String, Dynamic Programming |
 | 2263. Maximum Running Time Of N Computers | [🔗](https://leetcode.romitsagu.com/solutions/2263/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Greedy, Sorting |
 | 2274. Keep Multiplying Found Values By Two | [🔗](https://leetcode.romitsagu.com/solutions/2274/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, Sorting, Simulation |
 | 2288. Count Operations To Obtain Zero | [🔗](https://leetcode.romitsagu.com/solutions/2288/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Simulation |
