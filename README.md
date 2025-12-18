@@ -620,3 +620,4 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 3892. Best Time To Buy And Sell Stock V | [🔗](https://leetcode.romitsagu.com/solutions/3892/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming |
 | 3897. Count Number Of Trapezoids II | [🔗](https://leetcode.romitsagu.com/solutions/3897/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Hash Table, Math, Geometry |
 | 3934. Coupon Code Validator | [🔗](https://leetcode.romitsagu.com/solutions/3934/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, String, Sorting |
+| 3980. Best Time To Buy And Sell Stock Using Strategy | [🔗](https://leetcode.romitsagu.com/solutions/3980/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Sliding Window, Prefix Sum |
