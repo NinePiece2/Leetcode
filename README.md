@@ -455,6 +455,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 965. Unique Email Addresses | [🔗](https://leetcode.romitsagu.com/solutions/965/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, String |
 | 967. Minimum Falling Path Sum | [🔗](https://leetcode.romitsagu.com/solutions/967/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming, Matrix |
 | 981. Delete Columns To Make Sorted | [🔗](https://leetcode.romitsagu.com/solutions/981/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, String |
+| 992. Delete Columns To Make Sorted II | [🔗](https://leetcode.romitsagu.com/solutions/992/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, String, Greedy |
 | 1006. Vowel Spellchecker | [🔗](https://leetcode.romitsagu.com/solutions/1006/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, String |
 | 1013. Fibonacci Number | [🔗](https://leetcode.romitsagu.com/solutions/1013/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Dynamic Programming, Recursion, Memoization |
 | 1018. Largest Perimeter Triangle | [🔗](https://leetcode.romitsagu.com/solutions/1018/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Math, Greedy, Sorting |
