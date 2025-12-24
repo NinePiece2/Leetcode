@@ -573,6 +573,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 3279. Alice And Bob Playing Flower Game | [🔗](https://leetcode.romitsagu.com/solutions/3279/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math |
 | 3305. Count Prefix And Suffix Pairs II | [🔗](https://leetcode.romitsagu.com/solutions/3305/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, String, Trie, Rolling Hash, String Matching, Hash Function |
 | 3329. Find The Length Of The Longest Common Prefix | [🔗](https://leetcode.romitsagu.com/solutions/3329/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, String, Trie |
+| 3334. Apple Redistribution Into Boxes | [🔗](https://leetcode.romitsagu.com/solutions/3334/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Greedy, Sorting |
 | 3335. Minimum Operations To Write The Letter Y On A Grid | [🔗](https://leetcode.romitsagu.com/solutions/3335/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Matrix, Counting |
 | 3336. Water Bottles II | [🔗](https://leetcode.romitsagu.com/solutions/3336/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Simulation |
 | 3374. Count Alternating Subarrays | [🔗](https://leetcode.romitsagu.com/solutions/3374/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Math |
