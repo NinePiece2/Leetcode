@@ -576,6 +576,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 3334. Apple Redistribution Into Boxes | [🔗](https://leetcode.romitsagu.com/solutions/3334/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Greedy, Sorting |
 | 3335. Minimum Operations To Write The Letter Y On A Grid | [🔗](https://leetcode.romitsagu.com/solutions/3335/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Matrix, Counting |
 | 3336. Water Bottles II | [🔗](https://leetcode.romitsagu.com/solutions/3336/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Simulation |
+| 3351. Maximize Happiness Of Selected Children | [🔗](https://leetcode.romitsagu.com/solutions/3351/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Greedy, Sorting |
 | 3374. Count Alternating Subarrays | [🔗](https://leetcode.romitsagu.com/solutions/3374/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Math |
 | 3383. Taking Maximum Energy From The Mystic Dungeon | [🔗](https://leetcode.romitsagu.com/solutions/3383/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Prefix Sum |
 | 3435. Block Placement Queries | [🔗](https://leetcode.romitsagu.com/solutions/3435/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Binary Indexed Tree, Segment Tree |
