@@ -552,6 +552,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 2497. Maximum Matching Of Players With Trainers | [🔗](https://leetcode.romitsagu.com/solutions/2497/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Two Pointers, Greedy, Sorting |
 | 2521. Paths In Matrix Whose Sum Is Divisible By K | [🔗](https://leetcode.romitsagu.com/solutions/2521/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Dynamic Programming, Matrix |
 | 2529. Range Product Queries Of Powers | [🔗](https://leetcode.romitsagu.com/solutions/2529/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Bit Manipulation, Prefix Sum |
+| 2576. Minimum Penalty For A Shop | [🔗](https://leetcode.romitsagu.com/solutions/2576/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Prefix Sum |
 | 2618. Maximize The Minimum Powered City | [🔗](https://leetcode.romitsagu.com/solutions/2618/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Greedy, Queue, Sliding Window, Prefix Sum |
 | 2625. Increment Submatrices By One | [🔗](https://leetcode.romitsagu.com/solutions/2625/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Matrix, Prefix Sum |
 | 2661. Smallest Missing Non Negative Integer After Operations | [🔗](https://leetcode.romitsagu.com/solutions/2661/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Math, Greedy |
