@@ -4,22 +4,30 @@
 
 /* Typography and General Styling */
 .md-typeset {
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   line-height: 1.6;
   color: var(--md-default-fg-color);
 }
 
+.md-nav.md-nav--primary.md-nav--integrated{
+  padding-bottom: 10px;
+}
+
+.md-source__repository{
+  font-size: 0.65rem;
+}
+
 .md-typeset h1 {
   font-weight: 700;
-  font-size: 2rem;
+  font-size: 1.5rem;
   margin-bottom: 1.5rem;
   color: var(--md-primary-fg-color);
 }
 
 .md-typeset h2 {
   font-weight: 600;
-  font-size: 1.5rem;
-  margin-top: 2rem;
+  font-size: 1rem;
+  margin-top: 1rem;
   margin-bottom: 1rem;
   border-bottom: 2px solid var(--md-primary-fg-color--light);
   padding-bottom: 0.5rem;
@@ -63,6 +71,7 @@
 }
 
 .md-nav__item .md-nav__link {
+  font-size: 0.6rem;;
   transition: all 0.2s ease;
   border-radius: 4px;
   margin: 2px 0;
@@ -96,6 +105,7 @@
 }
 
 .md-typeset table:not([class]) td {
+  font-size: 0.6rem;
   padding: 0.75rem 1rem;
   border-bottom: 1px solid var(--md-default-fg-color--lightest);
 }
@@ -318,4 +328,8 @@ button:focus {
 
 li.md-nav__item.md-nav__item--active{
     margin-top: 0.5rem
+}
+
+.md-footer__title.md-ellipsis{
+  font-size: 0.9rem;
 }
