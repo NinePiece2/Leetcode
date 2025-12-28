@@ -493,6 +493,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 1437. Minimum Insertion Steps To Make A String Palindrome | [🔗](https://leetcode.romitsagu.com/solutions/1437/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | String, Dynamic Programming |
 | 1440. Convert Integer To The Sum Of Two No Zero Integers | [🔗](https://leetcode.romitsagu.com/solutions/1440/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math |
 | 1448. Maximum 69 Number | [🔗](https://leetcode.romitsagu.com/solutions/1448/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Greedy |
+| 1476. Count Negative Numbers In A Sorted Matrix | [🔗](https://leetcode.romitsagu.com/solutions/1476/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Binary Search, Matrix |
 | 1509. Replace Employee Id With The Unique Identifier | [🔗](https://leetcode.romitsagu.com/solutions/1509/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 1548. Check If All 1s Are At Least Length K Places Away | [🔗](https://leetcode.romitsagu.com/solutions/1548/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array |
 | 1549. Longest Continuous Subarray With Absolute Diff Less Than Or Equal To Limit | [🔗](https://leetcode.romitsagu.com/solutions/1549/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Queue, Sliding Window, Heap (Priority Queue), Ordered Set, Monotonic Queue |
