@@ -398,6 +398,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 747. Min Cost Climbing Stairs | [🔗](https://leetcode.romitsagu.com/solutions/747/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Dynamic Programming |
 | 748. Largest Number At Least Twice Of Others | [🔗](https://leetcode.romitsagu.com/solutions/748/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Sorting |
 | 749. Shortest Completing Word | [🔗](https://leetcode.romitsagu.com/solutions/749/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, String |
+| 757. Pyramid Transition Matrix | [🔗](https://leetcode.romitsagu.com/solutions/757/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, String, Backtracking, Bit Manipulation |
 | 759. Set Intersection Size At Least Two | [🔗](https://leetcode.romitsagu.com/solutions/759/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Greedy, Sorting |
 | 767. Prime Number Of Set Bits In Binary Representation | [🔗](https://leetcode.romitsagu.com/solutions/767/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Bit Manipulation |
 | 774. Maximum Depth Of N Ary Tree | [🔗](https://leetcode.romitsagu.com/solutions/774/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Tree, Depth-First Search, Breadth-First Search |
