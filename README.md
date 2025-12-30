@@ -431,6 +431,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 861. Flipping An Image | [🔗](https://leetcode.romitsagu.com/solutions/861/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Two Pointers, Bit Manipulation, Matrix, Simulation |
 | 866. Rectangle Overlap | [🔗](https://leetcode.romitsagu.com/solutions/866/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Geometry |
 | 867. New 21 Game | [🔗](https://leetcode.romitsagu.com/solutions/867/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Dynamic Programming, Sliding Window, Probability and Statistics |
+| 870. Magic Squares In Grid | [🔗](https://leetcode.romitsagu.com/solutions/870/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Math, Matrix |
 | 874. Backspace String Compare | [🔗](https://leetcode.romitsagu.com/solutions/874/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Two Pointers, String, Stack, Simulation |
 | 879. Maximize Distance To Closest Person | [🔗](https://leetcode.romitsagu.com/solutions/879/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array |
 | 882. Peak Index In A Mountain Array | [🔗](https://leetcode.romitsagu.com/solutions/882/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search |
