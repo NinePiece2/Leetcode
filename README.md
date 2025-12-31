@@ -527,6 +527,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 2059. Unique Length 3 Palindromic Subsequences | [🔗](https://leetcode.romitsagu.com/solutions/2059/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, String, Bit Manipulation, Prefix Sum |
 | 2076. Sum Of Digits Of String After Convert | [🔗](https://leetcode.romitsagu.com/solutions/2076/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | String, Simulation |
 | 2096. Find The Longest Valid Obstacle Course At Each Position | [🔗](https://leetcode.romitsagu.com/solutions/2096/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Binary Indexed Tree |
+| 2101. Last Day Where You Can Still Cross | [🔗](https://leetcode.romitsagu.com/solutions/2101/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Matrix |
 | 2102. Find The Middle Index In Array | [🔗](https://leetcode.romitsagu.com/solutions/2102/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Prefix Sum |
 | 2132. Convert 1d Array Into 2d Array | [🔗](https://leetcode.romitsagu.com/solutions/2132/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Matrix, Simulation |
 | 2137. Final Value Of Variable After Performing Operations | [🔗](https://leetcode.romitsagu.com/solutions/2137/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, String, Simulation |
