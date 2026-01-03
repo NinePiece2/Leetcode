@@ -498,6 +498,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 1448. Maximum 69 Number | [🔗](https://leetcode.romitsagu.com/solutions/1448/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Greedy |
 | 1476. Count Negative Numbers In A Sorted Matrix | [🔗](https://leetcode.romitsagu.com/solutions/1476/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Binary Search, Matrix |
 | 1509. Replace Employee Id With The Unique Identifier | [🔗](https://leetcode.romitsagu.com/solutions/1509/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
+| 1527. Number Of Ways To Paint N 3 Grid | [🔗](https://leetcode.romitsagu.com/solutions/1527/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Dynamic Programming |
 | 1548. Check If All 1s Are At Least Length K Places Away | [🔗](https://leetcode.romitsagu.com/solutions/1548/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array |
 | 1549. Longest Continuous Subarray With Absolute Diff Less Than Or Equal To Limit | [🔗](https://leetcode.romitsagu.com/solutions/1549/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Queue, Sliding Window, Heap (Priority Queue), Ordered Set, Monotonic Queue |
 | 1582. Design Browser History | [🔗](https://leetcode.romitsagu.com/solutions/1582/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Linked List, Stack, Design, Doubly-Linked List, Data Stream |
