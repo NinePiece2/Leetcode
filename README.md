@@ -470,6 +470,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 1087. Longest Arithmetic Subsequence | [🔗](https://leetcode.romitsagu.com/solutions/1087/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Binary Search, Dynamic Programming |
 | 1105. Uncrossed Lines | [🔗](https://leetcode.romitsagu.com/solutions/1105/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming |
 | 1111. Minimum Score Triangulation Of Polygon | [🔗](https://leetcode.romitsagu.com/solutions/1111/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Dynamic Programming |
+| 1116. Maximum Level Sum Of A Binary Tree | [🔗](https://leetcode.romitsagu.com/solutions/1116/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 1135. Customers Who Bought All Products | [🔗](https://leetcode.romitsagu.com/solutions/1135/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Database |
 | 1153. Product Sales Analysis I | [🔗](https://leetcode.romitsagu.com/solutions/1153/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 1179. Game Play Analysis I | [🔗](https://leetcode.romitsagu.com/solutions/1179/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
