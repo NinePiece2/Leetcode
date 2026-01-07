@@ -498,6 +498,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 1437. Minimum Insertion Steps To Make A String Palindrome | [🔗](https://leetcode.romitsagu.com/solutions/1437/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | String, Dynamic Programming |
 | 1440. Convert Integer To The Sum Of Two No Zero Integers | [🔗](https://leetcode.romitsagu.com/solutions/1440/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math |
 | 1448. Maximum 69 Number | [🔗](https://leetcode.romitsagu.com/solutions/1448/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Greedy |
+| 1465. Maximum Product Of Splitted Binary Tree | [🔗](https://leetcode.romitsagu.com/solutions/1465/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Tree, Depth-First Search, Binary Tree |
 | 1476. Count Negative Numbers In A Sorted Matrix | [🔗](https://leetcode.romitsagu.com/solutions/1476/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Binary Search, Matrix |
 | 1509. Replace Employee Id With The Unique Identifier | [🔗](https://leetcode.romitsagu.com/solutions/1509/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 1527. Number Of Ways To Paint N 3 Grid | [🔗](https://leetcode.romitsagu.com/solutions/1527/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Dynamic Programming |
