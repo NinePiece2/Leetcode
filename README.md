@@ -126,6 +126,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 90. Subsets II | [🔗](https://leetcode.romitsagu.com/solutions/90/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Backtracking, Bit Manipulation |
 | 91. Decode Ways | [🔗](https://leetcode.romitsagu.com/solutions/91/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Dynamic Programming |
 | 92. Reverse Linked List II | [🔗](https://leetcode.romitsagu.com/solutions/92/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Linked List |
+| 93. Restore Ip Addresses | [🔗](https://leetcode.romitsagu.com/solutions/93/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Backtracking |
 | 94. Binary Tree Inorder Traversal | [🔗](https://leetcode.romitsagu.com/solutions/94/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Stack, Tree, Depth-First Search, Binary Tree |
 | 96. Unique Binary Search Trees | [🔗](https://leetcode.romitsagu.com/solutions/96/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Dynamic Programming, Tree, Binary Search Tree, Binary Tree |
 | 97. Interleaving String | [🔗](https://leetcode.romitsagu.com/solutions/97/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Dynamic Programming |
