@@ -279,6 +279,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 387. First Unique Character In A String | [🔗](https://leetcode.romitsagu.com/solutions/387/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Hash Table, String, Queue, Counting |
 | 389. Find The Difference | [🔗](https://leetcode.romitsagu.com/solutions/389/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Hash Table, String, Bit Manipulation, Sorting |
 | 392. Is Subsequence | [🔗](https://leetcode.romitsagu.com/solutions/392/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Two Pointers, String, Dynamic Programming |
+| 394. Decode String | [🔗](https://leetcode.romitsagu.com/solutions/394/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Stack, Recursion |
 | 396. Rotate Function | [🔗](https://leetcode.romitsagu.com/solutions/396/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Math, Dynamic Programming |
 | 397. Integer Replacement | [🔗](https://leetcode.romitsagu.com/solutions/397/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Dynamic Programming, Greedy, Bit Manipulation, Memoization |
 | 400. Nth Digit | [🔗](https://leetcode.romitsagu.com/solutions/400/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Math, Binary Search |
