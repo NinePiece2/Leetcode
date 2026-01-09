@@ -439,6 +439,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 882. Peak Index In A Mountain Array | [🔗](https://leetcode.romitsagu.com/solutions/882/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search |
 | 889. Buddy Strings | [🔗](https://leetcode.romitsagu.com/solutions/889/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Hash Table, String |
 | 890. Lemonade Change | [🔗](https://leetcode.romitsagu.com/solutions/890/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Greedy |
+| 896. Smallest Subtree With All The Deepest Nodes | [🔗](https://leetcode.romitsagu.com/solutions/896/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 898. Transpose Matrix | [🔗](https://leetcode.romitsagu.com/solutions/898/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Matrix, Simulation |
 | 899. Binary Gap | [🔗](https://leetcode.romitsagu.com/solutions/899/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Bit Manipulation |
 | 900. Reordered Power Of 2 | [🔗](https://leetcode.romitsagu.com/solutions/900/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Math, Sorting, Counting, Enumeration |
