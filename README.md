@@ -623,6 +623,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 3733. Length Of Longest V Shaped Diagonal Segment | [🔗](https://leetcode.romitsagu.com/solutions/3733/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Dynamic Programming, Memoization, Matrix |
 | 3744. Minimum Operations To Make Array Elements Zero | [🔗](https://leetcode.romitsagu.com/solutions/3744/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Math, Bit Manipulation |
 | 3748. Sort Matrix By Diagonals | [🔗](https://leetcode.romitsagu.com/solutions/3748/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Sorting, Matrix |
+| 3763. Separate Squares I | [🔗](https://leetcode.romitsagu.com/solutions/3763/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search |
 | 3768. Check If Digits Are Equal In String After Operations I | [🔗](https://leetcode.romitsagu.com/solutions/3768/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, String, Simulation, Combinatorics, Number Theory |
 | 3790. Fruits Into Baskets II | [🔗](https://leetcode.romitsagu.com/solutions/3790/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Binary Search, Segment Tree, Simulation, Ordered Set |
 | 3791. Fruits Into Baskets III | [🔗](https://leetcode.romitsagu.com/solutions/3791/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Segment Tree, Ordered Set |
