@@ -471,6 +471,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 1013. Fibonacci Number | [🔗](https://leetcode.romitsagu.com/solutions/1013/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Dynamic Programming, Recursion, Memoization |
 | 1018. Largest Perimeter Triangle | [🔗](https://leetcode.romitsagu.com/solutions/1018/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Math, Greedy, Sorting |
 | 1019. Squares Of A Sorted Array | [🔗](https://leetcode.romitsagu.com/solutions/1019/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Two Pointers, Sorting |
+| 1036. Rotting Oranges | [🔗](https://leetcode.romitsagu.com/solutions/1036/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Breadth-First Search, Matrix |
 | 1046. Max Consecutive Ones III | [🔗](https://leetcode.romitsagu.com/solutions/1046/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Sliding Window, Prefix Sum |
 | 1054. Complement Of Base 10 Integer | [🔗](https://leetcode.romitsagu.com/solutions/1054/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Bit Manipulation |
 | 1064. Smallest Integer Divisible By K | [🔗](https://leetcode.romitsagu.com/solutions/1064/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Math |
