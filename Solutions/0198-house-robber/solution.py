@@ -1,6 +1,6 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        f = g = 0
+        skip = rob = 0
         for i in nums:
-            f, g = max(f, g), f + i
-        return max(f, g)
+            skip, rob = max(skip, rob), skip + i
+        return max(skip, rob)
