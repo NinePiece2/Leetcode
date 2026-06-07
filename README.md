@@ -471,6 +471,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 1013. Fibonacci Number | [🔗](https://leetcode.romitsagu.com/solutions/1013/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Dynamic Programming, Recursion, Memoization |
 | 1018. Largest Perimeter Triangle | [🔗](https://leetcode.romitsagu.com/solutions/1018/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Math, Greedy, Sorting |
 | 1019. Squares Of A Sorted Array | [🔗](https://leetcode.romitsagu.com/solutions/1019/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Two Pointers, Sorting |
+| 1046. Max Consecutive Ones III | [🔗](https://leetcode.romitsagu.com/solutions/1046/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Sliding Window, Prefix Sum |
 | 1054. Complement Of Base 10 Integer | [🔗](https://leetcode.romitsagu.com/solutions/1054/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Bit Manipulation |
 | 1064. Smallest Integer Divisible By K | [🔗](https://leetcode.romitsagu.com/solutions/1064/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Math |
 | 1071. Binary Prefix Divisible By 5 | [🔗](https://leetcode.romitsagu.com/solutions/1071/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Bit Manipulation |
@@ -482,6 +483,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 1153. Product Sales Analysis I | [🔗](https://leetcode.romitsagu.com/solutions/1153/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 1179. Game Play Analysis I | [🔗](https://leetcode.romitsagu.com/solutions/1179/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 1182. Game Play Analysis IV | [🔗](https://leetcode.romitsagu.com/solutions/1182/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Database |
+| 1218. Lowest Common Ancestor Of Deepest Leaves | [🔗](https://leetcode.romitsagu.com/solutions/1218/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 1236. N Th Tribonacci Number | [🔗](https://leetcode.romitsagu.com/solutions/1236/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Dynamic Programming, Memoization |
 | 1245. User Activity For The Past 30 Days I | [🔗](https://leetcode.romitsagu.com/solutions/1245/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 1250. Longest Common Subsequence | [🔗](https://leetcode.romitsagu.com/solutions/1250/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | String, Dynamic Programming |
