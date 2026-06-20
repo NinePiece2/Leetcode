@@ -3,13 +3,11 @@ class Solution:
         min_price = float('inf')
         best = 0
 
-        for day_price in prices:
-            if min_price < day_price:
-                profit = day_price - min_price
-                if profit > best:
-                    best = profit
-                    
+        for price in prices:
+            if min_price < price:
+                proft = price - min_price
+                best = max(best, proft)
             else:
-                min_price = day_price
+                min_price = price
         
         return best
