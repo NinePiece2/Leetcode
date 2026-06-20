@@ -1,10 +1,10 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        done = {}
+        checked = {}
 
-        for i, x in enumerate(nums):
-            search_val = target - x
-            if search_val in done:
-                return done[search_val], i
+        for i, val in enumerate(nums):
+            search = target - val
+            if search in checked:
+                return i, checked[search]
 
-            done[x] = i
+            checked[val] = i
