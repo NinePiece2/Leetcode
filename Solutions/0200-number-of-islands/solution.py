@@ -9,16 +9,15 @@ class Solution:
                 return
             
             grid[r][c] = '0'
-            dfs(r + 1, c)
             dfs(r - 1, c)
-            dfs(r, c + 1)
+            dfs(r + 1, c)
             dfs(r, c - 1)
+            dfs(r, c + 1)
 
         islands = 0
         for i in range(rows):
             for j in range(cols):
                 if grid[i][j] == '1':
-                    islands += 1
                     dfs(i, j)
-        
+                    islands += 1
         return islands
