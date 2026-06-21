@@ -15,7 +15,7 @@ class Solution:
 
         result = 0
         while current < len(s) and s[current].isdigit():
-            result = result * 10 + int(s[current])
+            result = result * 10 + (ord(s[current]) - ord('0'))
             current += 1
         result *= sign
 
