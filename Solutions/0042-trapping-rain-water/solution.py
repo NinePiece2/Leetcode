@@ -1,7 +1,7 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
         stack = []
-        trapped_water = 0
+        trapped = 0
 
         for i, h in enumerate(height):
             while stack and h >= height[stack[-1]]:
@@ -10,9 +10,9 @@ class Solution:
                     break
                 left = stack[-1]
                 width = i - left - 1
-
-                height_check = min(height[left], h) - height[bottom]
-                trapped_water += width * height_check
+                
+                min_hight = min(h, height[left]) - height[bottom]
+                trapped += width * min_hight
             stack.append(i)
         
-        return trapped_water
+        return trapped
