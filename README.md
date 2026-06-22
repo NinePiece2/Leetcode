@@ -443,11 +443,13 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 882. Peak Index In A Mountain Array | [🔗](https://leetcode.romitsagu.com/solutions/882/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search |
 | 889. Buddy Strings | [🔗](https://leetcode.romitsagu.com/solutions/889/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Hash Table, String |
 | 890. Lemonade Change | [🔗](https://leetcode.romitsagu.com/solutions/890/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Greedy |
+| 893. All Nodes Distance K In Binary Tree | [🔗](https://leetcode.romitsagu.com/solutions/893/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 896. Smallest Subtree With All The Deepest Nodes | [🔗](https://leetcode.romitsagu.com/solutions/896/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 898. Transpose Matrix | [🔗](https://leetcode.romitsagu.com/solutions/898/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Matrix, Simulation |
 | 899. Binary Gap | [🔗](https://leetcode.romitsagu.com/solutions/899/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Bit Manipulation |
 | 900. Reordered Power Of 2 | [🔗](https://leetcode.romitsagu.com/solutions/900/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Math, Sorting, Counting, Enumeration |
 | 904. Leaf Similar Trees | [🔗](https://leetcode.romitsagu.com/solutions/904/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Tree, Depth-First Search, Binary Tree |
+| 907. Koko Eating Bananas | [🔗](https://leetcode.romitsagu.com/solutions/907/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search |
 | 908. Middle Of The Linked List | [🔗](https://leetcode.romitsagu.com/solutions/908/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Linked List, Two Pointers |
 | 919. Projection Area Of 3d Shapes | [🔗](https://leetcode.romitsagu.com/solutions/919/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Math, Geometry, Matrix |
 | 920. Uncommon Words From Two Sentences | [🔗](https://leetcode.romitsagu.com/solutions/920/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Hash Table, String, Counting |
@@ -491,6 +493,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 1258. Article Views I | [🔗](https://leetcode.romitsagu.com/solutions/1258/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Database |
 | 1264. Maximum Number Of Words You Can Type | [🔗](https://leetcode.romitsagu.com/solutions/1264/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Hash Table, String |
 | 1284. Four Divisors | [🔗](https://leetcode.romitsagu.com/solutions/1284/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Math |
+| 1300. Critical Connections In A Network | [🔗](https://leetcode.romitsagu.com/solutions/1300/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Depth-First Search, Graph Theory, Biconnected Component |
 | 1330. Longest Arithmetic Subsequence Of Given Difference | [🔗](https://leetcode.romitsagu.com/solutions/1330/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Dynamic Programming |
 | 1353. Find Resultant Array After Removing Anagrams | [🔗](https://leetcode.romitsagu.com/solutions/1353/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Hash Table, String, Sorting |
 | 1364. Tuple With Same Product | [🔗](https://leetcode.romitsagu.com/solutions/1364/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Hash Table, Counting |
@@ -627,6 +630,7 @@ If you want to use this project follow the steps [here](https://github.com/NineP
 | 3676. Smallest Number With All Set Bits | [🔗](https://leetcode.romitsagu.com/solutions/3676/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Math, Bit Manipulation |
 | 3678. Design Task Manager | [🔗](https://leetcode.romitsagu.com/solutions/3678/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Hash Table, Design, Heap (Priority Queue), Ordered Set |
 | 3704. Count Partitions With Even Sum Difference | [🔗](https://leetcode.romitsagu.com/solutions/3704/) | ![Easy](https://img.shields.io/badge/Difficulty-Easy-4c1.svg) | Array, Math, Prefix Sum |
+| 3715. Maximum Coins From K Consecutive Bags | [🔗](https://leetcode.romitsagu.com/solutions/3715/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum |
 | 3721. Count Mentions Per User | [🔗](https://leetcode.romitsagu.com/solutions/3721/) | ![Medium](https://img.shields.io/badge/Difficulty-Medium-f9c851.svg) | Array, Math, Sorting, Simulation |
 | 3733. Length Of Longest V Shaped Diagonal Segment | [🔗](https://leetcode.romitsagu.com/solutions/3733/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Dynamic Programming, Memoization, Matrix |
 | 3744. Minimum Operations To Make Array Elements Zero | [🔗](https://leetcode.romitsagu.com/solutions/3744/) | ![Hard](https://img.shields.io/badge/Difficulty-Hard-e05d44.svg) | Array, Math, Bit Manipulation |
